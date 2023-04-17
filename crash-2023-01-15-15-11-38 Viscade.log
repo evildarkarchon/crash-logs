@@ -271,7 +271,7 @@ STACK:
 		Flags: 0x00000009
 		Form ID: 0x0001F673
 		Form Type: 44
-		Full Name: "àuL×"
+		Full Name: "uL"
 	[RSP+2C8 ] 0x3F800000         (size_t)
 	[RSP+2D0 ] 0xDA20B0E990       (void*)
 	[RSP+2D8 ] 0x0                (size_t)
@@ -284,7 +284,7 @@ STACK:
 		Flags: 0x00000009
 		Form ID: 0x0001F673
 		Form Type: 44
-		Full Name: "àuL×"
+		Full Name: "uL"
 	[RSP+308 ] 0xDA20B0E980       (char*) "^"
 	[RSP+310 ] 0x2D74C7EAB88      (void*)
 	[RSP+318 ] 0x1                (size_t)

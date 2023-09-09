@@ -833,22 +833,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     XDI.esm
-	[ 9]     HUDFramework.esm
-	[ A]     WorkshopFramework.esm
-	[ B]     NoraSpouse.esm
-	[ C]     MutantMenagerie.esm
-	[ D]     MutantMenagerie_FarHarbor.esm
-	[ E]     SS2.esm
-	[ F]     SS2_XPAC_Chapter2.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     XDI.esm
+	[09]     HUDFramework.esm
+	[0A]     WorkshopFramework.esm
+	[0B]     NoraSpouse.esm
+	[0C]     MutantMenagerie.esm
+	[0D]     MutantMenagerie_FarHarbor.esm
+	[0E]     SS2.esm
+	[0F]     SS2_XPAC_Chapter2.esm
 	[10]     AnubisRace.esp
 	[11]     MutantMenagerie_NukaWorld.esm
 	[12]     ProjectZeta.esm
@@ -935,138 +935,138 @@ PLUGINS:
 	[63]     AER15.esp
 	[64]     PigAAMC96.esp
 	[65]     ellen.esp
-	[FE:  0] ccfsvfo4001-modularmilitarybackpack.esl
-	[FE:  1] ccrzrfo4002-disintegrate.esl
-	[FE:  2] ccacxfo4001-vsuit.esl
-	[FE:  3] BakaFramework.esm
-	[FE:  4] LegendaryDropBugfix.esl
-	[FE:  5] PPF.esm
-	[FE:  6] AORobcoReconScope.esl
-	[FE:  7] LIF.esl
-	[FE:  8] Munitions - An Ammo Expansion.esl
-	[FE:  9] Skb_MachinegunsRebirth.esl
-	[FE:  A] Zapgun.esl
-	[FE:  B] CROSS_Wasteland_Ronin.esl
-	[FE:  C] HeavySelectShotgun.esl
-	[FE:  D] AnimatedJewelry_ATG.esl
-	[FE:  E] NCRArmourPack.esl
-	[FE:  F] Servitron Vertibird Patch.esl
-	[FE: 10] Servitron WA Vanilla.esl
-	[FE: 11] Servitron WA Nuka World.esl
-	[FE: 12] Servitron WA Far Harbor.esl
-	[FE: 13] Servitron WA Automatron.esl
-	[FE: 14] LMNSOverlays.esl
-	[FE: 15] T6M_HMAR-RE.esl
-	[FE: 16] HiPolyFacesCompanionPlugin.esl
-	[FE: 17] Dual44.esl
-	[FE: 18] Glock86.esl
-	[FE: 19] UltracitePA.esl
-	[FE: 1A] CAPA.esl
-	[FE: 1B] SS2WorkshopHUDOverride.esl
-	[FE: 1C] FaceLight.esl
-	[FE: 1D] Skb-MinigunsRebirth.esl
-	[FE: 1E] T65PA.esl
-	[FE: 1F] SelectPowerArmor.esl
-	[FE: 20] EnclavePack.esl
-	[FE: 21] RedShiftPowerArmor.esl
-	[FE: 22] SSTMinutemanWatchtowers.esl
-	[FE: 23] AAFix_ProjectMojave.esl
-	[FE: 24] dpjetandxcell.esl
-	[FE: 25] Munitions - Vanilla Ammo Addon.esl
-	[FE: 26] FOVSlider.esl
-	[FE: 27] Intro Deathclaw is a runt.esl
-	[FE: 28] BiFurious - ESL.esl
-	[FE: 29] FOLON_Lewis.esl
-	[FE: 2A] EquippableMechArm.esl
-	[FE: 2B] UniquePlayerLM.esl
-	[FE: 2C] Munitions - New Vegas Ammo Names.esl
-	[FE: 2D] 3dscopes-nightvision.esl
-	[FE: 2E] CWRaiders.esl
-	[FE: 2F] ClassicSuperSledge.esl
-	[FE: 30] Dank_ECO.esp
-	[FE: 31] Dank_ECO-INNR.esp
-	[FE: 32] Dank_ECO_DLCCoast.esp
-	[FE: 33] Dank_ECO_DLCNukaWorld.esp
-	[FE: 34] Dank_ECO_DLCRobot.esp
-	[FE: 35] Dank_ECO_DisablePlacedItems.esp
-	[FE: 36] Dank_ECO-LEO.esp
-	[FE: 37] Bullet in the Chamber.esp
-	[FE: 38] Wetness Shader Fix.esp
-	[FE: 39] No Aggro Impact Landing.esp
-	[FE: 3A] Fortune Finder 4 Fix.esp
-	[FE: 3B] RAW INPUT.esp
-	[FE: 3C] M8rDisablePipboyEffects.esp
-	[FE: 3D] Some_Assembly_Required_Repair_Kits.esp
-	[FE: 3E] SS2_XDI Patch.esp
-	[FE: 3F] SS2_MagnussonTerminalFix.esp
-	[FE: 40] CROSS_GoreCrits_FarHarborPatch.esp
-	[FE: 41] CROSS_ReducedLaserSmoke.esp
-	[FE: 42] Keep Radiants In Commonwealth.esp
-	[FE: 43] Clarity.esp
-	[FE: 44] Thrive Redone.esp
-	[FE: 45] Ownership Fixes.esp
-	[FE: 46] TrueInvisibility.esp
-	[FE: 47] TI - AMELIA.esp
-	[FE: 48] BetterCoastalWaves.esp
-	[FE: 49] LMBTOverlays.esp
-	[FE: 4A] Wattz Laser Gun - Unofficial Update.esp
-	[FE: 4B] CagebreakerPowerArmor.esp
-	[FE: 4C] Power Armor to the People.esp
-	[FE: 4D] LOST Audio Tweaks.esp
-	[FE: 4E] ImmersiveAnimationFramework.esp
-	[FE: 4F] Dank_LEO.esp
-	[FE: 50] Dank_LEO-Automatron.esp
-	[FE: 51] Dank_LEO_DLCCoast.esp
-	[FE: 52] Dank_LEO_DLCNukaWorld.esp
-	[FE: 53] Dank_LEO-LME.esp
-	[FE: 54] Dank_LEO-MLM.esp
-	[FE: 55] Dank_ArmorOverrides.esp
-	[FE: 56] Dank_ArmorOverrides_DLCCoast.esp
-	[FE: 57] Dank_ArmorOverrides_DLCNukaWorld.esp
-	[FE: 58] Dank_ArmorOverrides_DLCRobot.esp
-	[FE: 59] Dank_INNRoverride.esp
-	[FE: 5A] CCO_merged.esp
-	[FE: 5B] F4llout76 - Mutations.esp
-	[FE: 5C] VUWR.esp
-	[FE: 5D] X01Light.esp
-	[FE: 5E] WulfRaiderAccessories.esp
-	[FE: 5F] M1GarandSkinPacksVol1ABoT.esp
-	[FE: 60] SVT40SkinPacksAllABoT.esp
-	[FE: 61] CROSS_InstituteExpeditionarySuit.esp
-	[FE: 62] SynthPA.esp
-	[FE: 63] ScreamingEagleCamoSkins.esp
-	[FE: 64] ScreamingEagleMainFactionSkins.esp
-	[FE: 65] ScreamingEagleSkinPack1.esp
-	[FE: 66] 4estGimp - WulfRaiderAccessories Edit.esp
-	[FE: 67] MONSTERaider - Female Synth Skins.esp
-	[FE: 68] HiPolyFaces.esp
-	[FE: 69] CBBE.esp
-	[FE: 6A] A-Body.esp
-	[FE: 6B] AlysrazaOverlays.esp
-	[FE: 6C] RutahTattooPack_FO4.esp
-	[FE: 6D] Toxic Raider Armour.esp
-	[FE: 6E] CROSS_MojaveManhunter.esp
-	[FE: 6F] 9mm Pistol - Unofficial Update.esp
-	[FE: 70] Elzee Jolly Item Sounds.esp
-	[FE: 71] Interview.esp
-	[FE: 72] MaxwellsWorl XDI Patch.esp
-	[FE: 73] LooksMenu.esp
-	[FE: 74] MeanMachineEyes.esp
-	[FE: 75] Lots More Male Hairstyles.esp
-	[FE: 76] Lots More Facial Hair.esp
-	[FE: 77] MiscHairstyle.esp
-	[FE: 78] ExtendedHairColors.esp
-	[FE: 79] BetterSettlersMortalPack.esp
-	[FE: 7A] BetterSettlersNoLollygagging.esp
-	[FE: 7B] wasterArmor.esp
-	[FE: 7C] Nexus_PMC.esp
-	[FE: 7D] PMC_extended.esp
-	[FE: 7E] KKYpampas.esp
-	[FE: 7F] TI - ChineseStealthSuit.esp
-	[FE: 80] HandmadeAntiMaterielRifle.esp
-	[FE: 81] Power Armor to the People - Ultracite Power Armor.esp
-	[FE: 82] Power Armor to the People - T-65.esp
-	[FE: 83] DCRE.esp
-	[FE: 84] G11.esp
-	[FE: 85] G11 - Unofficial Update.esp
-	[FE: 86] Power Armor to the People - Midwest Power Armor Evolution.esp
+	[FE:000] ccfsvfo4001-modularmilitarybackpack.esl
+	[FE:001] ccrzrfo4002-disintegrate.esl
+	[FE:002] ccacxfo4001-vsuit.esl
+	[FE:003] BakaFramework.esm
+	[FE:004] LegendaryDropBugfix.esl
+	[FE:005] PPF.esm
+	[FE:006] AORobcoReconScope.esl
+	[FE:007] LIF.esl
+	[FE:008] Munitions - An Ammo Expansion.esl
+	[FE:009] Skb_MachinegunsRebirth.esl
+	[FE:00A] Zapgun.esl
+	[FE:00B] CROSS_Wasteland_Ronin.esl
+	[FE:00C] HeavySelectShotgun.esl
+	[FE:00D] AnimatedJewelry_ATG.esl
+	[FE:00E] NCRArmourPack.esl
+	[FE:00F] Servitron Vertibird Patch.esl
+	[FE:010] Servitron WA Vanilla.esl
+	[FE:011] Servitron WA Nuka World.esl
+	[FE:012] Servitron WA Far Harbor.esl
+	[FE:013] Servitron WA Automatron.esl
+	[FE:014] LMNSOverlays.esl
+	[FE:015] T6M_HMAR-RE.esl
+	[FE:016] HiPolyFacesCompanionPlugin.esl
+	[FE:017] Dual44.esl
+	[FE:018] Glock86.esl
+	[FE:019] UltracitePA.esl
+	[FE:01A] CAPA.esl
+	[FE:01B] SS2WorkshopHUDOverride.esl
+	[FE:01C] FaceLight.esl
+	[FE:01D] Skb-MinigunsRebirth.esl
+	[FE:01E] T65PA.esl
+	[FE:01F] SelectPowerArmor.esl
+	[FE:020] EnclavePack.esl
+	[FE:021] RedShiftPowerArmor.esl
+	[FE:022] SSTMinutemanWatchtowers.esl
+	[FE:023] AAFix_ProjectMojave.esl
+	[FE:024] dpjetandxcell.esl
+	[FE:025] Munitions - Vanilla Ammo Addon.esl
+	[FE:026] FOVSlider.esl
+	[FE:027] Intro Deathclaw is a runt.esl
+	[FE:028] BiFurious - ESL.esl
+	[FE:029] FOLON_Lewis.esl
+	[FE:02A] EquippableMechArm.esl
+	[FE:02B] UniquePlayerLM.esl
+	[FE:02C] Munitions - New Vegas Ammo Names.esl
+	[FE:02D] 3dscopes-nightvision.esl
+	[FE:02E] CWRaiders.esl
+	[FE:02F] ClassicSuperSledge.esl
+	[FE:030] Dank_ECO.esp
+	[FE:031] Dank_ECO-INNR.esp
+	[FE:032] Dank_ECO_DLCCoast.esp
+	[FE:033] Dank_ECO_DLCNukaWorld.esp
+	[FE:034] Dank_ECO_DLCRobot.esp
+	[FE:035] Dank_ECO_DisablePlacedItems.esp
+	[FE:036] Dank_ECO-LEO.esp
+	[FE:037] Bullet in the Chamber.esp
+	[FE:038] Wetness Shader Fix.esp
+	[FE:039] No Aggro Impact Landing.esp
+	[FE:03A] Fortune Finder 4 Fix.esp
+	[FE:03B] RAW INPUT.esp
+	[FE:03C] M8rDisablePipboyEffects.esp
+	[FE:03D] Some_Assembly_Required_Repair_Kits.esp
+	[FE:03E] SS2_XDI Patch.esp
+	[FE:03F] SS2_MagnussonTerminalFix.esp
+	[FE:040] CROSS_GoreCrits_FarHarborPatch.esp
+	[FE:041] CROSS_ReducedLaserSmoke.esp
+	[FE:042] Keep Radiants In Commonwealth.esp
+	[FE:043] Clarity.esp
+	[FE:044] Thrive Redone.esp
+	[FE:045] Ownership Fixes.esp
+	[FE:046] TrueInvisibility.esp
+	[FE:047] TI - AMELIA.esp
+	[FE:048] BetterCoastalWaves.esp
+	[FE:049] LMBTOverlays.esp
+	[FE:04A] Wattz Laser Gun - Unofficial Update.esp
+	[FE:04B] CagebreakerPowerArmor.esp
+	[FE:04C] Power Armor to the People.esp
+	[FE:04D] LOST Audio Tweaks.esp
+	[FE:04E] ImmersiveAnimationFramework.esp
+	[FE:04F] Dank_LEO.esp
+	[FE:050] Dank_LEO-Automatron.esp
+	[FE:051] Dank_LEO_DLCCoast.esp
+	[FE:052] Dank_LEO_DLCNukaWorld.esp
+	[FE:053] Dank_LEO-LME.esp
+	[FE:054] Dank_LEO-MLM.esp
+	[FE:055] Dank_ArmorOverrides.esp
+	[FE:056] Dank_ArmorOverrides_DLCCoast.esp
+	[FE:057] Dank_ArmorOverrides_DLCNukaWorld.esp
+	[FE:058] Dank_ArmorOverrides_DLCRobot.esp
+	[FE:059] Dank_INNRoverride.esp
+	[FE:05A] CCO_merged.esp
+	[FE:05B] F4llout76 - Mutations.esp
+	[FE:05C] VUWR.esp
+	[FE:05D] X01Light.esp
+	[FE:05E] WulfRaiderAccessories.esp
+	[FE:05F] M1GarandSkinPacksVol1ABoT.esp
+	[FE:060] SVT40SkinPacksAllABoT.esp
+	[FE:061] CROSS_InstituteExpeditionarySuit.esp
+	[FE:062] SynthPA.esp
+	[FE:063] ScreamingEagleCamoSkins.esp
+	[FE:064] ScreamingEagleMainFactionSkins.esp
+	[FE:065] ScreamingEagleSkinPack1.esp
+	[FE:066] 4estGimp - WulfRaiderAccessories Edit.esp
+	[FE:067] MONSTERaider - Female Synth Skins.esp
+	[FE:068] HiPolyFaces.esp
+	[FE:069] CBBE.esp
+	[FE:06A] A-Body.esp
+	[FE:06B] AlysrazaOverlays.esp
+	[FE:06C] RutahTattooPack_FO4.esp
+	[FE:06D] Toxic Raider Armour.esp
+	[FE:06E] CROSS_MojaveManhunter.esp
+	[FE:06F] 9mm Pistol - Unofficial Update.esp
+	[FE:070] Elzee Jolly Item Sounds.esp
+	[FE:071] Interview.esp
+	[FE:072] MaxwellsWorl XDI Patch.esp
+	[FE:073] LooksMenu.esp
+	[FE:074] MeanMachineEyes.esp
+	[FE:075] Lots More Male Hairstyles.esp
+	[FE:076] Lots More Facial Hair.esp
+	[FE:077] MiscHairstyle.esp
+	[FE:078] ExtendedHairColors.esp
+	[FE:079] BetterSettlersMortalPack.esp
+	[FE:07A] BetterSettlersNoLollygagging.esp
+	[FE:07B] wasterArmor.esp
+	[FE:07C] Nexus_PMC.esp
+	[FE:07D] PMC_extended.esp
+	[FE:07E] KKYpampas.esp
+	[FE:07F] TI - ChineseStealthSuit.esp
+	[FE:080] HandmadeAntiMaterielRifle.esp
+	[FE:081] Power Armor to the People - Ultracite Power Armor.esp
+	[FE:082] Power Armor to the People - T-65.esp
+	[FE:083] DCRE.esp
+	[FE:084] G11.esp
+	[FE:085] G11 - Unofficial Update.esp
+	[FE:086] Power Armor to the People - Midwest Power Armor Evolution.esp

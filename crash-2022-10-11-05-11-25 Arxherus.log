@@ -552,7 +552,7 @@ PLUGINS:
 	[13]     SS2Extended.esp
 	[14]     SS2WastelandVenturers.esp
 	[15]     SS2_SIMPDDDD.esp
-	[16]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[16]     [SS20Addon] SimSettlements SuperStructures.esp
 	[17]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
 	[18]     SS2-Jampads2.esp
 	[19]     SS2_ruined_simsettlement_addonpack.esp
@@ -777,7 +777,7 @@ PLUGINS:
 	[FE:01D] NukaGirlNoHelmet.esl
 	[FE:01E] QuestTweaks-DLC04MS01.esl
 	[FE:01F] Rusty Face Fix.esl
-	[FE:020] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:020] [SS20Addon] BloodMoonRaiders.esp
 	[FE:021] SS2_XDI Patch.esp
 	[FE:022] SS2AOP_VaultTecTools.esp
 	[FE:023] StoryWealth-HunkeredDown.esp

@@ -2477,22 +2477,22 @@ F4SE PLUGINS:
 	place.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     unofficial fallout 4 patch.esp
-	[ 8]     ArmorKeywords.esm
-	[ 9]     hudframework.esm
-	[ A]     workshopframework.esm
-	[ B]     truestormsfo4.esm
-	[ C]     Penetration Framework.esp
-	[ D]     EBMD_AllInOne.esp
-	[ E]     weightless item mods.esp
-	[ F]     peterhicks upgrade to crafting.esp
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     unofficial fallout 4 patch.esp
+	[08]     ArmorKeywords.esm
+	[09]     hudframework.esm
+	[0A]     workshopframework.esm
+	[0B]     truestormsfo4.esm
+	[0C]     Penetration Framework.esp
+	[0D]     EBMD_AllInOne.esp
+	[0E]     weightless item mods.esp
+	[0F]     peterhicks upgrade to crafting.esp
 	[10]     clothingoverhaul.esp
 	[11]     hdreworkedprojectrevised.esp
 	[12]     subwayrunnernodynamic.esp
@@ -2644,20 +2644,20 @@ PLUGINS:
 	[A4]     solarpower.esp
 	[A5]     ncrrangersanctuarymod.esp
 	[A6]     e05 settlersupplies.esp
-	[FE:  0] ccgcafo4003-factionws03bos.esl
-	[FE:  1] ccgcafo4023-factionas12army.esl
-	[FE:  2] ccbgsfo4075-pipshroud.esl
-	[FE:  3] ccbgsfo4009-piporan.esl
-	[FE:  4] ccbgsfo4027-powerarmorskingreen.esl
-	[FE:  5] ccbgsfo4028-powerarmorskinorange.esl
-	[FE:  6] ccbgsfo4031-powerarmorskinred.esl
-	[FE:  7] ccbgsfo4118-ws_tunnelsnakes.esl
-	[FE:  8] ccbgsfo4112-ws_pickman.esl
-	[FE:  9] ccbgsfo4110-ws_enclave.esl
-	[FE:  A] ccbgsfo4103-as_tunnelsnakes.esl
-	[FE:  B] ccbgsfo4098-as_pickman.esl
-	[FE:  C] ccbgsfo4096-as_enclave.esl
-	[FE:  D] ccacxfo4001-vsuit.esl
-	[FE:  E] FurGloves.esl
-	[FE:  F] CROSS_BreakActionLaser.esp
-	[FE: 10] ODW - Winchester Model 1873.esp
+	[FE:000] ccgcafo4003-factionws03bos.esl
+	[FE:001] ccgcafo4023-factionas12army.esl
+	[FE:002] ccbgsfo4075-pipshroud.esl
+	[FE:003] ccbgsfo4009-piporan.esl
+	[FE:004] ccbgsfo4027-powerarmorskingreen.esl
+	[FE:005] ccbgsfo4028-powerarmorskinorange.esl
+	[FE:006] ccbgsfo4031-powerarmorskinred.esl
+	[FE:007] ccbgsfo4118-ws_tunnelsnakes.esl
+	[FE:008] ccbgsfo4112-ws_pickman.esl
+	[FE:009] ccbgsfo4110-ws_enclave.esl
+	[FE:00A] ccbgsfo4103-as_tunnelsnakes.esl
+	[FE:00B] ccbgsfo4098-as_pickman.esl
+	[FE:00C] ccbgsfo4096-as_enclave.esl
+	[FE:00D] ccacxfo4001-vsuit.esl
+	[FE:00E] FurGloves.esl
+	[FE:00F] CROSS_BreakActionLaser.esp
+	[FE:010] ODW - Winchester Model 1873.esp

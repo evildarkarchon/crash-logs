@@ -1282,22 +1282,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     WorkshopFramework.esm
-	[ 9]     ArmorKeywords.esm
-	[ A]     XDI.esm
-	[ B]     HUDFramework.esm
-	[ C]     BostonFPSFixAIO.esp
-	[ D]     PaladinBaileyRedRocket.esp
-	[ E]     RAW INPUT.esp
-	[ F]     spacefiddle_Follower-Stealth-Distance-Fixes.esp
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     WorkshopFramework.esm
+	[09]     ArmorKeywords.esm
+	[0A]     XDI.esm
+	[0B]     HUDFramework.esm
+	[0C]     BostonFPSFixAIO.esp
+	[0D]     PaladinBaileyRedRocket.esp
+	[0E]     RAW INPUT.esp
+	[0F]     spacefiddle_Follower-Stealth-Distance-Fixes.esp
 	[10]     LooksMenu Customization Compendium.esp
 	[11]     Merged Fixes.esp
 	[12]     CBBE.esp
@@ -1339,10 +1339,10 @@ PLUGINS:
 	[36]     SalvageBeacons.esp
 	[37]     UltraInteriorLighting.esp
 	[38]     Realistic_conversations.esp
-	[FE:  0] FATE Core - Fixes.esl
-	[FE:  1] Flicker Fixer.esp
-	[FE:  2] CROSS_BrotherhoodRecon.esp
-	[FE:  3] CROSS_InstituteExpeditionarySuit.esp
-	[FE:  4] FATE Module - Basketball Crash Fix.esp
-	[FE:  5] FATE Module - Less Combat Music.esp
-	[FE:  6] FATE Module - PA Helmet Normal Voice.esp
+	[FE:000] FATE Core - Fixes.esl
+	[FE:001] Flicker Fixer.esp
+	[FE:002] CROSS_BrotherhoodRecon.esp
+	[FE:003] CROSS_InstituteExpeditionarySuit.esp
+	[FE:004] FATE Module - Basketball Crash Fix.esp
+	[FE:005] FATE Module - Less Combat Music.esp
+	[FE:006] FATE Module - PA Helmet Normal Voice.esp

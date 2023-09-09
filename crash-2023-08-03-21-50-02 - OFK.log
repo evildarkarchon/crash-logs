@@ -1121,22 +1121,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     XDI.esm
-	[ 9]     WorkshopFramework.esm
-	[ A]     HUDFramework.esm
-	[ B]     ArmorKeywords.esm
-	[ C]     SouthOfTheSea.esm
-	[ D]     DCGuard_Overhaul.esp
-	[ E]     SS2.esm
-	[ F]     SS2_XPAC_Chapter2.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     XDI.esm
+	[09]     WorkshopFramework.esm
+	[0A]     HUDFramework.esm
+	[0B]     ArmorKeywords.esm
+	[0C]     SouthOfTheSea.esm
+	[0D]     DCGuard_Overhaul.esp
+	[0E]     SS2.esm
+	[0F]     SS2_XPAC_Chapter2.esm
 	[10]     CWPointLookoutFO4.esm
 	[11]     Darlene.esm
 	[12]     TacticalReload.esm
@@ -1214,7 +1214,7 @@ PLUGINS:
 	[5A]     0_Vault120.esp
 	[5B]     FO4 NPCs Travel.esp
 	[5C]     DX_Black_Widow.esp
-	[5D]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[5D]     [SS20Addon] SimSettlements SuperStructures.esp
 	[5E]     AtomicRadio.esp
 	[5F]     SS2-Jampads2.esp
 	[60]     SS2_ruined_simsettlement_addonpack.esp
@@ -1331,150 +1331,150 @@ PLUGINS:
 	[CF]     StartMeUpNukaWorldPatch.esp
 	[D0]     RED-StartMeUp.esp
 	[D1]     EnhancedLightsandFX.esp
-	[FE:  0] PPF.esm
-	[FE:  1] HiPolyFacesCompanionPlugin.esl
-	[FE:  2] cigarettecard.esl
-	[FE:  3] LIF.esl
-	[FE:  4] BlairResidence.esl
-	[FE:  5] T65PA.esl
-	[FE:  6] SettlementTidyBot.esl
-	[FE:  7] ClassicSuperSledge.esl
-	[FE:  8] DC Guard Variations.esl
-	[FE:  9] HellcatPA.esl
-	[FE:  A] HoloDisplay.esl
-	[FE:  B] IllumBillboardsAIO.esl
-	[FE:  C] NukaGirlNoHelmet.esl
-	[FE:  D] Natural Landscapes.esl
-	[FE:  E] Skb_MachinegunsRebirth.esl
-	[FE:  F] CWPointLookoutFO4Patch.esl
-	[FE: 10] PLExpressivePlayer.esl
-	[FE: 11] QuestTweaks-DLC04MS01.esl
-	[FE: 12] RadioactiveSignsAIO.esl
-	[FE: 13] RemingtonNewArmy.esl
-	[FE: 14] RemingtonNewArmy-GlowingMidwana.esl
-	[FE: 15] 3dscopes-nightvision.esl
-	[FE: 16] Munitions - An Ammo Expansion.esl
-	[FE: 17] Munitions - Vanilla Ammo Addon.esl
-	[FE: 18] Munitions - New Vegas Ammo Names.esl
-	[FE: 19] FO4ParticlePatch.esp
-	[FE: 1A] sarahRageArmor.esp
-	[FE: 1B] 3DNPC_FO4-Patch.esp
-	[FE: 1C] LootableCars-Exiguous.esp
-	[FE: 1D] SouthOfTheSea[Previs].esp
-	[FE: 1E] eXoKetarosLootableTreasures.esp
-	[FE: 1F] Dank_ArmorOverrides.esp
-	[FE: 20] 3DNPC-eXoPatch.esp
-	[FE: 21] The House - eXoPatch.esp
-	[FE: 22] eXofied Depravity - Fallons.esp
-	[FE: 23] the library - eXoPatch.esp
-	[FE: 24] DiamondCityExpansion-eXoPatch.esp
-	[FE: 25] Vault4-eXoPatch.esp
-	[FE: 26] Ownership Fixes.esp
-	[FE: 27] PLI_Roadside_Pines_Motel.esp
-	[FE: 28] MaxwellsWorl-eXoPatch.esp
-	[FE: 29] RotPP.esp
-	[FE: 2A] 3DNPC_FO4[Previsibines].esp
-	[FE: 2B] PLI_Dark_Hollow_Pond.esp
-	[FE: 2C] PLI_Unmarked_Raider_Camps_P1.esp
-	[FE: 2D] GunForHire-eXoPatch.esp
-	[FE: 2E] JamaicaPlainPathing.esp
-	[FE: 2F] IntGrievingRaider.esp
-	[FE: 30] RansackedRelay.esp
-	[FE: 31] IntWayneGorski.esp
-	[FE: 32] Dank_ECO.esp
-	[FE: 33] Dank_WOP-CombinedArms.esp
-	[FE: 34] FastTravelFromQuestHubs.esp
-	[FE: 35] PLI_HarbormasterHotel.esp
-	[FE: 36] ImmersiveDrumlinDiner-eXoPatch.esp
-	[FE: 37] CROSS_InstituteExpeditionarySuit.esp
-	[FE: 38] Service Rifle - Unofficial Update.esp
-	[FE: 39] PRP-SS2-Fixes-Ch2.esp
-	[FE: 3A] SS2_GunForHire_Patch.esp
-	[FE: 3B] SouthOfTheSea[PatchWZWildWasteland].esp
-	[FE: 3C] Miami Misadventures EP1 - eXoPatch.esp
-	[FE: 3D] OldTimeReligion-Legendary.esp
-	[FE: 3E] CagebreakerPowerArmor.esp
-	[FE: 3F] IntWayneGorski-Assistant.esp
-	[FE: 40] ss2c23dnpcpatch.esp
-	[FE: 41] eXoKetarosLootableTreasures-HunkeredDown.esp
-	[FE: 42] BullpupBozar.esp
-	[FE: 43] CoAPowerArmor.esp
-	[FE: 44] Artist Raider.esp
-	[FE: 45] DOOMThatGun.esp
-	[FE: 46] Backpacks of the Commonwealth - Sneak Fix.esp
-	[FE: 47] BasementLiving.esp
-	[FE: 48] eXofied Settlers.esp
-	[FE: 49] CCOCheekyCasualsCraftable.esp
-	[FE: 4A] CCOFoxyFactionsCraftable.esp
-	[FE: 4B] CCOSaucySettlersCraftable.esp
-	[FE: 4C] CCOVulgarVillainsCraftable.esp
-	[FE: 4D] CROSS_Blades.esp
-	[FE: 4E] CROSS_CoA.esp
-	[FE: 4F] CROSS_CourserStrigidae.esp
-	[FE: 50] Dank_ECO-INNR.esp
-	[FE: 51] Dank_INNRoverride.esp
-	[FE: 52] StartMeUpShaunDefaultAppearance.esp
-	[FE: 53] Dank_ECO_DLCCoast.esp
-	[FE: 54] Dank_ECO_DLCNukaWorld.esp
-	[FE: 55] Dank_ECO_DLCRobot.esp
-	[FE: 56] DCRE-FixRadio.esp
-	[FE: 57] DiamondCityExpansion-RedSeat.esp
-	[FE: 58] FGEP-Legendary.esp
-	[FE: 59] Gloomy Glass.esp
-	[FE: 5A] M8rDisablePipboyEffects.esp
-	[FE: 5B] eXoKetarosBoardGamesShelf.esp
-	[FE: 5C] eXoKetarosPostCardRack.esp
-	[FE: 5D] Fixed Gobo Effects.esp
-	[FE: 5E] GatlingLaserAmmoFix.esp
-	[FE: 5F] Graffity2ElectricBoogaloo-SMMPatch.esp
-	[FE: 60] IAF - Far Harbor & Nuka World.esp
-	[FE: 61] Nability - IAF A Diamond City Story Patch.esp
-	[FE: 62] Dank_ArmorOverrides_DLCCoast.esp
-	[FE: 63] Dank_ArmorOverrides_DLCNukaWorld.esp
-	[FE: 64] Dank_ArmorOverrides_DLCRobot.esp
-	[FE: 65] eXoNukaGirlOutfit.esp
-	[FE: 66] LimaOutpost-RealSimulation.esp
-	[FE: 67] Minigun - Spun Up.esp
-	[FE: 68] NewRecipes-VISG.esp
-	[FE: 69] NewRecipesFH-VISG.esp
-	[FE: 6A] NewRecipesNW-VISG.esp
-	[FE: 6B] No More Fake Puddles - Nuka World 1-0.esp
-	[FE: 6C] No_BloodWorm_MoleRats_Scorpion_Teleport-BugFix.esp
-	[FE: 6D] NVRH Enhanced.esp
-	[FE: 6E] ProjectValkyrie-SS2-Patch.esp
-	[FE: 6F] Publick Occurrences Expanded - DLC-SS2-UFO4P Patch.esp
-	[FE: 70] RadRifleReload.esp
-	[FE: 71] Raze My Settlement.esp
-	[FE: 72] 3DNPC-CCO.esp
-	[FE: 73] 3DNPC_FO4-UFO4P.esp
-	[FE: 74] [SS2 Addon] BloodMoonRaiders.esp
-	[FE: 75] AB-UFO4P-BetterNotes-Patch.esp
-	[FE: 76] CagebreakerPowerArmor-Flamer.esp
-	[FE: 77] eXofied Depravity - Barter.esp
-	[FE: 78] eXofied Depravity - Fallons Refitted.esp
-	[FE: 79] eXoMagazineShelf.esp
-	[FE: 7A] Ultimate Window Overhaul.esp
-	[FE: 7B] Makeshifttextures.esp
-	[FE: 7C] RBValentineJawSync.esp
-	[FE: 7D] Rusty Face Fix.esp
-	[FE: 7E] SS2_RobotMod.esp
-	[FE: 7F] T65PA_BOS.esp
-	[FE: 80] TheKite_Railroad_Handmaiden.esp
-	[FE: 81] Ultimate Window Overhaul Cubemaps.esp
-	[FE: 82] WET.esp
-	[FE: 83] WMSR_WTOptics_Patch.esp
-	[FE: 84] PRP-SS2-upstreamhotfix.esp
-	[FE: 85] SS2AOP_VaultTecTools.esp
-	[FE: 86] XG_CabotHouse_Enhanced_Quests.esp
-	[FE: 87] PRP.esp
-	[FE: 88] DiamondCity-PreVis.esp
-	[FE: 89] PRP-Compat-DCA.esp
-	[FE: 8A] PRP-SS2-Fixes.esp
-	[FE: 8B] PRP-SS2.esp
-	[FE: 8C] PRP-Vault120.esp
-	[FE: 8D] BostonFPSFixAIO.esp
-	[FE: 8E] PLI_USAF_Satellite_Station_Olivia.esp
-	[FE: 8F] ELFX-PreVis.esp
-	[FE: 90] ELFX-eXoPatch.esp
-	[FE: 91] RotPP-eXoPatch.esp
-	[FE: 92] PLI_USAFSSO - ELFX Patch.esp
+	[FE:000] PPF.esm
+	[FE:001] HiPolyFacesCompanionPlugin.esl
+	[FE:002] cigarettecard.esl
+	[FE:003] LIF.esl
+	[FE:004] BlairResidence.esl
+	[FE:005] T65PA.esl
+	[FE:006] SettlementTidyBot.esl
+	[FE:007] ClassicSuperSledge.esl
+	[FE:008] DC Guard Variations.esl
+	[FE:009] HellcatPA.esl
+	[FE:00A] HoloDisplay.esl
+	[FE:00B] IllumBillboardsAIO.esl
+	[FE:00C] NukaGirlNoHelmet.esl
+	[FE:00D] Natural Landscapes.esl
+	[FE:00E] Skb_MachinegunsRebirth.esl
+	[FE:00F] CWPointLookoutFO4Patch.esl
+	[FE:010] PLExpressivePlayer.esl
+	[FE:011] QuestTweaks-DLC04MS01.esl
+	[FE:012] RadioactiveSignsAIO.esl
+	[FE:013] RemingtonNewArmy.esl
+	[FE:014] RemingtonNewArmy-GlowingMidwana.esl
+	[FE:015] 3dscopes-nightvision.esl
+	[FE:016] Munitions - An Ammo Expansion.esl
+	[FE:017] Munitions - Vanilla Ammo Addon.esl
+	[FE:018] Munitions - New Vegas Ammo Names.esl
+	[FE:019] FO4ParticlePatch.esp
+	[FE:01A] sarahRageArmor.esp
+	[FE:01B] 3DNPC_FO4-Patch.esp
+	[FE:01C] LootableCars-Exiguous.esp
+	[FE:01D] SouthOfTheSea[Previs].esp
+	[FE:01E] eXoKetarosLootableTreasures.esp
+	[FE:01F] Dank_ArmorOverrides.esp
+	[FE:020] 3DNPC-eXoPatch.esp
+	[FE:021] The House - eXoPatch.esp
+	[FE:022] eXofied Depravity - Fallons.esp
+	[FE:023] the library - eXoPatch.esp
+	[FE:024] DiamondCityExpansion-eXoPatch.esp
+	[FE:025] Vault4-eXoPatch.esp
+	[FE:026] Ownership Fixes.esp
+	[FE:027] PLI_Roadside_Pines_Motel.esp
+	[FE:028] MaxwellsWorl-eXoPatch.esp
+	[FE:029] RotPP.esp
+	[FE:02A] 3DNPC_FO4[Previsibines].esp
+	[FE:02B] PLI_Dark_Hollow_Pond.esp
+	[FE:02C] PLI_Unmarked_Raider_Camps_P1.esp
+	[FE:02D] GunForHire-eXoPatch.esp
+	[FE:02E] JamaicaPlainPathing.esp
+	[FE:02F] IntGrievingRaider.esp
+	[FE:030] RansackedRelay.esp
+	[FE:031] IntWayneGorski.esp
+	[FE:032] Dank_ECO.esp
+	[FE:033] Dank_WOP-CombinedArms.esp
+	[FE:034] FastTravelFromQuestHubs.esp
+	[FE:035] PLI_HarbormasterHotel.esp
+	[FE:036] ImmersiveDrumlinDiner-eXoPatch.esp
+	[FE:037] CROSS_InstituteExpeditionarySuit.esp
+	[FE:038] Service Rifle - Unofficial Update.esp
+	[FE:039] PRP-SS2-Fixes-Ch2.esp
+	[FE:03A] SS2_GunForHire_Patch.esp
+	[FE:03B] SouthOfTheSea[PatchWZWildWasteland].esp
+	[FE:03C] Miami Misadventures EP1 - eXoPatch.esp
+	[FE:03D] OldTimeReligion-Legendary.esp
+	[FE:03E] CagebreakerPowerArmor.esp
+	[FE:03F] IntWayneGorski-Assistant.esp
+	[FE:040] ss2c23dnpcpatch.esp
+	[FE:041] eXoKetarosLootableTreasures-HunkeredDown.esp
+	[FE:042] BullpupBozar.esp
+	[FE:043] CoAPowerArmor.esp
+	[FE:044] Artist Raider.esp
+	[FE:045] DOOMThatGun.esp
+	[FE:046] Backpacks of the Commonwealth - Sneak Fix.esp
+	[FE:047] BasementLiving.esp
+	[FE:048] eXofied Settlers.esp
+	[FE:049] CCOCheekyCasualsCraftable.esp
+	[FE:04A] CCOFoxyFactionsCraftable.esp
+	[FE:04B] CCOSaucySettlersCraftable.esp
+	[FE:04C] CCOVulgarVillainsCraftable.esp
+	[FE:04D] CROSS_Blades.esp
+	[FE:04E] CROSS_CoA.esp
+	[FE:04F] CROSS_CourserStrigidae.esp
+	[FE:050] Dank_ECO-INNR.esp
+	[FE:051] Dank_INNRoverride.esp
+	[FE:052] StartMeUpShaunDefaultAppearance.esp
+	[FE:053] Dank_ECO_DLCCoast.esp
+	[FE:054] Dank_ECO_DLCNukaWorld.esp
+	[FE:055] Dank_ECO_DLCRobot.esp
+	[FE:056] DCRE-FixRadio.esp
+	[FE:057] DiamondCityExpansion-RedSeat.esp
+	[FE:058] FGEP-Legendary.esp
+	[FE:059] Gloomy Glass.esp
+	[FE:05A] M8rDisablePipboyEffects.esp
+	[FE:05B] eXoKetarosBoardGamesShelf.esp
+	[FE:05C] eXoKetarosPostCardRack.esp
+	[FE:05D] Fixed Gobo Effects.esp
+	[FE:05E] GatlingLaserAmmoFix.esp
+	[FE:05F] Graffity2ElectricBoogaloo-SMMPatch.esp
+	[FE:060] IAF - Far Harbor & Nuka World.esp
+	[FE:061] Nability - IAF A Diamond City Story Patch.esp
+	[FE:062] Dank_ArmorOverrides_DLCCoast.esp
+	[FE:063] Dank_ArmorOverrides_DLCNukaWorld.esp
+	[FE:064] Dank_ArmorOverrides_DLCRobot.esp
+	[FE:065] eXoNukaGirlOutfit.esp
+	[FE:066] LimaOutpost-RealSimulation.esp
+	[FE:067] Minigun - Spun Up.esp
+	[FE:068] NewRecipes-VISG.esp
+	[FE:069] NewRecipesFH-VISG.esp
+	[FE:06A] NewRecipesNW-VISG.esp
+	[FE:06B] No More Fake Puddles - Nuka World 1-0.esp
+	[FE:06C] No_BloodWorm_MoleRats_Scorpion_Teleport-BugFix.esp
+	[FE:06D] NVRH Enhanced.esp
+	[FE:06E] ProjectValkyrie-SS2-Patch.esp
+	[FE:06F] Publick Occurrences Expanded - DLC-SS2-UFO4P Patch.esp
+	[FE:070] RadRifleReload.esp
+	[FE:071] Raze My Settlement.esp
+	[FE:072] 3DNPC-CCO.esp
+	[FE:073] 3DNPC_FO4-UFO4P.esp
+	[FE:074] [SS20Addon] BloodMoonRaiders.esp
+	[FE:075] AB-UFO4P-BetterNotes-Patch.esp
+	[FE:076] CagebreakerPowerArmor-Flamer.esp
+	[FE:077] eXofied Depravity - Barter.esp
+	[FE:078] eXofied Depravity - Fallons Refitted.esp
+	[FE:079] eXoMagazineShelf.esp
+	[FE:07A] Ultimate Window Overhaul.esp
+	[FE:07B] Makeshifttextures.esp
+	[FE:07C] RBValentineJawSync.esp
+	[FE:07D] Rusty Face Fix.esp
+	[FE:07E] SS2_RobotMod.esp
+	[FE:07F] T65PA_BOS.esp
+	[FE:080] TheKite_Railroad_Handmaiden.esp
+	[FE:081] Ultimate Window Overhaul Cubemaps.esp
+	[FE:082] WET.esp
+	[FE:083] WMSR_WTOptics_Patch.esp
+	[FE:084] PRP-SS2-upstreamhotfix.esp
+	[FE:085] SS2AOP_VaultTecTools.esp
+	[FE:086] XG_CabotHouse_Enhanced_Quests.esp
+	[FE:087] PRP.esp
+	[FE:088] DiamondCity-PreVis.esp
+	[FE:089] PRP-Compat-DCA.esp
+	[FE:08A] PRP-SS2-Fixes.esp
+	[FE:08B] PRP-SS2.esp
+	[FE:08C] PRP-Vault120.esp
+	[FE:08D] BostonFPSFixAIO.esp
+	[FE:08E] PLI_USAF_Satellite_Station_Olivia.esp
+	[FE:08F] ELFX-PreVis.esp
+	[FE:090] ELFX-eXoPatch.esp
+	[FE:091] RotPP-eXoPatch.esp
+	[FE:092] PLI_USAFSSO - ELFX Patch.esp

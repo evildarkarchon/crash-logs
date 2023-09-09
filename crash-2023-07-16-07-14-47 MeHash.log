@@ -1476,22 +1476,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     ArmorKeywords.esm
-	[ 9]     WorkshopFramework.esm
-	[ A]     XDI.esm
-	[ B]     HUDFramework.esm
-	[ C]     Fallout 4 Fixes.esm
-	[ D]     SpringCleaning.esm
-	[ E]     SS2.esm
-	[ F]     SS2_XPAC_Chapter2.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     ArmorKeywords.esm
+	[09]     WorkshopFramework.esm
+	[0A]     XDI.esm
+	[0B]     HUDFramework.esm
+	[0C]     Fallout 4 Fixes.esm
+	[0D]     SpringCleaning.esm
+	[0E]     SS2.esm
+	[0F]     SS2_XPAC_Chapter2.esm
 	[10]     CheatBunker.esm
 	[11]     Homemaker.esm
 	[12]     NAC.esp
@@ -1565,27 +1565,27 @@ PLUGINS:
 	[56]     StartMeUpNukaWorldPatch.esp
 	[57]     A Forest.esp
 	[58]     EnhancedLightsandFX.esp
-	[FE:  0] PPF.esm
-	[FE:  1] UnderwearCW.esl
-	[FE:  2] GCM_DLC_Automatron.esl
-	[FE:  3] EffortlessMovementControl.esl
-	[FE:  4] CanarySaveFileMonitor.esl
-	[FE:  5] GCM_DLC_Far_Harbor.esl
-	[FE:  6] HiPolyFacesCompanionPlugin.esl
-	[FE:  7] PRP-SS2-Fixes-Ch2.esp
-	[FE:  8] Some_Assembly_Required_Repair_Kits.esp
-	[FE:  9] SAR_Repair_Kits_Nuka.esp
-	[FE:  A] SAR_Repair_Kits_Tesla.esp
-	[FE:  B] SAR_Repair_Kits_VIM.esp
-	[FE:  C] Ultimate Hacking.esp
-	[FE:  D] MAIM Speed.esp
-	[FE:  E] LootMan.esp
-	[FE:  F] M8rDisablePipboyEffects.esp
-	[FE: 10] SS2_DLCSettlerPatch.esp
-	[FE: 11] StartMeUpShaunDefaultAppearance.esp
-	[FE: 12] StopRemoveItems.esp
-	[FE: 13] PRP.esp
-	[FE: 14] PRP-SS2.esp
-	[FE: 15] PRP-SS2-Fixes.esp
-	[FE: 16] EnhancedLightsandFX - Automatron.esp
-	[FE: 17] AlootHomePlate.esp
+	[FE:000] PPF.esm
+	[FE:001] UnderwearCW.esl
+	[FE:002] GCM_DLC_Automatron.esl
+	[FE:003] EffortlessMovementControl.esl
+	[FE:004] CanarySaveFileMonitor.esl
+	[FE:005] GCM_DLC_Far_Harbor.esl
+	[FE:006] HiPolyFacesCompanionPlugin.esl
+	[FE:007] PRP-SS2-Fixes-Ch2.esp
+	[FE:008] Some_Assembly_Required_Repair_Kits.esp
+	[FE:009] SAR_Repair_Kits_Nuka.esp
+	[FE:00A] SAR_Repair_Kits_Tesla.esp
+	[FE:00B] SAR_Repair_Kits_VIM.esp
+	[FE:00C] Ultimate Hacking.esp
+	[FE:00D] MAIM Speed.esp
+	[FE:00E] LootMan.esp
+	[FE:00F] M8rDisablePipboyEffects.esp
+	[FE:010] SS2_DLCSettlerPatch.esp
+	[FE:011] StartMeUpShaunDefaultAppearance.esp
+	[FE:012] StopRemoveItems.esp
+	[FE:013] PRP.esp
+	[FE:014] PRP-SS2.esp
+	[FE:015] PRP-SS2-Fixes.esp
+	[FE:016] EnhancedLightsandFX - Automatron.esp
+	[FE:017] AlootHomePlate.esp

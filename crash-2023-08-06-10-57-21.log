@@ -797,22 +797,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     XDI.esm
-	[ 9]     HUDFramework.esm
-	[ A]     ExtendedWeaponSystem.esm
-	[ B]     TrueStormsFO4.esm
-	[ C]     TacticalReload.esm
-	[ D]     FATE Core - Tweaks.esp
-	[ E]     Better Power Armor - Redux.esp
-	[ F]     Complex Vendors.esp
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     XDI.esm
+	[09]     HUDFramework.esm
+	[0A]     ExtendedWeaponSystem.esm
+	[0B]     TrueStormsFO4.esm
+	[0C]     TacticalReload.esm
+	[0D]     FATE Core - Tweaks.esp
+	[0E]     Better Power Armor - Redux.esp
+	[0F]     Complex Vendors.esp
 	[10]     InstitWeapPosit.esp
 	[11]     RemoveBlur.esp
 	[12]     3dscopes-replacer.esp
@@ -892,41 +892,41 @@ PLUGINS:
 	[5C]     RugerMini14.esp
 	[5D]     SelectRevolver.esp
 	[5E]     SigSauer127.esp
-	[FE:  0] FATE Core - Fixes.esl
-	[FE:  1] LegendaryDropBugfix.esl
-	[FE:  2] PPF.esm
-	[FE:  3] HiPolyFacesCompanionPlugin.esl
-	[FE:  4] KillTips_by_tooun.esl
-	[FE:  5] TerrainUndersides.esp
-	[FE:  6] Wetness Shader Fix.esp
-	[FE:  7] Fixed Gobo Effects.esp
-	[FE:  8] Weapon Scrapping Redone.esp
-	[FE:  9] Clothing Scrapping Redone.esp
-	[FE:  A] M8rDisablePipboyEffects.esp
-	[FE:  B] Less intrusive tutorial.esp
-	[FE:  C] TrueInvisibility.esp
-	[FE:  D] Better Power Armor - Redux - FATE Fixes Patch.esp
-	[FE:  E] Thrive Redone.esp
-	[FE:  F] Perennial Power Armor.esp
-	[FE: 10] Some_Assembly_Required_Repair_Kits.esp
-	[FE: 11] SAR_Repair_Kits_VIM.esp
-	[FE: 12] SAR_Repair_Kits_Tesla.esp
-	[FE: 13] SAR_Repair_Kits_Nuka.esp
-	[FE: 14] Complex Vendors - UFO4P Patch.esp
-	[FE: 15] Complex Vendors - FATE Fixes Patch.esp
-	[FE: 16] Lightweight Lighting.esp
-	[FE: 17] Enhanced Vanilla Armor and Clothing.esp
-	[FE: 18] PRP.esp
-	[FE: 19] BC93.esp
-	[FE: 1A] Flicker Fixer.esp
-	[FE: 1B] NAC-RemoveMenuItem.esp
-	[FE: 1C] BH_Colt M1911_LvlList.esp
-	[FE: 1D] BH_Colt M1911_TR Patch.esp
-	[FE: 1E] FnScar_TacticalReload.esp
-	[FE: 1F] Glock19x_TacticalReloadPatch.esp
-	[FE: 20] ImiUzi_TacticalReloadPatch.esp
-	[FE: 21] LaserGarand.esp
-	[FE: 22] RGM40.esp
-	[FE: 23] RugerMini14_TacticalReloadPatch.esp
-	[FE: 24] RugerMini14RecoilFix.esp
-	[FE: 25] SigSauer127_TacticalReloadPatch.esp
+	[FE:000] FATE Core - Fixes.esl
+	[FE:001] LegendaryDropBugfix.esl
+	[FE:002] PPF.esm
+	[FE:003] HiPolyFacesCompanionPlugin.esl
+	[FE:004] KillTips_by_tooun.esl
+	[FE:005] TerrainUndersides.esp
+	[FE:006] Wetness Shader Fix.esp
+	[FE:007] Fixed Gobo Effects.esp
+	[FE:008] Weapon Scrapping Redone.esp
+	[FE:009] Clothing Scrapping Redone.esp
+	[FE:00A] M8rDisablePipboyEffects.esp
+	[FE:00B] Less intrusive tutorial.esp
+	[FE:00C] TrueInvisibility.esp
+	[FE:00D] Better Power Armor - Redux - FATE Fixes Patch.esp
+	[FE:00E] Thrive Redone.esp
+	[FE:00F] Perennial Power Armor.esp
+	[FE:010] Some_Assembly_Required_Repair_Kits.esp
+	[FE:011] SAR_Repair_Kits_VIM.esp
+	[FE:012] SAR_Repair_Kits_Tesla.esp
+	[FE:013] SAR_Repair_Kits_Nuka.esp
+	[FE:014] Complex Vendors - UFO4P Patch.esp
+	[FE:015] Complex Vendors - FATE Fixes Patch.esp
+	[FE:016] Lightweight Lighting.esp
+	[FE:017] Enhanced Vanilla Armor and Clothing.esp
+	[FE:018] PRP.esp
+	[FE:019] BC93.esp
+	[FE:01A] Flicker Fixer.esp
+	[FE:01B] NAC-RemoveMenuItem.esp
+	[FE:01C] BH_Colt M1911_LvlList.esp
+	[FE:01D] BH_Colt M1911_TR Patch.esp
+	[FE:01E] FnScar_TacticalReload.esp
+	[FE:01F] Glock19x_TacticalReloadPatch.esp
+	[FE:020] ImiUzi_TacticalReloadPatch.esp
+	[FE:021] LaserGarand.esp
+	[FE:022] RGM40.esp
+	[FE:023] RugerMini14_TacticalReloadPatch.esp
+	[FE:024] RugerMini14RecoilFix.esp
+	[FE:025] SigSauer127_TacticalReloadPatch.esp

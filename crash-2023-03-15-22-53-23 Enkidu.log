@@ -755,7 +755,7 @@ PLUGINS:
 	[7C]     zNechi-KeepCompa.esp
 	[7D]     Ambient Wasteland.esp
 	[7E]     Clean Water - Tropical.esp
-	[7F]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[7F]     [SS20Addon] SimSettlements SuperStructures.esp
 	[80]     Vaker.esp
 	[81]     FO4 NPCs Travel.esp
 	[82]     SS2_SIMPDDDD.esp
@@ -839,7 +839,7 @@ PLUGINS:
 	[FE:019] KillTips_by_tooun.esl
 	[FE:01A] TrickleCharger.esl
 	[FE:01B] StartMeUpShaunDefaultAppearance.esp
-	[FE:01C] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:01C] [SS20Addon] BloodMoonRaiders.esp
 	[FE:01D] IDEKsLogisticsStation2_SS2_Patch.esp
 	[FE:01E] SS2AOP_VaultTecTools.esp
 	[FE:01F] Cyberout77.esp

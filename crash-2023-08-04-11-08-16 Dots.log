@@ -1119,22 +1119,22 @@ F4SE PLUGINS:
 	wsfw_identifier.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     ArmorKeywords.esm
-	[ 9]     HUDFramework.esm
-	[ A]     WorkshopFramework.esm
-	[ B]     RedWave3.esp
-	[ C]     [A0] KT_Framework.esm
-	[ D]     DCGuard_Overhaul.esp
-	[ E]     DiamondCityFactory.esp
-	[ F]     SS2.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     ArmorKeywords.esm
+	[09]     HUDFramework.esm
+	[0A]     WorkshopFramework.esm
+	[0B]     RedWave3.esp
+	[0C]     [A0] KT_Framework.esm
+	[0D]     DCGuard_Overhaul.esp
+	[0E]     DiamondCityFactory.esp
+	[0F]     SS2.esm
 	[10]     SS2_XPAC_Chapter2.esm
 	[11]     SS2_XPAC_Chapter3.esm
 	[12]     Vault4.esp
@@ -1198,7 +1198,7 @@ PLUGINS:
 	[4C]     WestTek.esp
 	[4D]     WestTekTacticalOptics.esp
 	[4E]     ChuckYufarley_LogSet.esp
-	[4F]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[4F]     [SS20Addon] SimSettlements SuperStructures.esp
 	[50]     shoddymemone.esp
 	[51]     AutoDoors.esp
 	[52]     RPD.esp
@@ -1305,262 +1305,262 @@ PLUGINS:
 	[B7]     DLC Timing.esp
 	[B8]     Vault81Etiquette.esp
 	[B9]     The House.esp
-	[FE:  0] ccbgsfo4005-bluecamo.esl
-	[FE:  1] ccbgsfo4024-pacamo03.esl
-	[FE:  2] ccgcafo4003-factionws03bos.esl
-	[FE:  3] ccgcafo4005-factionws05hrpink.esl
-	[FE:  4] ccgcafo4007-factionws07hrflames.esl
-	[FE:  5] ccgcafo4009-factionws09mm.esl
-	[FE:  6] ccgcafo4011-factionws11vt.esl
-	[FE:  7] ccgcafo4013-factionas02bos.esl
-	[FE:  8] ccgcafo4015-factionas04hrpink.esl
-	[FE:  9] ccgcafo4018-factionas07mm.esl
-	[FE:  A] ccgcafo4021-factionas10hrflames.esl
-	[FE:  B] ccgcafo4022-factionas11vt.esl
-	[FE:  C] ccawnfo4001-brandedattire.esl
-	[FE:  D] ccbgsfo4062-pippat.esl
-	[FE:  E] ccygpfo4001-pipcruiser.esl
-	[FE:  F] ccbgsfo4078-pipreily.esl
-	[FE: 10] ccbgsfo4008-pipgrn.esl
-	[FE: 11] ccbgsfo4015-pipyell.esl
-	[FE: 12] ccbgsfo4027-powerarmorskingreen.esl
-	[FE: 13] ccbgsfo4034-powerarmorskinyellow.esl
-	[FE: 14] ccbgsfo4030-powerarmorskinpurple.esl
-	[FE: 15] ccgrcfo4001-pipgreytort.esl
-	[FE: 16] ccbgsfo4063-papat.esl
-	[FE: 17] ccbgsfo4048-dovah.esl
-	[FE: 18] ccbgsfo4113-ws_reillysrangers.esl
-	[FE: 19] ccbgsfo4112-ws_pickman.esl
-	[FE: 1A] ccbgsfo4099-as_reillysrangers.esl
-	[FE: 1B] ccbgsfo4098-as_pickman.esl
-	[FE: 1C] ccbgsfo4089-pipsynthwave.esl
-	[FE: 1D] ccacxfo4001-vsuit.esl
-	[FE: 1E] XDI.esm
-	[FE: 1F] BakaFramework.esm
-	[FE: 20] FATE Core - Fixes.esl
-	[FE: 21] [A0] KT_Framework_Addon.esl
-	[FE: 22] fairlinesettlement.esp
-	[FE: 23] AWKCR Paint System Simplified.esl
-	[FE: 24] BobbleAndMagsOutsideV111.esl
-	[FE: 25] CCKCR.esl
-	[FE: 26] EroticArt.esl
-	[FE: 27] CastleSpectacleFerry.esl
-	[FE: 28] DiamondCityAmbience.esl
-	[FE: 29] FalloutInstrumentPack.esl
-	[FE: 2A] Teddies76.esl
-	[FE: 2B] UltracitePA.esl
-	[FE: 2C] InGameCollectibleMaps.esl
-	[FE: 2D] Recipes76.esl
-	[FE: 2E] Quick_Modification_Weapon_by_tooun.esl
-	[FE: 2F] LIF.esl
-	[FE: 30] LIF_DisableInjectionOptions.esl
-	[FE: 31] NuclearNaughtiesPaintings_AIO.esl
-	[FE: 32] BodyTalk3-RaiderNormalsFix.esl
-	[FE: 33] FestiveT51.esl
-	[FE: 34] Skb-MinigunsRebirth.esl
-	[FE: 35] Skb_MachinegunsRebirth.esl
-	[FE: 36] ConcreteSledgehammer.esp
-	[FE: 37] DundeesStorywealthLeaderPack.esl
-	[FE: 38] SelectRevolver.esl
-	[FE: 39] T65PA.esl
-	[FE: 3A] SelectPowerArmor.esl
-	[FE: 3B] Encumbrance76.esl
-	[FE: 3C] NQAS - VaultTec.esl
-	[FE: 3D] LaundryMachines.esl
-	[FE: 3E] BeAVendor.esl
-	[FE: 3F] COOTS_BOS_PipBoy.esl
-	[FE: 40] CWRaiders.esl
-	[FE: 41] CanarySaveFileMonitor.esl
-	[FE: 42] FO76PaintsPack.esl
-	[FE: 43] Cho1_CPC_April_2022_Port_Dalton.esl
-	[FE: 44] Companion Lockers.esl
-	[FE: 45] Ladder.esl
-	[FE: 46] DundeeStoryWealthCityPlansPack01.esl
-	[FE: 47] DundeeStoryWealthCityPlansPack02.esl
-	[FE: 48] CloneYourself.esl
-	[FE: 49] EnclavePack.esl
-	[FE: 4A] CWPointLookoutFO4Patch.esl
-	[FE: 4B] GavMan_AbernathyJan22_CityPlan.esl
-	[FE: 4C] GavMan_CovenantSep21_CityPlan.esl
-	[FE: 4D] GavMan_Cov_SanitationUpdate_Layout.esl
-	[FE: 4E] GavMan_Finch_Feb22_CityPlan.esl
-	[FE: 4F] Fairline_veelynnlove.esl
-	[FE: 50] GavMan_V88_Ch2_ Plots_Layouts.esl
-	[FE: 51] GavMan_Zimonja_Cityplan.esl
-	[FE: 52] GavMan_Egret_CityPlan.esl
-	[FE: 53] GavMan_Starlight_Dome_Cityplan.esl
-	[FE: 54] GavMan_Zimonja_SanitationUpdate_Layout.esl
-	[FE: 55] GavMan_Greentop_CityPlan.esl
-	[FE: 56] GavMan_Egret_SanitationUpdate_Layout.esl
-	[FE: 57] IceStormsHair.esl
-	[FE: 58] GavMan_NordhagenApr22_CityPlan.esl
-	[FE: 59] Hellfirenew.esl
-	[FE: 5A] HoloDisplay.esl
-	[FE: 5B] HiPolyFacesCompanionPlugin.esl
-	[FE: 5C] ImmersiveTeleportation.esl
-	[FE: 5D] FOLON_Lewis.esl
-	[FE: 5E] SSTMinutemenOrganizedMilitia.esl
-	[FE: 5F] MamaMurphyFurniture.esl
-	[FE: 60] NukaApartments.esl
-	[FE: 61] Nuka World Red Rocket Fortresss and Town.esl
-	[FE: 62] NQAS - BoS Fire Support.esl
-	[FE: 63] Quick_Change_Armor_by_tooun.esl
-	[FE: 64] QuestTweaks-DLC04MS01.esl
-	[FE: 65] QuestTweaks-DLC04SettlementFF02.esl
-	[FE: 66] OWM-Master.esl
-	[FE: 67] PLExpressivePlayer.esl
-	[FE: 68] TheCircleSS2.esl
-	[FE: 69] ZJ PerfPlan - Abernathy.esl
-	[FE: 6A] ZJ PerfPlan - RedRocket.esl
-	[FE: 6B] ZJ PerfPlan - Sanctuary.esl
-	[FE: 6C] ZJ PerfPlan - Sunshine.esl
-	[FE: 6D] ZJ PerfPlan - Taffington.esl
-	[FE: 6E] ZJ PerfPlan - Tenpines.esl
-	[FE: 6F] ZJ PerfPlan - Zimonja.esl
-	[FE: 70] ZJ-Starlight-PerfPlan.esl
-	[FE: 71] Small blur Crafting screen background.esl
-	[FE: 72] Leah's Target Practice.esl
-	[FE: 73] armoredCC.esl
-	[FE: 74] ThrowMoneyAtSS2.esl
-	[FE: 75] YK42B.esl
-	[FE: 76] WG City Plans Pack ESL.esl
-	[FE: 77] Working_Aquariums.esl
-	[FE: 78] CC_OberlandPlanetX_Ch2Update.esl
-	[FE: 79] KillTips_by_tooun.esl
-	[FE: 7A] GavMan_CastleMar22_CityPlan.esl
-	[FE: 7B] PPF.esm
-	[FE: 7C] ActivatetheWaterPumps.esl
-	[FE: 7D] FlirtyCommonwealth.esp
-	[FE: 7E] FATE Core - Tweaks.esp
-	[FE: 7F] AUR_Rebuild_Shared.esp
-	[FE: 80] AUR_Rebuild_AIO_Pt01.esp
-	[FE: 81] PiperCaitCurieDialogueOverhaul.esp
-	[FE: 82] AS_Institute_Workstations.esp
-	[FE: 83] CombatZoneRestored.esp
-	[FE: 84] Rebuild_SanctuaryRoads.esp
-	[FE: 85] Fusion Gun.esp
-	[FE: 86] W.A.T.Minutemen.esp
-	[FE: 87] F4llout76 - Mutations.esp
-	[FE: 88] Reverb and Ambiance Overhaul.esp
-	[FE: 89] Vault 88 - Optimised.esp
-	[FE: 8A] Vault 88 Lights Out.esp
-	[FE: 8B] LOST Audio Tweaks.esp
-	[FE: 8C] Dank_LEO.esp
-	[FE: 8D] AS_PowerArmorStation.esp
-	[FE: 8E] RotPP.esp
-	[FE: 8F] DMGloomyInstitute.esp
-	[FE: 90] Vivid Waters.esp
-	[FE: 91] Better Cooking Stations.esp
-	[FE: 92] IntGrievingRaider.esp
-	[FE: 93] IntWayneGorski.esp
-	[FE: 94] SS2_FensSheriffDept_Patch.esp
-	[FE: 95] Lots More Male Hairstyles.esp
-	[FE: 96] Lots More Facial Hair.esp
-	[FE: 97] LookingStranger.esp
-	[FE: 98] MiscHairstyle.esp
-	[FE: 99] SF Institute.esp
-	[FE: 9A] Rebuild_SanctuaryRoads_PreVis.esp
-	[FE: 9B] FPVertibird.esp
-	[FE: 9C] CROSS_MojaveManhunter.esp
-	[FE: 9D] P94PlasmaRifle.esp
-	[FE: 9E] SS2 moreXplore Patch ALT.esp
-	[FE: 9F] Livewire by Shiagur.esp
-	[FE: A0] Miami Misadventures EP1.esp
-	[FE: A1] CorvalhoWidowShotgun.esp
-	[FE: A2] LARGrizzly.esp
-	[FE: A3] FATE Patch - Combat Zone Restored.esp
-	[FE: A4] workingslotmachine.esp
-	[FE: A5] KCI.esp
-	[FE: A6] AS_Food_Synth.esp
-	[FE: A7] LootableVertibirds.esp
-	[FE: A8] IntWayneGorski-Assistant.esp
-	[FE: A9] MiamiEnclave.esp
-	[FE: AA] CROSS_Cybernetics.esp
-	[FE: AB] Craftable Vault 81 Cure (Earned).esp
-	[FE: AC] CompactCrafting.esp
-	[FE: AD] PushAwayCompanions.esp
-	[FE: AE] HoloTime_2.esp
-	[FE: AF] Ish's Respec Mod.esp
-	[FE: B0] ImmersiveAnimationFramework.esp
-	[FE: B1] SRO - Syringer Overhaul.esp
-	[FE: B2] Eli_Immersive Coffee Mod 9000 GTX French Roast.esp
-	[FE: B3] TransferSettlements.esp
-	[FE: B4] TinkersWorkbench.esp
-	[FE: B5] AkaMoveYourWorkbench.esp
-	[FE: B6] CROSS_InstituteExpeditionarySuit.esp
-	[FE: B7] CROSS_CourserStrigidae.esp
-	[FE: B8] Dank_LEO-Automatron.esp
-	[FE: B9] Dank_LEO_DLCCoast.esp
-	[FE: BA] Dank_LEO_DLCNukaWorld.esp
-	[FE: BB] SS2_DLCSettlerPatch.esp
-	[FE: BC] Institute Suit.esp
-	[FE: BD] MGRemesh.esp
-	[FE: BE] WestTek_Tweaks.esp
-	[FE: BF] GITS_suit_by_OniNigma.esp
-	[FE: C0] Nanosuit.esp
-	[FE: C1] MS06f_Jetpack.esp
-	[FE: C2] Crimsomrider's 1950s Feminine Outfits.esp
-	[FE: C3] 155mm Howitzer M1.esp
-	[FE: C4] Female DC Security.esp
-	[FE: C5] 4estGimp - FSD NPC Records.esp
-	[FE: C6] ANiceOakTree Hairs.esp
-	[FE: C7] AD_DLC.esp
-	[FE: C8] AS_CraftableInstituteStations.esp
-	[FE: C9] WmkActiveEffects.esp
-	[FE: CA] AlienAssaultRifle.esp
-	[FE: CB] AlienAssaultRifle-Sorting.esp
-	[FE: CC] ACWARR.esp
-	[FE: CD] AirshipHomeFPVPatch.esp
-	[FE: CE] AnimatedRadaway.esp
-	[FE: CF] AnimChemRedux.esp
-	[FE: D0] SF Atom Cats.esp
-	[FE: D1] AWNF04Overalls.esp
-	[FE: D2] DiamondCityAutoClose.esp
-	[FE: D3] RedShiftPowerArmor.esp
-	[FE: D4] UnionBlaster.esp
-	[FE: D5] MobiusModding_LegatePA.esp
-	[FE: D6] RaiderPAChopShop.esp
-	[FE: D7] AWKCR - Mod Power Armor Engine Glitch Fix.esp
-	[FE: D8] Atomic Twins.esp
-	[FE: D9] BarefootFootstepSet.esp
-	[FE: DA] blazkowicz-linings-weaves-ae.esp
-	[FE: DB] AnatomicallyCorrectFerals.esp
-	[FE: DC] AnatomicallyCorrectFerals_FH.esp
-	[FE: DD] AnatomicallyCorrectFerals_NW.esp
-	[FE: DE] CMRQL.esp
-	[FE: DF] MyCart_Biohazard.esp
-	[FE: E0] Better Manufacturing - Menu Organization.esp
-	[FE: E1] Better Manufacturing - Manufacturing Extended Additions.esp
-	[FE: E2] Better Manufacturing - Manufacturing Extended Expanded Patch MO.esp
-	[FE: E3] HiPolyFaces.esp
-	[FE: E4] CBBE.esp
-	[FE: E5] CPL_T-51b.esp
-	[FE: E6] VC_BetterWorkshopLightsComplete_Shadows.esp
-	[FE: E7] VC_BetterWorkshopLightsCW.esp
-	[FE: E8] VC_BetterWorkshopLightsVanilla_Shadows.esp
-	[FE: E9] VC_BetterWorkshopLightsWW.esp
-	[FE: EA] CROSS_GoreCrits_FarHarborPatch.esp
-	[FE: EB] CleanSettlement.esp
-	[FE: EC] CleanSettlement Auto Doors Compatibility.esp
-	[FE: ED] CROSS_BrotherhoodRecon.esp
-	[FE: EE] CROSS_CryoLance.esp
-	[FE: EF] CasualEngineer.esp
-	[FE: F0] Children Extended.esp
-	[FE: F1] AWNCasualOutfit.esp
-	[FE: F2] ModdableRobotSettlers.esp
-	[FE: F3] SS2_RobotMod.esp
-	[FE: F4] Live Action Handy - PW - With GlowMap.esp
-	[FE: F5] ModdableCodsworth.esp
-	[FE: F6] CompanionStatus-Settings.esp
-	[FE: F7] Eli_Crafting Shiz 9000.esp
-	[FE: F8] Eli_Crafting Shiz 9000 SMM.esp
-	[FE: F9] InsElevator.esp
-	[FE: FA] ConcreteSledgehammer-AWKCR.esp
-	[FE: FB] ConditionBoy.esp
-	[FE: FC] CompanionsGoHome_A.esp
-	[FE: FD] Covscript.esp
-	[FE: FE] TurretStands.esp
-	[FE: FF] VltElevatorDLC.esp
+	[FE:000] ccbgsfo4005-bluecamo.esl
+	[FE:001] ccbgsfo4024-pacamo03.esl
+	[FE:002] ccgcafo4003-factionws03bos.esl
+	[FE:003] ccgcafo4005-factionws05hrpink.esl
+	[FE:004] ccgcafo4007-factionws07hrflames.esl
+	[FE:005] ccgcafo4009-factionws09mm.esl
+	[FE:006] ccgcafo4011-factionws11vt.esl
+	[FE:007] ccgcafo4013-factionas02bos.esl
+	[FE:008] ccgcafo4015-factionas04hrpink.esl
+	[FE:009] ccgcafo4018-factionas07mm.esl
+	[FE:00A] ccgcafo4021-factionas10hrflames.esl
+	[FE:00B] ccgcafo4022-factionas11vt.esl
+	[FE:00C] ccawnfo4001-brandedattire.esl
+	[FE:00D] ccbgsfo4062-pippat.esl
+	[FE:00E] ccygpfo4001-pipcruiser.esl
+	[FE:00F] ccbgsfo4078-pipreily.esl
+	[FE:010] ccbgsfo4008-pipgrn.esl
+	[FE:011] ccbgsfo4015-pipyell.esl
+	[FE:012] ccbgsfo4027-powerarmorskingreen.esl
+	[FE:013] ccbgsfo4034-powerarmorskinyellow.esl
+	[FE:014] ccbgsfo4030-powerarmorskinpurple.esl
+	[FE:015] ccgrcfo4001-pipgreytort.esl
+	[FE:016] ccbgsfo4063-papat.esl
+	[FE:017] ccbgsfo4048-dovah.esl
+	[FE:018] ccbgsfo4113-ws_reillysrangers.esl
+	[FE:019] ccbgsfo4112-ws_pickman.esl
+	[FE:01A] ccbgsfo4099-as_reillysrangers.esl
+	[FE:01B] ccbgsfo4098-as_pickman.esl
+	[FE:01C] ccbgsfo4089-pipsynthwave.esl
+	[FE:01D] ccacxfo4001-vsuit.esl
+	[FE:01E] XDI.esm
+	[FE:01F] BakaFramework.esm
+	[FE:020] FATE Core - Fixes.esl
+	[FE:021] [A0] KT_Framework_Addon.esl
+	[FE:022] fairlinesettlement.esp
+	[FE:023] AWKCR Paint System Simplified.esl
+	[FE:024] BobbleAndMagsOutsideV111.esl
+	[FE:025] CCKCR.esl
+	[FE:026] EroticArt.esl
+	[FE:027] CastleSpectacleFerry.esl
+	[FE:028] DiamondCityAmbience.esl
+	[FE:029] FalloutInstrumentPack.esl
+	[FE:02A] Teddies76.esl
+	[FE:02B] UltracitePA.esl
+	[FE:02C] InGameCollectibleMaps.esl
+	[FE:02D] Recipes76.esl
+	[FE:02E] Quick_Modification_Weapon_by_tooun.esl
+	[FE:02F] LIF.esl
+	[FE:030] LIF_DisableInjectionOptions.esl
+	[FE:031] NuclearNaughtiesPaintings_AIO.esl
+	[FE:032] BodyTalk3-RaiderNormalsFix.esl
+	[FE:033] FestiveT51.esl
+	[FE:034] Skb-MinigunsRebirth.esl
+	[FE:035] Skb_MachinegunsRebirth.esl
+	[FE:036] ConcreteSledgehammer.esp
+	[FE:037] DundeesStorywealthLeaderPack.esl
+	[FE:038] SelectRevolver.esl
+	[FE:039] T65PA.esl
+	[FE:03A] SelectPowerArmor.esl
+	[FE:03B] Encumbrance76.esl
+	[FE:03C] NQAS - VaultTec.esl
+	[FE:03D] LaundryMachines.esl
+	[FE:03E] BeAVendor.esl
+	[FE:03F] COOTS_BOS_PipBoy.esl
+	[FE:040] CWRaiders.esl
+	[FE:041] CanarySaveFileMonitor.esl
+	[FE:042] FO76PaintsPack.esl
+	[FE:043] Cho1_CPC_April_2022_Port_Dalton.esl
+	[FE:044] Companion Lockers.esl
+	[FE:045] Ladder.esl
+	[FE:046] DundeeStoryWealthCityPlansPack01.esl
+	[FE:047] DundeeStoryWealthCityPlansPack02.esl
+	[FE:048] CloneYourself.esl
+	[FE:049] EnclavePack.esl
+	[FE:04A] CWPointLookoutFO4Patch.esl
+	[FE:04B] GavMan_AbernathyJan22_CityPlan.esl
+	[FE:04C] GavMan_CovenantSep21_CityPlan.esl
+	[FE:04D] GavMan_Cov_SanitationUpdate_Layout.esl
+	[FE:04E] GavMan_Finch_Feb22_CityPlan.esl
+	[FE:04F] Fairline_veelynnlove.esl
+	[FE:050] GavMan_V88_Ch2_ Plots_Layouts.esl
+	[FE:051] GavMan_Zimonja_Cityplan.esl
+	[FE:052] GavMan_Egret_CityPlan.esl
+	[FE:053] GavMan_Starlight_Dome_Cityplan.esl
+	[FE:054] GavMan_Zimonja_SanitationUpdate_Layout.esl
+	[FE:055] GavMan_Greentop_CityPlan.esl
+	[FE:056] GavMan_Egret_SanitationUpdate_Layout.esl
+	[FE:057] IceStormsHair.esl
+	[FE:058] GavMan_NordhagenApr22_CityPlan.esl
+	[FE:059] Hellfirenew.esl
+	[FE:05A] HoloDisplay.esl
+	[FE:05B] HiPolyFacesCompanionPlugin.esl
+	[FE:05C] ImmersiveTeleportation.esl
+	[FE:05D] FOLON_Lewis.esl
+	[FE:05E] SSTMinutemenOrganizedMilitia.esl
+	[FE:05F] MamaMurphyFurniture.esl
+	[FE:060] NukaApartments.esl
+	[FE:061] Nuka World Red Rocket Fortresss and Town.esl
+	[FE:062] NQAS - BoS Fire Support.esl
+	[FE:063] Quick_Change_Armor_by_tooun.esl
+	[FE:064] QuestTweaks-DLC04MS01.esl
+	[FE:065] QuestTweaks-DLC04SettlementFF02.esl
+	[FE:066] OWM-Master.esl
+	[FE:067] PLExpressivePlayer.esl
+	[FE:068] TheCircleSS2.esl
+	[FE:069] ZJ PerfPlan - Abernathy.esl
+	[FE:06A] ZJ PerfPlan - RedRocket.esl
+	[FE:06B] ZJ PerfPlan - Sanctuary.esl
+	[FE:06C] ZJ PerfPlan - Sunshine.esl
+	[FE:06D] ZJ PerfPlan - Taffington.esl
+	[FE:06E] ZJ PerfPlan - Tenpines.esl
+	[FE:06F] ZJ PerfPlan - Zimonja.esl
+	[FE:070] ZJ-Starlight-PerfPlan.esl
+	[FE:071] Small blur Crafting screen background.esl
+	[FE:072] Leah's Target Practice.esl
+	[FE:073] armoredCC.esl
+	[FE:074] ThrowMoneyAtSS2.esl
+	[FE:075] YK42B.esl
+	[FE:076] WG City Plans Pack ESL.esl
+	[FE:077] Working_Aquariums.esl
+	[FE:078] CC_OberlandPlanetX_Ch2Update.esl
+	[FE:079] KillTips_by_tooun.esl
+	[FE:07A] GavMan_CastleMar22_CityPlan.esl
+	[FE:07B] PPF.esm
+	[FE:07C] ActivatetheWaterPumps.esl
+	[FE:07D] FlirtyCommonwealth.esp
+	[FE:07E] FATE Core - Tweaks.esp
+	[FE:07F] AUR_Rebuild_Shared.esp
+	[FE:080] AUR_Rebuild_AIO_Pt01.esp
+	[FE:081] PiperCaitCurieDialogueOverhaul.esp
+	[FE:082] AS_Institute_Workstations.esp
+	[FE:083] CombatZoneRestored.esp
+	[FE:084] Rebuild_SanctuaryRoads.esp
+	[FE:085] Fusion Gun.esp
+	[FE:086] W.A.T.Minutemen.esp
+	[FE:087] F4llout76 - Mutations.esp
+	[FE:088] Reverb and Ambiance Overhaul.esp
+	[FE:089] Vault 88 - Optimised.esp
+	[FE:08A] Vault 88 Lights Out.esp
+	[FE:08B] LOST Audio Tweaks.esp
+	[FE:08C] Dank_LEO.esp
+	[FE:08D] AS_PowerArmorStation.esp
+	[FE:08E] RotPP.esp
+	[FE:08F] DMGloomyInstitute.esp
+	[FE:090] Vivid Waters.esp
+	[FE:091] Better Cooking Stations.esp
+	[FE:092] IntGrievingRaider.esp
+	[FE:093] IntWayneGorski.esp
+	[FE:094] SS2_FensSheriffDept_Patch.esp
+	[FE:095] Lots More Male Hairstyles.esp
+	[FE:096] Lots More Facial Hair.esp
+	[FE:097] LookingStranger.esp
+	[FE:098] MiscHairstyle.esp
+	[FE:099] SF Institute.esp
+	[FE:09A] Rebuild_SanctuaryRoads_PreVis.esp
+	[FE:09B] FPVertibird.esp
+	[FE:09C] CROSS_MojaveManhunter.esp
+	[FE:09D] P94PlasmaRifle.esp
+	[FE:09E] SS2 moreXplore Patch ALT.esp
+	[FE:09F] Livewire by Shiagur.esp
+	[FE:0A0] Miami Misadventures EP1.esp
+	[FE:0A1] CorvalhoWidowShotgun.esp
+	[FE:0A2] LARGrizzly.esp
+	[FE:0A3] FATE Patch - Combat Zone Restored.esp
+	[FE:0A4] workingslotmachine.esp
+	[FE:0A5] KCI.esp
+	[FE:0A6] AS_Food_Synth.esp
+	[FE:0A7] LootableVertibirds.esp
+	[FE:0A8] IntWayneGorski-Assistant.esp
+	[FE:0A9] MiamiEnclave.esp
+	[FE:0AA] CROSS_Cybernetics.esp
+	[FE:0AB] Craftable Vault 81 Cure (Earned).esp
+	[FE:0AC] CompactCrafting.esp
+	[FE:0AD] PushAwayCompanions.esp
+	[FE:0AE] HoloTime_2.esp
+	[FE:0AF] Ish's Respec Mod.esp
+	[FE:0B0] ImmersiveAnimationFramework.esp
+	[FE:0B1] SRO - Syringer Overhaul.esp
+	[FE:0B2] Eli_Immersive Coffee Mod 9000 GTX French Roast.esp
+	[FE:0B3] TransferSettlements.esp
+	[FE:0B4] TinkersWorkbench.esp
+	[FE:0B5] AkaMoveYourWorkbench.esp
+	[FE:0B6] CROSS_InstituteExpeditionarySuit.esp
+	[FE:0B7] CROSS_CourserStrigidae.esp
+	[FE:0B8] Dank_LEO-Automatron.esp
+	[FE:0B9] Dank_LEO_DLCCoast.esp
+	[FE:0BA] Dank_LEO_DLCNukaWorld.esp
+	[FE:0BB] SS2_DLCSettlerPatch.esp
+	[FE:0BC] Institute Suit.esp
+	[FE:0BD] MGRemesh.esp
+	[FE:0BE] WestTek_Tweaks.esp
+	[FE:0BF] GITS_suit_by_OniNigma.esp
+	[FE:0C0] Nanosuit.esp
+	[FE:0C1] MS06f_Jetpack.esp
+	[FE:0C2] Crimsomrider's 1950s Feminine Outfits.esp
+	[FE:0C3] 155mm Howitzer M1.esp
+	[FE:0C4] Female DC Security.esp
+	[FE:0C5] 4estGimp - FSD NPC Records.esp
+	[FE:0C6] ANiceOakTree Hairs.esp
+	[FE:0C7] AD_DLC.esp
+	[FE:0C8] AS_CraftableInstituteStations.esp
+	[FE:0C9] WmkActiveEffects.esp
+	[FE:0CA] AlienAssaultRifle.esp
+	[FE:0CB] AlienAssaultRifle-Sorting.esp
+	[FE:0CC] ACWARR.esp
+	[FE:0CD] AirshipHomeFPVPatch.esp
+	[FE:0CE] AnimatedRadaway.esp
+	[FE:0CF] AnimChemRedux.esp
+	[FE:0D0] SF Atom Cats.esp
+	[FE:0D1] AWNF04Overalls.esp
+	[FE:0D2] DiamondCityAutoClose.esp
+	[FE:0D3] RedShiftPowerArmor.esp
+	[FE:0D4] UnionBlaster.esp
+	[FE:0D5] MobiusModding_LegatePA.esp
+	[FE:0D6] RaiderPAChopShop.esp
+	[FE:0D7] AWKCR - Mod Power Armor Engine Glitch Fix.esp
+	[FE:0D8] Atomic Twins.esp
+	[FE:0D9] BarefootFootstepSet.esp
+	[FE:0DA] blazkowicz-linings-weaves-ae.esp
+	[FE:0DB] AnatomicallyCorrectFerals.esp
+	[FE:0DC] AnatomicallyCorrectFerals_FH.esp
+	[FE:0DD] AnatomicallyCorrectFerals_NW.esp
+	[FE:0DE] CMRQL.esp
+	[FE:0DF] MyCart_Biohazard.esp
+	[FE:0E0] Better Manufacturing - Menu Organization.esp
+	[FE:0E1] Better Manufacturing - Manufacturing Extended Additions.esp
+	[FE:0E2] Better Manufacturing - Manufacturing Extended Expanded Patch MO.esp
+	[FE:0E3] HiPolyFaces.esp
+	[FE:0E4] CBBE.esp
+	[FE:0E5] CPL_T-51b.esp
+	[FE:0E6] VC_BetterWorkshopLightsComplete_Shadows.esp
+	[FE:0E7] VC_BetterWorkshopLightsCW.esp
+	[FE:0E8] VC_BetterWorkshopLightsVanilla_Shadows.esp
+	[FE:0E9] VC_BetterWorkshopLightsWW.esp
+	[FE:0EA] CROSS_GoreCrits_FarHarborPatch.esp
+	[FE:0EB] CleanSettlement.esp
+	[FE:0EC] CleanSettlement Auto Doors Compatibility.esp
+	[FE:0ED] CROSS_BrotherhoodRecon.esp
+	[FE:0EE] CROSS_CryoLance.esp
+	[FE:0EF] CasualEngineer.esp
+	[FE:0F0] Children Extended.esp
+	[FE:0F1] AWNCasualOutfit.esp
+	[FE:0F2] ModdableRobotSettlers.esp
+	[FE:0F3] SS2_RobotMod.esp
+	[FE:0F4] Live Action Handy - PW - With GlowMap.esp
+	[FE:0F5] ModdableCodsworth.esp
+	[FE:0F6] CompanionStatus-Settings.esp
+	[FE:0F7] Eli_Crafting Shiz 9000.esp
+	[FE:0F8] Eli_Crafting Shiz 9000 SMM.esp
+	[FE:0F9] InsElevator.esp
+	[FE:0FA] ConcreteSledgehammer-AWKCR.esp
+	[FE:0FB] ConditionBoy.esp
+	[FE:0FC] CompanionsGoHome_A.esp
+	[FE:0FD] Covscript.esp
+	[FE:0FE] TurretStands.esp
+	[FE:0FF] VltElevatorDLC.esp
 	[FE:100] CompanionStatus.esp
 	[FE:101] DX_NaughtySecretary.esp
 	[FE:102] EasyHacking.esp

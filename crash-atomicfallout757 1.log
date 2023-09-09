@@ -36,20 +36,20 @@ ImageSpaceAdapter true
 SYSTEM SPECS
 OS Microsoft Windows 10 Home v10.0.19041
 CPU GenuineIntel Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
-GPU #1 Nvidia GA102 [GeForce RTX 3080]
+GPU #1 Nvidia GA102 [GeForce0RTX03080]
 GPU #2 Microsoft Basic Render Driver
 PHYSICAL MEMORY 10.68 GB15.93 GB
 PROBABLE CALL STACK
-[ 0] 0x7FF6E11BBA80 Fallout4.exe+27BBA80 - 1016072+0x20
-[ 1] 0x7FF6E12257B7 Fallout4.exe+28257B7 - 1322955+0x27
-[ 2] 0x7FF6E1225974 Fallout4.exe+2825974 - 1388661+0x14
-[ 3] 0x7FF6E05B0CF9 Fallout4.exe+1BB0CF9 - 381607+0x59
-[ 4] 0x7FF6E05B6884 Fallout4.exe+1BB6884 - 1195378+0x44
-[ 5] 0x7FF6E0598E76 Fallout4.exe+1B98E76 - 577676+0x86
-[ 6] 0x7FF6E05989D8 Fallout4.exe+1B989D8 - 1244251+0x18
-[ 7] 0x7FF6E11D2F34 Fallout4.exe+27D2F34 - 678444+0x14
-[ 8] 0x7FF6E05A5A94 Fallout4.exe+1BA5A94 - 1079659+0x144
-[ 9] 0x7FF6E0550F26 Fallout4.exe+1B50F26 - 329005+0xC6
+[00] 0x7FF6E11BBA80 Fallout4.exe+27BBA80 - 1016072+0x20
+[01] 0x7FF6E12257B7 Fallout4.exe+28257B7 - 1322955+0x27
+[02] 0x7FF6E1225974 Fallout4.exe+2825974 - 1388661+0x14
+[03] 0x7FF6E05B0CF9 Fallout4.exe+1BB0CF9 - 381607+0x59
+[04] 0x7FF6E05B6884 Fallout4.exe+1BB6884 - 1195378+0x44
+[05] 0x7FF6E0598E76 Fallout4.exe+1B98E76 - 577676+0x86
+[06] 0x7FF6E05989D8 Fallout4.exe+1B989D8 - 1244251+0x18
+[07] 0x7FF6E11D2F34 Fallout4.exe+27D2F34 - 678444+0x14
+[08] 0x7FF6E05A5A94 Fallout4.exe+1BA5A94 - 1079659+0x144
+[09] 0x7FF6E0550F26 Fallout4.exe+1B50F26 - 329005+0xC6
 [10] 0x7FF6E0551432 Fallout4.exe+1B51432 - 194800+0x202
 [11] 0x7FF6E0553F67 Fallout4.exe+1B53F67 - 1492866+0x67
 [12] 0x7FF6E051CFED Fallout4.exe+1B1CFED - 1079791+0x3D
@@ -74,44 +74,44 @@ R13 0x7FF6E45E8080     (void - Fallout4.exe+5BE8080)
 R14 0x1                (size_t)
 R15 0x7FF6E45E8084     (void - Fallout4.exe+5BE8084)
 STACK
-[RSP+0  ] 0x0                (size_t)
-[RSP+8  ] 0x0                (size_t)
-[RSP+10 ] 0x0                (size_t)
-[RSP+18 ] 0x0                (size_t)
-[RSP+20 ] 0x1A7D86DE170      (BSGeometry)
+[RSP+000] 0x0                (size_t)
+[RSP+800] 0x0                (size_t)
+[RSP+100] 0x0                (size_t)
+[RSP+180] 0x0                (size_t)
+[RSP+200] 0x1A7D86DE170      (BSGeometry)
 Name 
-[RSP+28 ] 0x7FF6E12257B7     (void - Fallout4.exe+28257B7)
-[RSP+30 ] 0x1A7D08DF728      (BSGrassShaderProperty)
+[RSP+280] 0x7FF6E12257B7     (void - Fallout4.exe+28257B7)
+[RSP+300] 0x1A7D08DF728      (BSGrassShaderProperty)
 Name 
-[RSP+38 ] 0x1                (size_t)
-[RSP+40 ] 0x1                (size_t)
-[RSP+48 ] 0x1AADEAAA200      (void)
-[RSP+50 ] 0x1A7D08DF728      (BSGrassShaderProperty)
+[RSP+380] 0x1                (size_t)
+[RSP+400] 0x1                (size_t)
+[RSP+480] 0x1AADEAAA200      (void)
+[RSP+500] 0x1A7D08DF728      (BSGrassShaderProperty)
 Name 
-[RSP+58 ] 0x7FF6E1225974     (void - Fallout4.exe+2825974)
-[RSP+60 ] 0x1                (size_t)
-[RSP+68 ] 0x7FF6E4BE0900     (void - Fallout4.exe+61E0900)
-[RSP+70 ] 0x7FF600000000     (size_t)
-[RSP+78 ] 0x8AC              (size_t)
-[RSP+80 ] 0x1                (size_t)
-[RSP+88 ] 0x7FF6E05B0CF9     (void - Fallout4.exe+1BB0CF9)
-[RSP+90 ] 0x1A7D86DE2A8      (void)
-[RSP+98 ] 0x0                (size_t)
-[RSP+A0 ] 0x1A7D5884168      (void)
-[RSP+A8 ] 0x7FF6E44A3B00     (void - Fallout4.exe+5AA3B00)
-[RSP+B0 ] 0x1                (size_t)
-[RSP+B8 ] 0x7FF6E05B6884     (void - Fallout4.exe+1BB6884)
-[RSP+C0 ] 0x1A7D86DE170      (BSGeometry)
+[RSP+580] 0x7FF6E1225974     (void - Fallout4.exe+2825974)
+[RSP+600] 0x1                (size_t)
+[RSP+680] 0x7FF6E4BE0900     (void - Fallout4.exe+61E0900)
+[RSP+700] 0x7FF600000000     (size_t)
+[RSP+780] 0x8AC              (size_t)
+[RSP+800] 0x1                (size_t)
+[RSP+880] 0x7FF6E05B0CF9     (void - Fallout4.exe+1BB0CF9)
+[RSP+900] 0x1A7D86DE2A8      (void)
+[RSP+980] 0x0                (size_t)
+[RSP+A00] 0x1A7D5884168      (void)
+[RSP+A80] 0x7FF6E44A3B00     (void - Fallout4.exe+5AA3B00)
+[RSP+B00] 0x1                (size_t)
+[RSP+B80] 0x7FF6E05B6884     (void - Fallout4.exe+1BB6884)
+[RSP+C00] 0x1A7D86DE170      (BSGeometry)
 Name 
-[RSP+C8 ] 0x1A7D86DE170      (BSGeometry)
+[RSP+C80] 0x1A7D86DE170      (BSGeometry)
 Name 
-[RSP+D0 ] 0x0                (size_t)
-[RSP+D8 ] 0x7FF6E45E8088     (void - Fallout4.exe+5BE8088)
-[RSP+E0 ] 0x0                (size_t)
-[RSP+E8 ] 0x7FF6E0598E76     (void - Fallout4.exe+1B98E76)
-[RSP+F0 ] 0x1A7D5884000      (NiNode)
+[RSP+D00] 0x0                (size_t)
+[RSP+D80] 0x7FF6E45E8088     (void - Fallout4.exe+5BE8088)
+[RSP+E00] 0x0                (size_t)
+[RSP+E80] 0x7FF6E0598E76     (void - Fallout4.exe+1B98E76)
+[RSP+F00] 0x1A7D5884000      (NiNode)
 Name 
-[RSP+F8 ] 0x1                (size_t)
+[RSP+F80] 0x1                (size_t)
 [RSP+100] 0x7FF6E45E8080     (void - Fallout4.exe+5BE8080)
 [RSP+108] 0x7FF6E45E8088     (void - Fallout4.exe+5BE8088)
 [RSP+110] 0x1A7D5884000      (NiNode)

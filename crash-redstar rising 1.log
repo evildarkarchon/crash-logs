@@ -711,22 +711,22 @@ F4SE PLUGINS:
 	XDI.dll
  
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     DLCUltraHighResolution.esm
-	[ 8]     HUDFramework.esm
-	[ 9]     ArmorKeywords.esm
-	[ A]     XDI.esm
-	[ B]     WorkshopFramework.esm
-	[ C]     MutantMenagerie.esm
-	[ D]     DCGuard_Overhaul.esp
-	[ E]     EthreonMasterPlan.esm
-	[ F]     Overlays.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     DLCUltraHighResolution.esm
+	[08]     HUDFramework.esm
+	[09]     ArmorKeywords.esm
+	[0A]     XDI.esm
+	[0B]     WorkshopFramework.esm
+	[0C]     MutantMenagerie.esm
+	[0D]     DCGuard_Overhaul.esp
+	[0E]     EthreonMasterPlan.esm
+	[0F]     Overlays.esm
 	[10]     Loads.esm
 	[11]     SS2.esm
 	[12]     SS2_XPAC_Chapter2.esm
@@ -869,17 +869,17 @@ PLUGINS:
 	[9B]     GrenadeExpansionPackLoadsPatch.esp
 	[9C]     GrenadeExpansionPackValsPatch.esp
 	[9D]     EnhancedLightsandFX.esp
-	[FE:  0] GTFOB.esl
-	[FE:  1] 49 Raiden Armor Remake.esl
-	[FE:  2] Gunner Operator - Raiders.esp
-	[FE:  3] FHAtomsWill.esp
-	[FE:  4] CagebreakerPowerArmor.esp
-	[FE:  5] PMC Operators - Nuka-World Raiders (Pack).esp
-	[FE:  6] InstituteBuildPieces.esp
-	[FE:  7] SALVO and ROZE .esp
-	[FE:  8] Vault-Tec Mask.esp
-	[FE:  9] C_VWAS-VWOP.esp
-	[FE:  A] ISC.esp
-	[FE:  B] TheKite_Railroad_Handmaiden.esp
-	[FE:  C] CROSS_BrotherhoodRecon.esp
+	[FE:000] GTFOB.esl
+	[FE:001] 49 Raiden Armor Remake.esl
+	[FE:002] Gunner Operator - Raiders.esp
+	[FE:003] FHAtomsWill.esp
+	[FE:004] CagebreakerPowerArmor.esp
+	[FE:005] PMC Operators - Nuka-World Raiders (Pack).esp
+	[FE:006] InstituteBuildPieces.esp
+	[FE:007] SALVO and ROZE .esp
+	[FE:008] Vault-Tec Mask.esp
+	[FE:009] C_VWAS-VWOP.esp
+	[FE:00A] ISC.esp
+	[FE:00B] TheKite_Railroad_Handmaiden.esp
+	[FE:00C] CROSS_BrotherhoodRecon.esp
  

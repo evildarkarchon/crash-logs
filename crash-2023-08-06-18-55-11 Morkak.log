@@ -1870,22 +1870,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     XDI.esm
-	[ 9]     HUDFramework.esm
-	[ A]     Homemaker.esm
-	[ B]     WorkshopFramework.esm
-	[ C]     SS2.esm
-	[ D]     SS2_XPAC_Chapter2.esm
-	[ E]     SouthOfTheSea.esm
-	[ F]     DCGuard_Overhaul.esp
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     XDI.esm
+	[09]     HUDFramework.esm
+	[0A]     Homemaker.esm
+	[0B]     WorkshopFramework.esm
+	[0C]     SS2.esm
+	[0D]     SS2_XPAC_Chapter2.esm
+	[0E]     SouthOfTheSea.esm
+	[0F]     DCGuard_Overhaul.esp
 	[10]     CWPointLookoutFO4.esm
 	[11]     MutantMenagerie.esm
 	[12]     MutantMenagerie_FarHarbor.esm
@@ -2038,117 +2038,117 @@ PLUGINS:
 	[A5]     SCM.esp
 	[A6]     Raider Gang Extended NPC (Fixed & Cleaned).esp
 	[A7]     OutfitSwitcher.esp
-	[FE:  0] ccbgsfo4062-pippat.esl
-	[FE:  1] ccbgsfo4063-papat.esl
-	[FE:  2] LegendaryDropBugfix.esl
-	[FE:  3] GCM_DLC_Automatron.esl
-	[FE:  4] GCM_DLC_Far_Harbor.esl
-	[FE:  5] NPSShopping.esl
-	[FE:  6] Cazadors.esl
-	[FE:  7] Geckos.esl
-	[FE:  8] Mantis.esl
-	[FE:  9] DiamondCityAmbience.esl
-	[FE:  A] HellcatPA.esl
-	[FE:  B] T65PA.esl
-	[FE:  C] CWOutfitPackPart2.esl
-	[FE:  D] Settlementobjectscombined.esl
-	[FE:  E] RiversideSettlement.esl
-	[FE:  F] CROSS_VertibirdFlightsuit.esl
-	[FE: 10] Munitions - An Ammo Expansion.esl
-	[FE: 11] Munitions - Vanilla Ammo Addon.esl
-	[FE: 12] HandmadeAntiMaterielRifle.esl
-	[FE: 13] FOLON_Lewis.esl
-	[FE: 14] Skb_MachinegunsRebirth.esl
-	[FE: 15] Skb-MinigunsRebirth.esl
-	[FE: 16] SelectRevolver.esl
-	[FE: 17] CWGaussRifle.esl
-	[FE: 18] SmartRecruitmentBeacon.esl
-	[FE: 19] PPF.esm
-	[FE: 1A] Wetness Shader Fix.esp
-	[FE: 1B] FATE Core - Fixes.esp
-	[FE: 1C] Fixed Gobo Effects.esp
-	[FE: 1D] Keep Radiants In Commonwealth.esp
-	[FE: 1E] WhoIsTheGeneral.esp
-	[FE: 1F] WTG - KRIC Patch.esp
-	[FE: 20] Weapon Scrapping Redone.esp
-	[FE: 21] Clothing Scrapping Redone.esp
-	[FE: 22] M8rDisablePipboyEffects.esp
-	[FE: 23] Less intrusive tutorial.esp
-	[FE: 24] TrueInvisibility.esp
-	[FE: 25] Better Power Armor - Redux - FATE Fixes Patch.esp
-	[FE: 26] Thrive Redone.esp
-	[FE: 27] Perennial Power Armor.esp
-	[FE: 28] Some_Assembly_Required_Repair_Kits.esp
-	[FE: 29] SAR_Repair_Kits_VIM.esp
-	[FE: 2A] SAR_Repair_Kits_Tesla.esp
-	[FE: 2B] SAR_Repair_Kits_Nuka.esp
-	[FE: 2C] Complex Vendors - UFO4P Patch.esp
-	[FE: 2D] Complex Vendors - FATE Fixes Patch.esp
-	[FE: 2E] Lightweight Lighting.esp
-	[FE: 2F] Targeted Textures.esp
-	[FE: 30] TerrainUndersides.esp
-	[FE: 31] Vault4-eXoPatch.esp
-	[FE: 32] PRP.esp
-	[FE: 33] T60_Shoulder_Cape_-_RAA.esp
-	[FE: 34] Gunner Outfit Extreme Overhaul.esp
-	[FE: 35] SS2_DLCSettlerPatch.esp
-	[FE: 36] CROSS_CoA.esp
-	[FE: 37] CROSS_BrotherhoodRecon.esp
-	[FE: 38] FPVertibird.esp
-	[FE: 39] PAVertibirdDockFix.esp
-	[FE: 3A] PAVertibirdNoFSTFix.esp
-	[FE: 3B] SouthOfTheSea[Previs].esp
-	[FE: 3C] BAM-BetterArmoryMod.esp
-	[FE: 3D] CagebreakerPowerArmor.esp
-	[FE: 3E] [ARRETH] FGEP SKK Feral Nights Patch.esp
-	[FE: 3F] [ARRETH] NoExploderKnowckdown.esp
-	[FE: 40] Dank_ECO.esp
-	[FE: 41] Dank_ECO-INNR.esp
-	[FE: 42] Dank_ECO_DLCCoast.esp
-	[FE: 43] Dank_ECO_DLCNukaWorld.esp
-	[FE: 44] Dank_ECO_DLCRobot.esp
-	[FE: 45] Dank_LEO.esp
-	[FE: 46] Dank_LEO-Automatron.esp
-	[FE: 47] Dank_LEO_DLCCoast.esp
-	[FE: 48] Dank_LEO_DLCNukaWorld.esp
-	[FE: 49] Raze My Settlement.esp
-	[FE: 4A] DiamondCityExpansion-eXoPatch.esp
-	[FE: 4B] T65PA_BOS.esp
-	[FE: 4C] Dank_ArmorOverrides.esp
-	[FE: 4D] Dank_ArmorOverrides_DLCCoast.esp
-	[FE: 4E] Dank_ArmorOverrides_DLCNukaWorld.esp
-	[FE: 4F] Dank_ArmorOverrides_DLCRobot.esp
-	[FE: 50] Dank_INNRoverride.esp
-	[FE: 51] Power Armor to the People.esp
-	[FE: 52] Power Armor to the People - Tribal Power Armor.esp
-	[FE: 53] Power Armor to the People - T-65.esp
-	[FE: 54] Power Armor to the People - T-65 - East BoS Paint.esp
-	[FE: 55] Power Armor to the People - T-49.esp
-	[FE: 56] Power Armor to the People - Synth Power Armor.esp
-	[FE: 57] Power Armor to the People - Nuka-World.esp
-	[FE: 58] Power Armor to the People - Hellfire X-03.esp
-	[FE: 59] Power Armor to the People - Hellcat Power Armor.esp
-	[FE: 5A] Power Armor to the People - Gunner Outfit Pack.esp
-	[FE: 5B] Power Armor to the People - Far Harbor.esp
-	[FE: 5C] Power Armor to the People - Cagebreaker Power Armor.esp
-	[FE: 5D] Power Armor to the People - Automatron.esp
-	[FE: 5E] T-49 Power Armor - Fallout Brotherhood Patch.esp
-	[FE: 5F] Power Armor to the People - T-49 - Fallout Brotherhood Patch.esp
-	[FE: 60] MogomraPAMs.esp
-	[FE: 61] Power Armor to the People - Hellfire X-03 - All Factions Paintjob.esp
-	[FE: 62] Power Armor to the People - MogomraPAMs.esp
-	[FE: 63] CROSS_InstituteExpeditionarySuit.esp
-	[FE: 64] CROSS_MojaveManhunter.esp
-	[FE: 65] CROSS_BreakActionLaser.esp
-	[FE: 66] CROSS_CryoLance.esp
-	[FE: 67] Makeshiftshotgun.esp
-	[FE: 68] 4estGimp_DoubleBarrel_LLPeer_MakeshiftShotgun.esp
-	[FE: 69] RCW.esp
-	[FE: 6A] FOLON_Bren_Addon.esp
-	[FE: 6B] NV_LMG.esp
-	[FE: 6C] VanBuren_223.esp
-	[FE: 6D] XR92_Rifle.esp
-	[FE: 6E] ImmersiveChembench.esp
-	[FE: 6F] 4estGimp - AI Edits.esp
-	[FE: 70] StoryWealthLocation-DiamondCity.esp
-	[FE: 71] DiamondCity-PreVis.esp
+	[FE:000] ccbgsfo4062-pippat.esl
+	[FE:001] ccbgsfo4063-papat.esl
+	[FE:002] LegendaryDropBugfix.esl
+	[FE:003] GCM_DLC_Automatron.esl
+	[FE:004] GCM_DLC_Far_Harbor.esl
+	[FE:005] NPSShopping.esl
+	[FE:006] Cazadors.esl
+	[FE:007] Geckos.esl
+	[FE:008] Mantis.esl
+	[FE:009] DiamondCityAmbience.esl
+	[FE:00A] HellcatPA.esl
+	[FE:00B] T65PA.esl
+	[FE:00C] CWOutfitPackPart2.esl
+	[FE:00D] Settlementobjectscombined.esl
+	[FE:00E] RiversideSettlement.esl
+	[FE:00F] CROSS_VertibirdFlightsuit.esl
+	[FE:010] Munitions - An Ammo Expansion.esl
+	[FE:011] Munitions - Vanilla Ammo Addon.esl
+	[FE:012] HandmadeAntiMaterielRifle.esl
+	[FE:013] FOLON_Lewis.esl
+	[FE:014] Skb_MachinegunsRebirth.esl
+	[FE:015] Skb-MinigunsRebirth.esl
+	[FE:016] SelectRevolver.esl
+	[FE:017] CWGaussRifle.esl
+	[FE:018] SmartRecruitmentBeacon.esl
+	[FE:019] PPF.esm
+	[FE:01A] Wetness Shader Fix.esp
+	[FE:01B] FATE Core - Fixes.esp
+	[FE:01C] Fixed Gobo Effects.esp
+	[FE:01D] Keep Radiants In Commonwealth.esp
+	[FE:01E] WhoIsTheGeneral.esp
+	[FE:01F] WTG - KRIC Patch.esp
+	[FE:020] Weapon Scrapping Redone.esp
+	[FE:021] Clothing Scrapping Redone.esp
+	[FE:022] M8rDisablePipboyEffects.esp
+	[FE:023] Less intrusive tutorial.esp
+	[FE:024] TrueInvisibility.esp
+	[FE:025] Better Power Armor - Redux - FATE Fixes Patch.esp
+	[FE:026] Thrive Redone.esp
+	[FE:027] Perennial Power Armor.esp
+	[FE:028] Some_Assembly_Required_Repair_Kits.esp
+	[FE:029] SAR_Repair_Kits_VIM.esp
+	[FE:02A] SAR_Repair_Kits_Tesla.esp
+	[FE:02B] SAR_Repair_Kits_Nuka.esp
+	[FE:02C] Complex Vendors - UFO4P Patch.esp
+	[FE:02D] Complex Vendors - FATE Fixes Patch.esp
+	[FE:02E] Lightweight Lighting.esp
+	[FE:02F] Targeted Textures.esp
+	[FE:030] TerrainUndersides.esp
+	[FE:031] Vault4-eXoPatch.esp
+	[FE:032] PRP.esp
+	[FE:033] T60_Shoulder_Cape_-_RAA.esp
+	[FE:034] Gunner Outfit Extreme Overhaul.esp
+	[FE:035] SS2_DLCSettlerPatch.esp
+	[FE:036] CROSS_CoA.esp
+	[FE:037] CROSS_BrotherhoodRecon.esp
+	[FE:038] FPVertibird.esp
+	[FE:039] PAVertibirdDockFix.esp
+	[FE:03A] PAVertibirdNoFSTFix.esp
+	[FE:03B] SouthOfTheSea[Previs].esp
+	[FE:03C] BAM-BetterArmoryMod.esp
+	[FE:03D] CagebreakerPowerArmor.esp
+	[FE:03E] [ARRETH] FGEP SKK Feral Nights Patch.esp
+	[FE:03F] [ARRETH] NoExploderKnowckdown.esp
+	[FE:040] Dank_ECO.esp
+	[FE:041] Dank_ECO-INNR.esp
+	[FE:042] Dank_ECO_DLCCoast.esp
+	[FE:043] Dank_ECO_DLCNukaWorld.esp
+	[FE:044] Dank_ECO_DLCRobot.esp
+	[FE:045] Dank_LEO.esp
+	[FE:046] Dank_LEO-Automatron.esp
+	[FE:047] Dank_LEO_DLCCoast.esp
+	[FE:048] Dank_LEO_DLCNukaWorld.esp
+	[FE:049] Raze My Settlement.esp
+	[FE:04A] DiamondCityExpansion-eXoPatch.esp
+	[FE:04B] T65PA_BOS.esp
+	[FE:04C] Dank_ArmorOverrides.esp
+	[FE:04D] Dank_ArmorOverrides_DLCCoast.esp
+	[FE:04E] Dank_ArmorOverrides_DLCNukaWorld.esp
+	[FE:04F] Dank_ArmorOverrides_DLCRobot.esp
+	[FE:050] Dank_INNRoverride.esp
+	[FE:051] Power Armor to the People.esp
+	[FE:052] Power Armor to the People - Tribal Power Armor.esp
+	[FE:053] Power Armor to the People - T-65.esp
+	[FE:054] Power Armor to the People - T-65 - East BoS Paint.esp
+	[FE:055] Power Armor to the People - T-49.esp
+	[FE:056] Power Armor to the People - Synth Power Armor.esp
+	[FE:057] Power Armor to the People - Nuka-World.esp
+	[FE:058] Power Armor to the People - Hellfire X-03.esp
+	[FE:059] Power Armor to the People - Hellcat Power Armor.esp
+	[FE:05A] Power Armor to the People - Gunner Outfit Pack.esp
+	[FE:05B] Power Armor to the People - Far Harbor.esp
+	[FE:05C] Power Armor to the People - Cagebreaker Power Armor.esp
+	[FE:05D] Power Armor to the People - Automatron.esp
+	[FE:05E] T-49 Power Armor - Fallout Brotherhood Patch.esp
+	[FE:05F] Power Armor to the People - T-49 - Fallout Brotherhood Patch.esp
+	[FE:060] MogomraPAMs.esp
+	[FE:061] Power Armor to the People - Hellfire X-03 - All Factions Paintjob.esp
+	[FE:062] Power Armor to the People - MogomraPAMs.esp
+	[FE:063] CROSS_InstituteExpeditionarySuit.esp
+	[FE:064] CROSS_MojaveManhunter.esp
+	[FE:065] CROSS_BreakActionLaser.esp
+	[FE:066] CROSS_CryoLance.esp
+	[FE:067] Makeshiftshotgun.esp
+	[FE:068] 4estGimp_DoubleBarrel_LLPeer_MakeshiftShotgun.esp
+	[FE:069] RCW.esp
+	[FE:06A] FOLON_Bren_Addon.esp
+	[FE:06B] NV_LMG.esp
+	[FE:06C] VanBuren_223.esp
+	[FE:06D] XR92_Rifle.esp
+	[FE:06E] ImmersiveChembench.esp
+	[FE:06F] 4estGimp - AI Edits.esp
+	[FE:070] StoryWealthLocation-DiamondCity.esp
+	[FE:071] DiamondCity-PreVis.esp

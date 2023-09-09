@@ -578,7 +578,7 @@ PLUGINS:
 	[1A]     DarleneDLC.esp
 	[1B]     SS2Extended.esp
 	[1C]     SS2WastelandVenturers.esp
-	[1D]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[1D]     [SS20Addon] SimSettlements SuperStructures.esp
 	[1E]     SS2_FDK_TinyLiving.esp
 	[1F]     SS2-PraRandomAddon.esp
 	[20]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
@@ -886,7 +886,7 @@ PLUGINS:
 	[FE:068] SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
 	[FE:069] SS2Addon_MS_BareEssentials.esp
 	[FE:06A] SS2AOP_VaultTecTools.esp
-	[FE:06B] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:06B] [SS20Addon] BloodMoonRaiders.esp
 	[FE:06C] [CSR]SS2_Nordhagen_Beach.esp
 	[FE:06D] [SS2] BBVault 88.esp
 	[FE:06E] [SS2] National Park Training Ground.esp

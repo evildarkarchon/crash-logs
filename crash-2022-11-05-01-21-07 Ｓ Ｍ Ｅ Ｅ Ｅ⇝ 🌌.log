@@ -730,7 +730,7 @@ PLUGINS:
 	[16]     SS2Extended.esp
 	[17]     SS2WastelandVenturers.esp
 	[18]     SS2_SIMPDDDD.esp
-	[19]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[19]     [SS20Addon] SimSettlements SuperStructures.esp
 	[1A]     SS2-Jampads2.esp
 	[1B]     SS2_ruined_simsettlement_addonpack.esp
 	[1C]     JunkTownTwo.esp
@@ -939,7 +939,7 @@ PLUGINS:
 	[FE:022] ImmersiveDogmeat.esl
 	[FE:023] SS2AOP_VaultTecTools.esp
 	[FE:024] SS2_XDI Patch.esp
-	[FE:025] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:025] [SS20Addon] BloodMoonRaiders.esp
 	[FE:026] SS2_DLCSettlerPatch.esp
 	[FE:027] StoryWealth-HunkeredDown.esp
 	[FE:028] RotPP.esp

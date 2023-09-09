@@ -681,7 +681,7 @@ PLUGINS:
 	[1A]     the library.esp
 	[1B]     SS2Extended.esp
 	[1C]     The House.esp
-	[1D]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[1D]     [SS20Addon] SimSettlements SuperStructures.esp
 	[1E]     SS2WastelandVenturers.esp
 	[1F]     SS2_SIMPDDDD.esp
 	[20]     SS2-Jampads2.esp
@@ -925,7 +925,7 @@ PLUGINS:
 	[FE:04F] NukaTownTraderMoreItems.esl
 	[FE:050] QuestTweaks-DLC04MS01.esl
 	[FE:051] Rusty Face Fix.esl
-	[FE:052] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:052] [SS20Addon] BloodMoonRaiders.esp
 	[FE:053] SS2_DLCSettlerPatch.esp
 	[FE:054] SS2_XDI Patch.esp
 	[FE:055] SS2AOP_VaultTecTools.esp

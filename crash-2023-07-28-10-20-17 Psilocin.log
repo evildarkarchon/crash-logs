@@ -946,22 +946,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     ArmorKeywords.esm
-	[ 9]     WorkshopFramework.esm
-	[ A]     HUDFramework.esm
-	[ B]     XDI.esm
-	[ C]     SOTS.esp
-	[ D]     SouthOfTheSea.esm
-	[ E]     DCGuard_Overhaul.esp
-	[ F]     SS2.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     ArmorKeywords.esm
+	[09]     WorkshopFramework.esm
+	[0A]     HUDFramework.esm
+	[0B]     XDI.esm
+	[0C]     SOTS.esp
+	[0D]     SouthOfTheSea.esm
+	[0E]     DCGuard_Overhaul.esp
+	[0F]     SS2.esm
 	[10]     SS2_XPAC_Chapter2.esm
 	[11]     Toolz.esm
 	[12]     InstituteTechnologyOverhaul.esm
@@ -1088,7 +1088,7 @@ PLUGINS:
 	[8B]     VisibleWeaponsOnPacks.esp
 	[8C]     FO4 NPCs Travel.esp
 	[8D]     SS2_FDK_TinyLiving.esp
-	[8E]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[8E]     [SS20Addon] SimSettlements SuperStructures.esp
 	[8F]     EnclaveRemnants.esp
 	[90]     DefensePistol.esp
 	[91]     AtomicRadio.esp
@@ -1202,262 +1202,262 @@ PLUGINS:
 	[FD]     RED-StartMeUp.esp
 	[FE]     EnhancedLightsandFX.esp
 	[FF]     Institute Patch for PRC.esp
-	[FE:  0] PPF.esm
-	[FE:  1] Munitions - An Ammo Expansion.esl
-	[FE:  2] FastTravelAIDetectionFix.esl
-	[FE:  3] UniversalDisassembler.esl
-	[FE:  4] LIF.esl
-	[FE:  5] IllumBillboardsAIO.esl
-	[FE:  6] REFramework.esm
-	[FE:  7] DocsoftheCW.esl
-	[FE:  8] RunningWithHandsAnim.esl
-	[FE:  9] SwimmingAnims.esl
-	[FE:  A] LegendaryDropBugfix.esl
-	[FE:  B] NPSShopping.esl
-	[FE:  C] CanarySaveFileMonitor.esl
-	[FE:  D] HiPolyFacesCompanionPlugin.esl
-	[FE:  E] TheGlueFactory.esl
-	[FE:  F] UnassignmentFix.esl
-	[FE: 10] RadioactiveSignsAIO.esl
-	[FE: 11] AdjustableSurvivalModeDamage.esl
-	[FE: 12] CCKCR.esl
-	[FE: 13] HCKTerminalHack.esl
-	[FE: 14] GavMan_AbernathyJan22_CityPlan.esl
-	[FE: 15] GavMan_Starlight_Dome_Cityplan.esl
-	[FE: 16] RecruitTraderRylee.esl
-	[FE: 17] SS2_Addon_PETAdd.esl
-	[FE: 18] Natural Landscapes.esl
-	[FE: 19] T65PA.esl
-	[FE: 1A] PRCH.esl
-	[FE: 1B] FixRobotVisualEffects.esl
-	[FE: 1C] Munitions - Vanilla Ammo Addon.esl
-	[FE: 1D] OVT.esp
-	[FE: 1E] SavrenX HD DLC Armor and Clothes.esp
-	[FE: 1F] SavrenX HD Vanilla Armor.esp
-	[FE: 20] SavrenX HD Vanilla Clothes Optimized.esp
-	[FE: 21] SavrenXHdDlcPowerArmor.esp
-	[FE: 22] FATE Core - Tweaks.esp
-	[FE: 23] FATE Core - Fixes.esp
-	[FE: 24] 3DNPC_FO4-Patch.esp
-	[FE: 25] Yagisan_SSSL_Red_Rocket_Settlements.esp
-	[FE: 26] HuntressIslandSettlement.esp
-	[FE: 27] JamaicaEx.esp
-	[FE: 28] Region Names on Save Files.esp
-	[FE: 29] Lightweight Lighting.esp
-	[FE: 2A] Streamlined Weapons.esp
-	[FE: 2B] EdenMeadowsSettlement.esp
-	[FE: 2C] A Forest-Base Mod Patch.esp
-	[FE: 2D] SpectacleEx.esp
-	[FE: 2E] fairlinesettlement.esp
-	[FE: 2F] SunshineEx.esp
-	[FE: 30] SanctuaryEx.esp
-	[FE: 31] Thrive Redone.esp
-	[FE: 32] Better Locational Damage - DLC_Far_Harbor.esp
-	[FE: 33] WCLI_NatickSubstation.esp
-	[FE: 34] WCLI_RockIslandLighthouse.esp
-	[FE: 35] FensWayStation.esp
-	[FE: 36] DCGuard_Overhaul-StoryWealth.esp
-	[FE: 37] PondSettlement.esp
-	[FE: 38] HangManEx.esp
-	[FE: 39] A Forest-Fort Hope Revisited patch.esp
-	[FE: 3A] Yagisan_SSSL_Quick_Fill_Settlements.esp
-	[FE: 3B] Yagisan_SSSL_Lakeside_Cabin_Settlement.esp
-	[FE: 3C] Capped Out.esp
-	[FE: 3D] NewtonsRegards.esp
-	[FE: 3E] SOTS_Optimization.esp
-	[FE: 3F] Ownership Fixes.esp
-	[FE: 40] LOST Audio Tweaks.esp
-	[FE: 41] AUR_RebuildGreentopNursery.esp
-	[FE: 42] WarwickEx.esp
-	[FE: 43] Settlement_CoA_Ruined_Church.esp
-	[FE: 44] SommervilleEx.esp
-	[FE: 45] UNPC - ChickensRabbits.esp
-	[FE: 46] WCLI_NahantRedRocket.esp
-	[FE: 47] EgretToursEx.esp
-	[FE: 48] Better Locational Damage - DLC_Nuka_World.esp
-	[FE: 49] A Forest-Madkea.esp
-	[FE: 4A] Settlement_CoA_Crater_of_Atom.esp
-	[FE: 4B] BostonAirportEx.esp
-	[FE: 4C] A Forest-RynsFallout4.esp
-	[FE: 4D] Vault 111 PreWar Fence Restored.esp
-	[FE: 4E] CountyCrossingEx.esp
-	[FE: 4F] Diverse Cats.esp
-	[FE: 50] Pipe Gun Improvements.esp
-	[FE: 51] Survivor's Loadout.esp
-	[FE: 52] VUWR.esp
-	[FE: 53] WET.esp
-	[FE: 54] A Forest-Immersive Lexington.esp
-	[FE: 55] A Forest-Somerville Place Greekraged.esp
-	[FE: 56] Keep Radiants In Commonwealth.esp
-	[FE: 57] UNPC - SeaClaws.esp
-	[FE: 58] General Atomics Galleria - Settlement.esp
-	[FE: 59] A Forest-NRO-NewRedRocketOverhaul.esp
-	[FE: 5A] Dank_ECO.esp
-	[FE: 5B] A Forest-Murkwater Revisited.esp
-	[FE: 5C] Thuggysmurf_Optimization.esp
-	[FE: 5D] A Forest-Tenpines Bluff Overhaul Redux.esp
-	[FE: 5E] LechmereStationSettlement.esp
-	[FE: 5F] A Forest-Jalbert Brothers Expansion.esp
-	[FE: 60] BrahminVariation.esp
-	[FE: 61] A Forest-Sanctuary Hills Overhaul Redux.esp
-	[FE: 62] FATE Patch - Better Locational Damage.esp
-	[FE: 63] SOTS_AWKCR_AS_Patch.esp
-	[FE: 64] SOTS_AtomicWarlord.esp
-	[FE: 65] VUWR - AlternativeEdition.esp
-	[FE: 66] [Settlement] Mystic Pines.esp
-	[FE: 67] [Settlement] Vault 81 Entrance.esp
-	[FE: 68] 3dnpc-fairline-compat.esp
-	[FE: 69] A Forest-Boston_Police_Department.esp
-	[FE: 6A] A Forest-Vault 28 patch.esp
-	[FE: 6B] SwanPond - Settlement.esp
-	[FE: 6C] A Forest-MoreXplore.esp
-	[FE: 6D] A Forest-AlleyEncampmentSettlement.esp
-	[FE: 6E] A Forest-Plenty O Exploration patch.esp
-	[FE: 6F] MechLairPathfindingFix.esp
-	[FE: 70] PRP-SS2-Fixes-Ch2.esp
-	[FE: 71] secondaryAIO3.esp
-	[FE: 72] 4estGimp - GOP NPC LL Integration Update.esp
-	[FE: 73] Buildable_PAFrames.esp
-	[FE: 74] Move Store and Assign Power Armor.esp
-	[FE: 75] SS2_GunForHire_Patch.esp
-	[FE: 76] Rayburn Point [Settlement].esp
-	[FE: 77] EdenMeadowsSettlement_RecruitableSettlers.esp
-	[FE: 78] A Forest-USAFStationOlivia.esp
-	[FE: 79] Yagisan_SSSL_Home_Plate_Settlement.esp
-	[FE: 7A] Breakheart Banks - Settlement.esp
-	[FE: 7B] TerrainUndersides.esp
-	[FE: 7C] Charles River Cell Correction.esp
-	[FE: 7D] ss2c23dnpcpatch.esp
-	[FE: 7E] Sanctuary_Lantern_Remover.esp
-	[FE: 7F] BetterShackBridges.esp
-	[FE: 80] Remington870.esp
-	[FE: 81] Dank_WOP-F4NVServiceRifleRedux.esp
-	[FE: 82] Dank_WOP-M1Garand.esp
-	[FE: 83] Dank_ECO_DLCRobot.esp
-	[FE: 84] Dank_ECO_DLCNukaWorld.esp
-	[FE: 85] Dank_ECO_DLCCoast.esp
-	[FE: 86] Dank_ECO-UniversalDisassembler.esp
-	[FE: 87] Dank_ECO-INNR.esp
-	[FE: 88] FATE Patch - Combat Zone Restored.esp
-	[FE: 89] FATE Module - Basketball Crash Fix.esp
-	[FE: 8A] ImmersiveAnimationFramework.esp
-	[FE: 8B] BLD_IAF_Patch.esp
-	[FE: 8C] SuperMutantRedux VIS Patch.esp
-	[FE: 8D] Glowing Animals Emit Light.esp
-	[FE: 8E] Better Locational Damage - DLC_Automatron.esp
-	[FE: 8F] UniversalDisassembler-FIS.esp
-	[FE: 90] StandaloneWorkbenches.esp
-	[FE: 91] StartMeUpShaunDefaultAppearance.esp
-	[FE: 92] cVc Dead Wasteland 6 AWKCR-VIS_Patch.esp
-	[FE: 93] FGEP-Legendary.esp
-	[FE: 94] dD-Enhanced Blood Basic.esp
-	[FE: 95] WestTekTacticalOptics_-_REACTOR_ENB_PATCH_1.1.esp
-	[FE: 96] SunLightAlignment.esp
-	[FE: 97] Rusty Face Fix.esp
-	[FE: 98] NACskintonefix.esp
-	[FE: 99] BOREALIS.esp
-	[FE: 9A] FlaconOil_BA2_Upto4K_Part1.esp
-	[FE: 9B] ValiusHDTextures4K.esp
-	[FE: 9C] FAR.esp
-	[FE: 9D] Dreaded Deathclaws 4k.esp
-	[FE: 9E] VisibleWeapons.esp
-	[FE: 9F] Natural Rocks.esp
-	[FE: A0] IAF - Far Harbor & Nuka World.esp
-	[FE: A1] Crimsomrider's Accessories.esp
-	[FE: A2] Far West Minutemen.esp
-	[FE: A3] Clothing Of The Commonwealth.esp
-	[FE: A4] ConduitsCeiling.esp
-	[FE: A5] RemoveBlur.esp
-	[FE: A6] Perennial Power Armor.esp
-	[FE: A7] Less intrusive tutorial.esp
-	[FE: A8] Weapon Scrapping Redone.esp
-	[FE: A9] Clothing Scrapping Redone.esp
-	[FE: AA] WeirdMattressFix.esp
-	[FE: AB] Wetness Shader Fix.esp
-	[FE: AC] 4estGimp - RO1 BoT 3Pack Injection.esp
-	[FE: AD] Smoke-able Cigars Less OP patch.esp
-	[FE: AE] YouAndWhatArmy.esp
-	[FE: AF] BuildingBudgetExtender.esp
-	[FE: B0] HandsOff.esp
-	[FE: B1] Midwestern King In Yellow.esp
-	[FE: B2] Riot Shotgun - Unofficial Update.esp
-	[FE: B3] HeatherNewLook.esp
-	[FE: B4] secondaryrobot2.esp
-	[FE: B5] Power Armor Carry Weight.esp
-	[FE: B6] R91M.esp
-	[FE: B7] M2216.esp
-	[FE: B8] 4xFusionCore.esp
-	[FE: B9] MunitionsBallistics.esp
-	[FE: BA] HHWeaponsMinigun.esp
-	[FE: BB] HHWeaponsGatLaser.esp
-	[FE: BC] HHWeaponsFlamer.esp
-	[FE: BD] ActualizedPALite.esp
-	[FE: BE] TinkersWorkbench.esp
-	[FE: BF] JTC.esp
-	[FE: C0] AzarPonytailHairstyles.esp
-	[FE: C1] BetterSettlersNoLollygagging.esp
-	[FE: C2] BetterSettlersMortalPack.esp
-	[FE: C3] BetterSettlersLightArmorOnly.esp
-	[FE: C4] BetterSettlersCCAPack2.0.esp
-	[FE: C5] BrahminVariation-SS2.esp
-	[FE: C6] Raze My Settlement.esp
-	[FE: C7] Settlement infinite outside border time.esp
-	[FE: C8] Brahmin Watertrough.esp
-	[FE: C9] BrahminFeederFull.esp
-	[FE: CA] PlantMe.esp
-	[FE: CB] Munitions Manufacturing.esp
-	[FE: CC] TrueStormsFO4-FarHarbor.esp
-	[FE: CD] TrueStormsFO4-NukaWorld-FH-Compat.esp
-	[FE: CE] Lightweight Lighting + True Storms.esp
-	[FE: CF] C_VWAS-VWOP.esp
-	[FE: D0] Wall Oil Lamps.esp
-	[FE: D1] MiscAnimTweaks.esp
-	[FE: D2] Protected Unique Brahmin.esp
-	[FE: D3] TownMusicians.esp
-	[FE: D4] HiPolyFaces.esp
-	[FE: D5] SettleObjExpandPack-AllLightShadowEnabler.esp
-	[FE: D6] AndStayDown!10min.esp
-	[FE: D7] PilesofCorpses.esp
-	[FE: D8] AmericanAnimals.esp
-	[FE: D9] JS Synth Variations FaceGen.esp
-	[FE: DA] RobotSettlerNeverDestruct.esp
-	[FE: DB] More Where That Came From Diamond City.esp
-	[FE: DC] JunkTown-FENCES2.esp
-	[FE: DD] SS2AOP_VaultTecTools.esp
-	[FE: DE] SimSettlements2ChildSupport.esp
-	[FE: DF] SimHomestead2.esp
-	[FE: E0] SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
-	[FE: E1] TransferSettlements.esp
-	[FE: E2] brtrn_dogmeatDoubleArmor.esp
-	[FE: E3] M8rDisablePipboyEffects.esp
-	[FE: E4] PowerArmorNightVisionFarHarborPatch.esp
-	[FE: E5] [SS2] Ad Vic.esp
-	[FE: E6] ITI_Models.esp
-	[FE: E7] Defective_Synth.esp
-	[FE: E8] [ARRETH] FGEP SKK Feral Nights Patch.esp
-	[FE: E9] Ferals After Dark.esp
-	[FE: EA] Dead Settlement Brahmin Despawn.esp
-	[FE: EB] T65PA_BOS.esp
-	[FE: EC] Targeted Textures.esp
-	[FE: ED] FlaconOil_BA2_Upto4K_Part2.esp
-	[FE: EE] FlaconOil_BA2_Upto4K_Part3.esp
-	[FE: EF] HD Creatures Rework - Nuka-World.esp
-	[FE: F0] Friffy_Piper Outfit_Standalone.esp
-	[FE: F1] LooksMenu.esp
-	[FE: F2] Natural Roads.esp
-	[FE: F3] Grasslands - Healthy.esp
-	[FE: F4] Natural Landscapes.esp
-	[FE: F5] Ambient Wasteland.esp
-	[FE: F6] HD Creatures Rework - Far Harbor.esp
-	[FE: F7] Crows&Creatures_V1.esp
-	[FE: F8] EveryonesBestFriend.esp
-	[FE: F9] Passive Aggressive Piper.esp
-	[FE: FA] CBBE.esp
-	[FE: FB] CBBEHeadRearFix.esp
-	[FE: FC] NAC-FH.esp
-	[FE: FD] NAC-NW.esp
-	[FE: FE] TrueStormsFO4-EarlierSunsets.esp
-	[FE: FF] MoreCommonWeather-SlightlyMore.esp
+	[FE:000] PPF.esm
+	[FE:001] Munitions - An Ammo Expansion.esl
+	[FE:002] FastTravelAIDetectionFix.esl
+	[FE:003] UniversalDisassembler.esl
+	[FE:004] LIF.esl
+	[FE:005] IllumBillboardsAIO.esl
+	[FE:006] REFramework.esm
+	[FE:007] DocsoftheCW.esl
+	[FE:008] RunningWithHandsAnim.esl
+	[FE:009] SwimmingAnims.esl
+	[FE:00A] LegendaryDropBugfix.esl
+	[FE:00B] NPSShopping.esl
+	[FE:00C] CanarySaveFileMonitor.esl
+	[FE:00D] HiPolyFacesCompanionPlugin.esl
+	[FE:00E] TheGlueFactory.esl
+	[FE:00F] UnassignmentFix.esl
+	[FE:010] RadioactiveSignsAIO.esl
+	[FE:011] AdjustableSurvivalModeDamage.esl
+	[FE:012] CCKCR.esl
+	[FE:013] HCKTerminalHack.esl
+	[FE:014] GavMan_AbernathyJan22_CityPlan.esl
+	[FE:015] GavMan_Starlight_Dome_Cityplan.esl
+	[FE:016] RecruitTraderRylee.esl
+	[FE:017] SS2_Addon_PETAdd.esl
+	[FE:018] Natural Landscapes.esl
+	[FE:019] T65PA.esl
+	[FE:01A] PRCH.esl
+	[FE:01B] FixRobotVisualEffects.esl
+	[FE:01C] Munitions - Vanilla Ammo Addon.esl
+	[FE:01D] OVT.esp
+	[FE:01E] SavrenX HD DLC Armor and Clothes.esp
+	[FE:01F] SavrenX HD Vanilla Armor.esp
+	[FE:020] SavrenX HD Vanilla Clothes Optimized.esp
+	[FE:021] SavrenXHdDlcPowerArmor.esp
+	[FE:022] FATE Core - Tweaks.esp
+	[FE:023] FATE Core - Fixes.esp
+	[FE:024] 3DNPC_FO4-Patch.esp
+	[FE:025] Yagisan_SSSL_Red_Rocket_Settlements.esp
+	[FE:026] HuntressIslandSettlement.esp
+	[FE:027] JamaicaEx.esp
+	[FE:028] Region Names on Save Files.esp
+	[FE:029] Lightweight Lighting.esp
+	[FE:02A] Streamlined Weapons.esp
+	[FE:02B] EdenMeadowsSettlement.esp
+	[FE:02C] A Forest-Base Mod Patch.esp
+	[FE:02D] SpectacleEx.esp
+	[FE:02E] fairlinesettlement.esp
+	[FE:02F] SunshineEx.esp
+	[FE:030] SanctuaryEx.esp
+	[FE:031] Thrive Redone.esp
+	[FE:032] Better Locational Damage - DLC_Far_Harbor.esp
+	[FE:033] WCLI_NatickSubstation.esp
+	[FE:034] WCLI_RockIslandLighthouse.esp
+	[FE:035] FensWayStation.esp
+	[FE:036] DCGuard_Overhaul-StoryWealth.esp
+	[FE:037] PondSettlement.esp
+	[FE:038] HangManEx.esp
+	[FE:039] A Forest-Fort Hope Revisited patch.esp
+	[FE:03A] Yagisan_SSSL_Quick_Fill_Settlements.esp
+	[FE:03B] Yagisan_SSSL_Lakeside_Cabin_Settlement.esp
+	[FE:03C] Capped Out.esp
+	[FE:03D] NewtonsRegards.esp
+	[FE:03E] SOTS_Optimization.esp
+	[FE:03F] Ownership Fixes.esp
+	[FE:040] LOST Audio Tweaks.esp
+	[FE:041] AUR_RebuildGreentopNursery.esp
+	[FE:042] WarwickEx.esp
+	[FE:043] Settlement_CoA_Ruined_Church.esp
+	[FE:044] SommervilleEx.esp
+	[FE:045] UNPC - ChickensRabbits.esp
+	[FE:046] WCLI_NahantRedRocket.esp
+	[FE:047] EgretToursEx.esp
+	[FE:048] Better Locational Damage - DLC_Nuka_World.esp
+	[FE:049] A Forest-Madkea.esp
+	[FE:04A] Settlement_CoA_Crater_of_Atom.esp
+	[FE:04B] BostonAirportEx.esp
+	[FE:04C] A Forest-RynsFallout4.esp
+	[FE:04D] Vault 111 PreWar Fence Restored.esp
+	[FE:04E] CountyCrossingEx.esp
+	[FE:04F] Diverse Cats.esp
+	[FE:050] Pipe Gun Improvements.esp
+	[FE:051] Survivor's Loadout.esp
+	[FE:052] VUWR.esp
+	[FE:053] WET.esp
+	[FE:054] A Forest-Immersive Lexington.esp
+	[FE:055] A Forest-Somerville Place Greekraged.esp
+	[FE:056] Keep Radiants In Commonwealth.esp
+	[FE:057] UNPC - SeaClaws.esp
+	[FE:058] General Atomics Galleria - Settlement.esp
+	[FE:059] A Forest-NRO-NewRedRocketOverhaul.esp
+	[FE:05A] Dank_ECO.esp
+	[FE:05B] A Forest-Murkwater Revisited.esp
+	[FE:05C] Thuggysmurf_Optimization.esp
+	[FE:05D] A Forest-Tenpines Bluff Overhaul Redux.esp
+	[FE:05E] LechmereStationSettlement.esp
+	[FE:05F] A Forest-Jalbert Brothers Expansion.esp
+	[FE:060] BrahminVariation.esp
+	[FE:061] A Forest-Sanctuary Hills Overhaul Redux.esp
+	[FE:062] FATE Patch - Better Locational Damage.esp
+	[FE:063] SOTS_AWKCR_AS_Patch.esp
+	[FE:064] SOTS_AtomicWarlord.esp
+	[FE:065] VUWR - AlternativeEdition.esp
+	[FE:066] [Settlement] Mystic Pines.esp
+	[FE:067] [Settlement] Vault 81 Entrance.esp
+	[FE:068] 3dnpc-fairline-compat.esp
+	[FE:069] A Forest-Boston_Police_Department.esp
+	[FE:06A] A Forest-Vault 28 patch.esp
+	[FE:06B] SwanPond - Settlement.esp
+	[FE:06C] A Forest-MoreXplore.esp
+	[FE:06D] A Forest-AlleyEncampmentSettlement.esp
+	[FE:06E] A Forest-Plenty O Exploration patch.esp
+	[FE:06F] MechLairPathfindingFix.esp
+	[FE:070] PRP-SS2-Fixes-Ch2.esp
+	[FE:071] secondaryAIO3.esp
+	[FE:072] 4estGimp - GOP NPC LL Integration Update.esp
+	[FE:073] Buildable_PAFrames.esp
+	[FE:074] Move Store and Assign Power Armor.esp
+	[FE:075] SS2_GunForHire_Patch.esp
+	[FE:076] Rayburn Point [Settlement].esp
+	[FE:077] EdenMeadowsSettlement_RecruitableSettlers.esp
+	[FE:078] A Forest-USAFStationOlivia.esp
+	[FE:079] Yagisan_SSSL_Home_Plate_Settlement.esp
+	[FE:07A] Breakheart Banks - Settlement.esp
+	[FE:07B] TerrainUndersides.esp
+	[FE:07C] Charles River Cell Correction.esp
+	[FE:07D] ss2c23dnpcpatch.esp
+	[FE:07E] Sanctuary_Lantern_Remover.esp
+	[FE:07F] BetterShackBridges.esp
+	[FE:080] Remington870.esp
+	[FE:081] Dank_WOP-F4NVServiceRifleRedux.esp
+	[FE:082] Dank_WOP-M1Garand.esp
+	[FE:083] Dank_ECO_DLCRobot.esp
+	[FE:084] Dank_ECO_DLCNukaWorld.esp
+	[FE:085] Dank_ECO_DLCCoast.esp
+	[FE:086] Dank_ECO-UniversalDisassembler.esp
+	[FE:087] Dank_ECO-INNR.esp
+	[FE:088] FATE Patch - Combat Zone Restored.esp
+	[FE:089] FATE Module - Basketball Crash Fix.esp
+	[FE:08A] ImmersiveAnimationFramework.esp
+	[FE:08B] BLD_IAF_Patch.esp
+	[FE:08C] SuperMutantRedux VIS Patch.esp
+	[FE:08D] Glowing Animals Emit Light.esp
+	[FE:08E] Better Locational Damage - DLC_Automatron.esp
+	[FE:08F] UniversalDisassembler-FIS.esp
+	[FE:090] StandaloneWorkbenches.esp
+	[FE:091] StartMeUpShaunDefaultAppearance.esp
+	[FE:092] cVc Dead Wasteland 6 AWKCR-VIS_Patch.esp
+	[FE:093] FGEP-Legendary.esp
+	[FE:094] dD-Enhanced Blood Basic.esp
+	[FE:095] WestTekTacticalOptics_-_REACTOR_ENB_PATCH_1.1.esp
+	[FE:096] SunLightAlignment.esp
+	[FE:097] Rusty Face Fix.esp
+	[FE:098] NACskintonefix.esp
+	[FE:099] BOREALIS.esp
+	[FE:09A] FlaconOil_BA2_Upto4K_Part1.esp
+	[FE:09B] ValiusHDTextures4K.esp
+	[FE:09C] FAR.esp
+	[FE:09D] Dreaded Deathclaws 4k.esp
+	[FE:09E] VisibleWeapons.esp
+	[FE:09F] Natural Rocks.esp
+	[FE:0A0] IAF - Far Harbor & Nuka World.esp
+	[FE:0A1] Crimsomrider's Accessories.esp
+	[FE:0A2] Far West Minutemen.esp
+	[FE:0A3] Clothing Of The Commonwealth.esp
+	[FE:0A4] ConduitsCeiling.esp
+	[FE:0A5] RemoveBlur.esp
+	[FE:0A6] Perennial Power Armor.esp
+	[FE:0A7] Less intrusive tutorial.esp
+	[FE:0A8] Weapon Scrapping Redone.esp
+	[FE:0A9] Clothing Scrapping Redone.esp
+	[FE:0AA] WeirdMattressFix.esp
+	[FE:0AB] Wetness Shader Fix.esp
+	[FE:0AC] 4estGimp - RO1 BoT 3Pack Injection.esp
+	[FE:0AD] Smoke-able Cigars Less OP patch.esp
+	[FE:0AE] YouAndWhatArmy.esp
+	[FE:0AF] BuildingBudgetExtender.esp
+	[FE:0B0] HandsOff.esp
+	[FE:0B1] Midwestern King In Yellow.esp
+	[FE:0B2] Riot Shotgun - Unofficial Update.esp
+	[FE:0B3] HeatherNewLook.esp
+	[FE:0B4] secondaryrobot2.esp
+	[FE:0B5] Power Armor Carry Weight.esp
+	[FE:0B6] R91M.esp
+	[FE:0B7] M2216.esp
+	[FE:0B8] 4xFusionCore.esp
+	[FE:0B9] MunitionsBallistics.esp
+	[FE:0BA] HHWeaponsMinigun.esp
+	[FE:0BB] HHWeaponsGatLaser.esp
+	[FE:0BC] HHWeaponsFlamer.esp
+	[FE:0BD] ActualizedPALite.esp
+	[FE:0BE] TinkersWorkbench.esp
+	[FE:0BF] JTC.esp
+	[FE:0C0] AzarPonytailHairstyles.esp
+	[FE:0C1] BetterSettlersNoLollygagging.esp
+	[FE:0C2] BetterSettlersMortalPack.esp
+	[FE:0C3] BetterSettlersLightArmorOnly.esp
+	[FE:0C4] BetterSettlersCCAPack2.0.esp
+	[FE:0C5] BrahminVariation-SS2.esp
+	[FE:0C6] Raze My Settlement.esp
+	[FE:0C7] Settlement infinite outside border time.esp
+	[FE:0C8] Brahmin Watertrough.esp
+	[FE:0C9] BrahminFeederFull.esp
+	[FE:0CA] PlantMe.esp
+	[FE:0CB] Munitions Manufacturing.esp
+	[FE:0CC] TrueStormsFO4-FarHarbor.esp
+	[FE:0CD] TrueStormsFO4-NukaWorld-FH-Compat.esp
+	[FE:0CE] Lightweight Lighting + True Storms.esp
+	[FE:0CF] C_VWAS-VWOP.esp
+	[FE:0D0] Wall Oil Lamps.esp
+	[FE:0D1] MiscAnimTweaks.esp
+	[FE:0D2] Protected Unique Brahmin.esp
+	[FE:0D3] TownMusicians.esp
+	[FE:0D4] HiPolyFaces.esp
+	[FE:0D5] SettleObjExpandPack-AllLightShadowEnabler.esp
+	[FE:0D6] AndStayDown!10min.esp
+	[FE:0D7] PilesofCorpses.esp
+	[FE:0D8] AmericanAnimals.esp
+	[FE:0D9] JS Synth Variations FaceGen.esp
+	[FE:0DA] RobotSettlerNeverDestruct.esp
+	[FE:0DB] More Where That Came From Diamond City.esp
+	[FE:0DC] JunkTown-FENCES2.esp
+	[FE:0DD] SS2AOP_VaultTecTools.esp
+	[FE:0DE] SimSettlements2ChildSupport.esp
+	[FE:0DF] SimHomestead2.esp
+	[FE:0E0] SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
+	[FE:0E1] TransferSettlements.esp
+	[FE:0E2] brtrn_dogmeatDoubleArmor.esp
+	[FE:0E3] M8rDisablePipboyEffects.esp
+	[FE:0E4] PowerArmorNightVisionFarHarborPatch.esp
+	[FE:0E5] [SS2] Ad Vic.esp
+	[FE:0E6] ITI_Models.esp
+	[FE:0E7] Defective_Synth.esp
+	[FE:0E8] [ARRETH] FGEP SKK Feral Nights Patch.esp
+	[FE:0E9] Ferals After Dark.esp
+	[FE:0EA] Dead Settlement Brahmin Despawn.esp
+	[FE:0EB] T65PA_BOS.esp
+	[FE:0EC] Targeted Textures.esp
+	[FE:0ED] FlaconOil_BA2_Upto4K_Part2.esp
+	[FE:0EE] FlaconOil_BA2_Upto4K_Part3.esp
+	[FE:0EF] HD Creatures Rework - Nuka-World.esp
+	[FE:0F0] Friffy_Piper Outfit_Standalone.esp
+	[FE:0F1] LooksMenu.esp
+	[FE:0F2] Natural Roads.esp
+	[FE:0F3] Grasslands - Healthy.esp
+	[FE:0F4] Natural Landscapes.esp
+	[FE:0F5] Ambient Wasteland.esp
+	[FE:0F6] HD Creatures Rework - Far Harbor.esp
+	[FE:0F7] Crows&Creatures_V1.esp
+	[FE:0F8] EveryonesBestFriend.esp
+	[FE:0F9] Passive Aggressive Piper.esp
+	[FE:0FA] CBBE.esp
+	[FE:0FB] CBBEHeadRearFix.esp
+	[FE:0FC] NAC-FH.esp
+	[FE:0FD] NAC-NW.esp
+	[FE:0FE] TrueStormsFO4-EarlierSunsets.esp
+	[FE:0FF] MoreCommonWeather-SlightlyMore.esp
 	[FE:100] TrueStormsFO4-EarlierSunsetsFH.esp
 	[FE:101] TrueStormsFO4 - Region Names Patch.esp
 	[FE:102] Radiant Clouds and Fogs.esp

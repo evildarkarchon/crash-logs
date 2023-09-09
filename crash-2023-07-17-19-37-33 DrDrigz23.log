@@ -933,22 +933,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     XDI.esm
-	[ 9]     HUDFramework.esm
-	[ A]     ArmorKeywords.esm
-	[ B]     AAF.esm
-	[ C]     MutantMenagerie.esm
-	[ D]     MutantMenagerie_FarHarbor.esm
-	[ E]     SouthOfTheSea.esm
-	[ F]     ProjectMojave.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     XDI.esm
+	[09]     HUDFramework.esm
+	[0A]     ArmorKeywords.esm
+	[0B]     AAF.esm
+	[0C]     MutantMenagerie.esm
+	[0D]     MutantMenagerie_FarHarbor.esm
+	[0E]     SouthOfTheSea.esm
+	[0F]     ProjectMojave.esm
 	[10]     CWWorkshopMaster.esm
 	[11]     Companion Infinite Ammo and Unbreakable Power Armour.esm
 	[12]     TacticalReload.esm
@@ -1176,139 +1176,139 @@ PLUGINS:
 	[F0]     RealAI.esp
 	[F1]     FlaconOil_BA2_1K_Part2.esp
 	[F2]     SKKFastStartNewGame.esp
-	[FE:  0] BakaFramework.esm
-	[FE:  1] RadioactiveSignsAIO.esl
-	[FE:  2] BrainDanceCP77.esl
-	[FE:  3] Skb_MachinegunsRebirth.esl
-	[FE:  4] DocsoftheCW.esl
-	[FE:  5] SuperMutantFollowerAllright.esl
-	[FE:  6] Skb-MinigunsRebirth.esl
-	[FE:  7] T65PA.esl
-	[FE:  8] SelectPowerArmor.esl
-	[FE:  9] CWWorkshopPackPart2.esl
-	[FE:  A] Quick_Modification_Weapon_by_tooun.esl
-	[FE:  B] Centaur.esl
-	[FE:  C] Dogs can grab player.esl
-	[FE:  D] FaceLight.esl
-	[FE:  E] EnclavePack.esl
-	[FE:  F] HellcatPA.esl
-	[FE: 10] KillTips_by_tooun.esl
-	[FE: 11] TeslaHeavyGun.esl
-	[FE: 12] Unlimited Fusion Core power.esl
-	[FE: 13] YouAndWhatArmy-ButItsBrotherhood.esl
-	[FE: 14] YouAndWhatArmy-ButItsTheInstitute.esl
-	[FE: 15] dpjetandxcell.esl
-	[FE: 16] NXGEN Texture Pack.esl
-	[FE: 17] dppsychoandmedx.esl
-	[FE: 18] FO4ParticlePatch.esp
-	[FE: 19] Better Locational Damage - DLC_Far_Harbor.esp
-	[FE: 1A] SouthOfTheSea[Previs].esp
-	[FE: 1B] Forsythia Replacer.esp
-	[FE: 1C] eXoKetarosLootableTreasures.esp
-	[FE: 1D] Dank_ArmorOverrides.esp
-	[FE: 1E] QuestTagsRedux.esp
-	[FE: 1F] Better Locational Damage - DLC_Nuka_World.esp
-	[FE: 20] F4llout76 - Mutations.esp
-	[FE: 21] Classic_Books.esp
-	[FE: 22] JSRS_Regions.esp
-	[FE: 23] Dank_ECO.esp
-	[FE: 24] NAC X Water LOD Fix.esp
-	[FE: 25] LC's UHD Mutant Hound.esp
-	[FE: 26] LC's UHD Skeletons.esp
-	[FE: 27] LC's UHD Mirelurk Queen.esp
-	[FE: 28] CityAmbience.esp
-	[FE: 29] BadBoys-PowerArmorCivilServants.esp
-	[FE: 2A] BLD_Armor_Overhaul.esp
-	[FE: 2B] LC's UHD Skeleton Wardrobe.esp
-	[FE: 2C] Better Locational Damage - DLC_Automatron.esp
-	[FE: 2D] SuperMutantRedux VIS Patch.esp
-	[FE: 2E] BiohazardSuit - Forged.esp
-	[FE: 2F] Bullet Impact Overhaul.esp
-	[FE: 30] CROSS_CryoLance.esp
-	[FE: 31] Burst Impact Blast FX.esp
-	[FE: 32] NACWindPatch.esp
-	[FE: 33] ClassicRadiationPoisoning2.esp
-	[FE: 34] 3rd Person Cam SmallFix.esp
-	[FE: 35] Deathclaw Grab Skills.esp
-	[FE: 36] Delta Gears of War - Nuka-World Raiders (Disciples).esp
-	[FE: 37] DungeonRespawns.esp
-	[FE: 38] Dank_INNRoverride.esp
-	[FE: 39] 4estGimp - FGEP_TankTweakFix.esp
-	[FE: 3A] [ARRETH] NoExploderKnowckdown.esp
-	[FE: 3B] [ARR] MZP Far Harbor Patch.esp
-	[FE: 3C] M8rDisablePipboyEffects.esp
-	[FE: 3D] JSRS_FarHarbor.esp
-	[FE: 3E] HavenTrooper.esp
-	[FE: 3F] Horrific_Ferals.esp
-	[FE: 40] ImmersiveLegendaryMutations.esp
-	[FE: 41] Improved - Animated Accessible Backpack.esp
-	[FE: 42] Infinite Armory - RR.esp
-	[FE: 43] Infinite Armory - Institute.esp
-	[FE: 44] Ketaros_Treasures_DLC01.esp
-	[FE: 45] LC's UHD Bloatfly.esp
-	[FE: 46] LC's UHD Brahmin.esp
-	[FE: 47] LC's UHD Bloodrage Mirelurk.esp
-	[FE: 48] LC's UHD Radroach.esp
-	[FE: 49] LC's UHD Stingwing.esp
-	[FE: 4A] MGS Haven Trooper - Nuka-World Raiders (Operators).esp
-	[FE: 4B] C_VWAS-VWOP.esp
-	[FE: 4C] Zenit_TacticalReloadPatch.esp
-	[FE: 4D] 00LK_MW_Explosions.esp
-	[FE: 4E] Movement Speed Revised.esp
-	[FE: 4F] JSRS_NukaWorld.esp
-	[FE: 50] ParkCoventry.esp
-	[FE: 51] Physics Sound Overhaul.esp
-	[FE: 52] VCMT Expansion patch - PROJECT VARIANCE.esp
-	[FE: 53] Rakshasa Armory - Coursers.esp
-	[FE: 54] Rakshasa Armory - Nuka-World Raiders (Pack).esp
-	[FE: 55] Elzee Breathe.esp
-	[FE: 56] RussianStimpack.esp
-	[FE: 57] SCOURGE - Vanilla.esp
-	[FE: 58] SCOURGE - Automatron.esp
-	[FE: 59] SCOURGE - Far Harbor.esp
-	[FE: 5A] SCOURGE - Nuka World.esp
-	[FE: 5B] SCOURGE - Base Game.esp
-	[FE: 5C] Sinister Ambient Sound.esp
-	[FE: 5D] TacticalHuman.esp
-	[FE: 5E] YAWA - BOS Hostility Patch.esp
-	[FE: 5F] YAWA - INST Hostility Patch.esp
-	[FE: 60] YouAndWhatArmy.esp
-	[FE: 61] TacticalReload_IngameSwitch.esp
-	[FE: 62] Dank_ArmorOverrides_DLCCoast.esp
-	[FE: 63] Dank_ArmorOverrides_DLCNukaWorld.esp
-	[FE: 64] Dank_ArmorOverrides_DLCRobot.esp
-	[FE: 65] M9A3_LvlLists.esp
-	[FE: 66] M9A3_TR.esp
-	[FE: 67] MWR_Opfor.esp
-	[FE: 68] CoD MW OpFor - CoA.esp
-	[FE: 69] MWR_SAS.esp
-	[FE: 6A] ISO-Hemlock_LL.esp
-	[FE: 6B] ISO-Hemlock_TRPatch.esp
-	[FE: 6C] Computer Console illuminated.esp
-	[FE: 6D] Computer Console illuminated Part 2.esp
-	[FE: 6E] Construction illuminated.esp
-	[FE: 6F] TinkersWorkbench.esp
-	[FE: 70] 00-CyberBreathingMask.esp
-	[FE: 71] Miscellaneous illuminated.esp
-	[FE: 72] Dank_ECO_DLCCoast.esp
-	[FE: 73] Dank_ECO_DLCNukaWorld.esp
-	[FE: 74] Dank_ECO_DLCRobot.esp
-	[FE: 75] Dank_LEO.esp
-	[FE: 76] Dank_LEO-Automatron.esp
-	[FE: 77] Dank_LEO_DLCCoast.esp
-	[FE: 78] Dank_LEO_DLCNukaWorld.esp
-	[FE: 79] Rad Barrels illuminated.esp
-	[FE: 7A] Street Clock illuminated.esp
-	[FE: 7B] Heather HiPoly Overhaul - harley.esp
-	[FE: 7C] BOCW SEAL Team 10 - Caravan Guards.esp
-	[FE: 7D] novesRecceLLL.esp
-	[FE: 7E] BOCW SEAL Team 10 - DC Guards.esp
-	[FE: 7F] BOCW SEAL Team 10 - Triggermen.esp
-	[FE: 80] Winters_FJX-Imperium_LL.esp
-	[FE: 81] SimpleDodges.esp
-	[FE: 82] DivisionWatch.esp
-	[FE: 83] Elzee Car Alarm.esp
-	[FE: 84] Alternative Satellite World Maps.esp
-	[FE: 85] Bruen Bullpup Family_Expanded.esp
-	[FE: 86] PMC Operators - Rust Devils Swedish.esp
-	[FE: 87] BTSUDataGloves.esp
+	[FE:000] BakaFramework.esm
+	[FE:001] RadioactiveSignsAIO.esl
+	[FE:002] BrainDanceCP77.esl
+	[FE:003] Skb_MachinegunsRebirth.esl
+	[FE:004] DocsoftheCW.esl
+	[FE:005] SuperMutantFollowerAllright.esl
+	[FE:006] Skb-MinigunsRebirth.esl
+	[FE:007] T65PA.esl
+	[FE:008] SelectPowerArmor.esl
+	[FE:009] CWWorkshopPackPart2.esl
+	[FE:00A] Quick_Modification_Weapon_by_tooun.esl
+	[FE:00B] Centaur.esl
+	[FE:00C] Dogs can grab player.esl
+	[FE:00D] FaceLight.esl
+	[FE:00E] EnclavePack.esl
+	[FE:00F] HellcatPA.esl
+	[FE:010] KillTips_by_tooun.esl
+	[FE:011] TeslaHeavyGun.esl
+	[FE:012] Unlimited Fusion Core power.esl
+	[FE:013] YouAndWhatArmy-ButItsBrotherhood.esl
+	[FE:014] YouAndWhatArmy-ButItsTheInstitute.esl
+	[FE:015] dpjetandxcell.esl
+	[FE:016] NXGEN Texture Pack.esl
+	[FE:017] dppsychoandmedx.esl
+	[FE:018] FO4ParticlePatch.esp
+	[FE:019] Better Locational Damage - DLC_Far_Harbor.esp
+	[FE:01A] SouthOfTheSea[Previs].esp
+	[FE:01B] Forsythia Replacer.esp
+	[FE:01C] eXoKetarosLootableTreasures.esp
+	[FE:01D] Dank_ArmorOverrides.esp
+	[FE:01E] QuestTagsRedux.esp
+	[FE:01F] Better Locational Damage - DLC_Nuka_World.esp
+	[FE:020] F4llout76 - Mutations.esp
+	[FE:021] Classic_Books.esp
+	[FE:022] JSRS_Regions.esp
+	[FE:023] Dank_ECO.esp
+	[FE:024] NAC X Water LOD Fix.esp
+	[FE:025] LC's UHD Mutant Hound.esp
+	[FE:026] LC's UHD Skeletons.esp
+	[FE:027] LC's UHD Mirelurk Queen.esp
+	[FE:028] CityAmbience.esp
+	[FE:029] BadBoys-PowerArmorCivilServants.esp
+	[FE:02A] BLD_Armor_Overhaul.esp
+	[FE:02B] LC's UHD Skeleton Wardrobe.esp
+	[FE:02C] Better Locational Damage - DLC_Automatron.esp
+	[FE:02D] SuperMutantRedux VIS Patch.esp
+	[FE:02E] BiohazardSuit - Forged.esp
+	[FE:02F] Bullet Impact Overhaul.esp
+	[FE:030] CROSS_CryoLance.esp
+	[FE:031] Burst Impact Blast FX.esp
+	[FE:032] NACWindPatch.esp
+	[FE:033] ClassicRadiationPoisoning2.esp
+	[FE:034] 3rd Person Cam SmallFix.esp
+	[FE:035] Deathclaw Grab Skills.esp
+	[FE:036] Delta Gears of War - Nuka-World Raiders (Disciples).esp
+	[FE:037] DungeonRespawns.esp
+	[FE:038] Dank_INNRoverride.esp
+	[FE:039] 4estGimp - FGEP_TankTweakFix.esp
+	[FE:03A] [ARRETH] NoExploderKnowckdown.esp
+	[FE:03B] [ARR] MZP Far Harbor Patch.esp
+	[FE:03C] M8rDisablePipboyEffects.esp
+	[FE:03D] JSRS_FarHarbor.esp
+	[FE:03E] HavenTrooper.esp
+	[FE:03F] Horrific_Ferals.esp
+	[FE:040] ImmersiveLegendaryMutations.esp
+	[FE:041] Improved - Animated Accessible Backpack.esp
+	[FE:042] Infinite Armory - RR.esp
+	[FE:043] Infinite Armory - Institute.esp
+	[FE:044] Ketaros_Treasures_DLC01.esp
+	[FE:045] LC's UHD Bloatfly.esp
+	[FE:046] LC's UHD Brahmin.esp
+	[FE:047] LC's UHD Bloodrage Mirelurk.esp
+	[FE:048] LC's UHD Radroach.esp
+	[FE:049] LC's UHD Stingwing.esp
+	[FE:04A] MGS Haven Trooper - Nuka-World Raiders (Operators).esp
+	[FE:04B] C_VWAS-VWOP.esp
+	[FE:04C] Zenit_TacticalReloadPatch.esp
+	[FE:04D] 00LK_MW_Explosions.esp
+	[FE:04E] Movement Speed Revised.esp
+	[FE:04F] JSRS_NukaWorld.esp
+	[FE:050] ParkCoventry.esp
+	[FE:051] Physics Sound Overhaul.esp
+	[FE:052] VCMT Expansion patch - PROJECT VARIANCE.esp
+	[FE:053] Rakshasa Armory - Coursers.esp
+	[FE:054] Rakshasa Armory - Nuka-World Raiders (Pack).esp
+	[FE:055] Elzee Breathe.esp
+	[FE:056] RussianStimpack.esp
+	[FE:057] SCOURGE - Vanilla.esp
+	[FE:058] SCOURGE - Automatron.esp
+	[FE:059] SCOURGE - Far Harbor.esp
+	[FE:05A] SCOURGE - Nuka World.esp
+	[FE:05B] SCOURGE - Base Game.esp
+	[FE:05C] Sinister Ambient Sound.esp
+	[FE:05D] TacticalHuman.esp
+	[FE:05E] YAWA - BOS Hostility Patch.esp
+	[FE:05F] YAWA - INST Hostility Patch.esp
+	[FE:060] YouAndWhatArmy.esp
+	[FE:061] TacticalReload_IngameSwitch.esp
+	[FE:062] Dank_ArmorOverrides_DLCCoast.esp
+	[FE:063] Dank_ArmorOverrides_DLCNukaWorld.esp
+	[FE:064] Dank_ArmorOverrides_DLCRobot.esp
+	[FE:065] M9A3_LvlLists.esp
+	[FE:066] M9A3_TR.esp
+	[FE:067] MWR_Opfor.esp
+	[FE:068] CoD MW OpFor - CoA.esp
+	[FE:069] MWR_SAS.esp
+	[FE:06A] ISO-Hemlock_LL.esp
+	[FE:06B] ISO-Hemlock_TRPatch.esp
+	[FE:06C] Computer Console illuminated.esp
+	[FE:06D] Computer Console illuminated Part 2.esp
+	[FE:06E] Construction illuminated.esp
+	[FE:06F] TinkersWorkbench.esp
+	[FE:070] 00-CyberBreathingMask.esp
+	[FE:071] Miscellaneous illuminated.esp
+	[FE:072] Dank_ECO_DLCCoast.esp
+	[FE:073] Dank_ECO_DLCNukaWorld.esp
+	[FE:074] Dank_ECO_DLCRobot.esp
+	[FE:075] Dank_LEO.esp
+	[FE:076] Dank_LEO-Automatron.esp
+	[FE:077] Dank_LEO_DLCCoast.esp
+	[FE:078] Dank_LEO_DLCNukaWorld.esp
+	[FE:079] Rad Barrels illuminated.esp
+	[FE:07A] Street Clock illuminated.esp
+	[FE:07B] Heather HiPoly Overhaul - harley.esp
+	[FE:07C] BOCW SEAL Team 10 - Caravan Guards.esp
+	[FE:07D] novesRecceLLL.esp
+	[FE:07E] BOCW SEAL Team 10 - DC Guards.esp
+	[FE:07F] BOCW SEAL Team 10 - Triggermen.esp
+	[FE:080] Winters_FJX-Imperium_LL.esp
+	[FE:081] SimpleDodges.esp
+	[FE:082] DivisionWatch.esp
+	[FE:083] Elzee Car Alarm.esp
+	[FE:084] Alternative Satellite World Maps.esp
+	[FE:085] Bruen Bullpup Family_Expanded.esp
+	[FE:086] PMC Operators - Rust Devils Swedish.esp
+	[FE:087] BTSUDataGloves.esp

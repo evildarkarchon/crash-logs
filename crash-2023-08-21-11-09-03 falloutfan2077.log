@@ -1388,22 +1388,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     UniquePlayerBody.esm
-	[ 9]     HUDFramework.esm
-	[ A]     WorkshopFramework.esm
-	[ B]     [A0] KT_Framework.esm
-	[ C]     AAF.esm
-	[ D]     MutantMenagerie.esm
-	[ E]     MutantMenagerie_FarHarbor.esm
-	[ F]     MutantMenagerie_NukaWorld.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     UniquePlayerBody.esm
+	[09]     HUDFramework.esm
+	[0A]     WorkshopFramework.esm
+	[0B]     [A0] KT_Framework.esm
+	[0C]     AAF.esm
+	[0D]     MutantMenagerie.esm
+	[0E]     MutantMenagerie_FarHarbor.esm
+	[0F]     MutantMenagerie_NukaWorld.esm
 	[10]     PlasmaArsenal.esp
 	[11]     SS2.esm
 	[12]     SS2_XPAC_Chapter2.esm
@@ -1608,262 +1608,262 @@ PLUGINS:
 	[D9]     M8r Complex Sorter.esp
 	[DA]     M8r Complex Sorter-part2.esp
 	[DB]     skeletonfemaleplayerLMCC.esp
-	[FE:  0] Q_ElevatorTransitionOff.esp
-	[FE:  1] AAFThemes.esl
-	[FE:  2] BakaFramework.esm
-	[FE:  3] [A0] KT_Framework_Addon.esl
-	[FE:  4] Heart Shirt.esl
-	[FE:  5] Jinga C Bodysuit.esl
-	[FE:  6] MAIM Master.esm
-	[FE:  7] PPF.esm
-	[FE:  8] FATE Core - Fixes.esl
-	[FE:  9] LegendaryDropBugfix.esl
-	[FE:  A] NoDialogueAutoRotAndForcedPos.esl
-	[FE:  B] FastTravelAIDetectionFix.esl
-	[FE:  C] WashOutThatCum.esl
-	[FE:  D] Munitions - An Ammo Expansion.esl
-	[FE:  E] Munitions - Vanilla Ammo Addon.esl
-	[FE:  F] RedRocketsGlareII.esl
-	[FE: 10] BusStopLighting.esl
-	[FE: 11] Ketaros_NewMags.esl
-	[FE: 12] LIF.esl
-	[FE: 13] BodyTalk3-RaiderNormalsFix.esl
-	[FE: 14] HiPolyFacesCompanionPlugin.esl
-	[FE: 15] SS2WorkshopHUDOverride.esl
-	[FE: 16] Nuka World HD Texture Pack.esl
-	[FE: 17] AWHD2KNukaWorld.esl
-	[FE: 18] AWHD2KAutomatron.esl
-	[FE: 19] AWHD2KFarHarbour.esl
-	[FE: 1A] Cranky.esl
-	[FE: 1B] CCKCR.esl
-	[FE: 1C] [F1] KT_DLC_Magazines.esl
-	[FE: 1D] RecruitHaylen.esl
-	[FE: 1E] RecruitHaylen_EditableAppearancePatch.esl
-	[FE: 1F] Recipes76.esl
-	[FE: 20] CAPA.esl
-	[FE: 21] ClassicUnarmedPack.esl
-	[FE: 22] FG_ReloadSounds.esl
-	[FE: 23] Geckos.esl
-	[FE: 24] QuestTweaks-DLC04MS01.esl
-	[FE: 25] HaxRPG7.esl
-	[FE: 26] Skb-MinigunsRebirth.esl
-	[FE: 27] T65PA.esl
-	[FE: 28] ClassicMeleePack.esl
-	[FE: 29] L96A1.esl
-	[FE: 2A] CanarySaveFileMonitor.esl
-	[FE: 2B] CWOutfitPackPart2.esl
-	[FE: 2C] VaultOutfitPack.esl
-	[FE: 2D] CWBrahmin.esl
-	[FE: 2E] Clothes Pack v2.0 by DonEb14n.esl
-	[FE: 2F] Clothes Pack 2 by DonEb14n.esl
-	[FE: 30] Clothes Pack 3 by DonEb14n.esl
-	[FE: 31] Clothes Pack 4 by DonEb14n.esl
-	[FE: 32] Zapgun.esl
-	[FE: 33] CROSS_CoA.esl
-	[FE: 34] CROSS_VertibirdFlightsuit.esl
-	[FE: 35] CWBrotherhoodOutfits.esl
-	[FE: 36] CWRaiders.esl
-	[FE: 37] ApalLeotard.esl
-	[FE: 38] Jinga Closet 1.esl
-	[FE: 39] Jinga SwimSuit.esl
-	[FE: 3A] JingaBodysuit.esl
-	[FE: 3B] ballisticproject2k.esl
-	[FE: 3C] instituteproject2k.esl
-	[FE: 3D] MP5.esl
-	[FE: 3E] InstituteTurboplasmaRifle.esl
-	[FE: 3F] 1FOM_FireAxe.esl
-	[FE: 40] GrillZoneCleaver.esl
-	[FE: 41] EnclavePack.esl
-	[FE: 42] wasterArmor.esl
-	[FE: 43] rpampas.esl
-	[FE: 44] KKYpampas.esl
-	[FE: 45] Friffy_Piper Outfit_Standalone.esl
-	[FE: 46] CWHuntingRifle.esl
-	[FE: 47] AA12.esl
-	[FE: 48] CW32Pistol.esl
-	[FE: 49] AutoAxe.esl
-	[FE: 4A] Jumpsuit.esl
-	[FE: 4B] M72GaussRifle.esl
-	[FE: 4C] MG42.esl
-	[FE: 4D] NCRArmourPack.esl
-	[FE: 4E] Mantis.esl
-	[FE: 4F] Cazadors.esl
-	[FE: 50] Bighorner.esl
-	[FE: 51] Colt6520.esl
-	[FE: 52] AORobcoReconScope.esl
-	[FE: 53] FONW - The Dunes.esl
-	[FE: 54] laserproject4k.esl
-	[FE: 55] FOLON - LugerP08.esl
-	[FE: 56] Skb_MachinegunsRebirth.esl
-	[FE: 57] plasmaproject.esl
-	[FE: 58] FlamerPistol.esl
-	[FE: 59] CROSS_PlasRail.esl
-	[FE: 5A] ThrowMoneyAtSS2.esl
-	[FE: 5B] VtawJumpsuit.esl
-	[FE: 5C] VtawWardrobe2.esl
-	[FE: 5D] VtawBattleSuit.esl
-	[FE: 5E] VtawWardrobe5.esl
-	[FE: 5F] TCS sportswear.esl
-	[FE: 60] SwimmingAnims.esl
-	[FE: 61] Quick_Modification_Weapon_by_tooun.esl
-	[FE: 62] DNMega.esl
-	[FE: 63] Faded Glory - Soundtrack Expansion.esl
-	[FE: 64] Fallout Suite.esl
-	[FE: 65] dpjetandxcell.esl
-	[FE: 66] DX_Bikini_Collection_pt1.esl
-	[FE: 67] DX_Bikini_Collection_pt2.esl
-	[FE: 68] DX_Bikini_Collection_pt3.esl
-	[FE: 69] DX_FetishFashion_Part1.esl
-	[FE: 6A] DX_Pornstar_Fashion.esl
-	[FE: 6B] AnimalPosingFramework.esl
-	[FE: 6C] dppsychoandmedx.esl
-	[FE: 6D] NPCScaling - Encounter Zones.esl
-	[FE: 6E] Intro Deathclaw is a runt.esl
-	[FE: 6F] Immersive_Molotovs_Flamer_Ruddy88ExtendedESL.esl
-	[FE: 70] UniquePlayerLM.esl
-	[FE: 71] Q_FusionCoreCharge.esp
-	[FE: 72] FATE Module - Basketball Crash Fix.esp
-	[FE: 73] FATE Module - Tesla Free Power.esp
-	[FE: 74] FATE Module - UNL + DCB Zones.esp
-	[FE: 75] FATE Module - UNL Zones.esp
-	[FE: 76] FATE Module - PipBoy Ambient Sounds.esp
-	[FE: 77] ALSL Vault Suit Unzipped - Vaults 111 and 95 suits only.esp
-	[FE: 78] Elzee Jolly Item Sounds.esp
-	[FE: 79] SRO - Syringer Overhaul.esp
-	[FE: 7A] SpitfireBallistics.esp
-	[FE: 7B] MYLadyKillerBed.esp
-	[FE: 7C] AdvSettleTurretSet.esp
-	[FE: 7D] WorkshopFramework_ScriptOverride.esp
-	[FE: 7E] MinutemenSentinel - UFO4P Patch.esp
-	[FE: 7F] CryolatorFlamerShishkebabFix.esp
-	[FE: 80] CazadorML.esp
-	[FE: 81] CGOsoundsplugin.esp
-	[FE: 82] NoLoopingWeaponSounds.esp
-	[FE: 83] NoLoopingWeaponSounds_DLC_Nuka.esp
-	[FE: 84] CROSS_BrotherhoodRecon.esp
-	[FE: 85] CROSS_InstituteExpeditionarySuit.esp
-	[FE: 86] Jump Grunt.esp
-	[FE: 87] K9TacticalHarness.esp
-	[FE: 88] TBOS-AntoHairPack.esp
-	[FE: 89] Lots More Female Hairstyles.esp
-	[FE: 8A] Lots More Male Hairstyles.esp
-	[FE: 8B] MiscHairstyle.esp
-	[FE: 8C] AzarPonytailHairstyles.esp
-	[FE: 8D] 512StandaloneHairColors.esp
-	[FE: 8E] PA-Quick Animations.esp
-	[FE: 8F] FO3VaultSuit.esp
-	[FE: 90] CAPA Fixes.esp
-	[FE: 91] Stimpaks help you breathe.esp
-	[FE: 92] VWR - Explosives.esp
-	[FE: 93] FOLON_Bren_Addon.esp
-	[FE: 94] MGSBB.esp
-	[FE: 95] G3_R91_Expansion.esp
-	[FE: 96] G3A3LvlListPatch.esp
-	[FE: 97] RB_ProtonAxe.esp
-	[FE: 98] SavrenXHD1KBuildingAndInterior.esp
-	[FE: 99] MunitionsBallistics.esp
-	[FE: 9A] MunitionsBallistics-MAA-TD.esp
-	[FE: 9B] RSh-12.esp
-	[FE: 9C] YK42B_Reborn.esp
-	[FE: 9D] TheKite_Railroad_Handmaiden.esp
-	[FE: 9E] WATM-MM-MMUPAIA_CustomPatch.esp
-	[FE: 9F] Backpack Crafting.esp
-	[FE: A0] 3DNPC_FO4-Patch.esp
-	[FE: A1] M4k4rov - PPSh.esp
-	[FE: A2] PPSh_Addon.esp
-	[FE: A3] RemoteExplosives.esp
-	[FE: A4] Remote Explosives CTD fix in Workshop.esp
-	[FE: A5] AER15_DamageModifiers.esp
-	[FE: A6] DOOMPumpShotgun.esp
-	[FE: A7] CROSS_CourserStrigidae.esp
-	[FE: A8] Assault Rifle Reanimated.esp
-	[FE: A9] X12Plasmacaster-DamageModifiers.esp
-	[FE: AA] X12Plasmacaster-SkinRusty.esp
-	[FE: AB] Sten.esp
-	[FE: AC] RCW.esp
-	[FE: AD] Remington700AP.esp
-	[FE: AE] Remington700_Addon.esp
-	[FE: AF] Vault13Canteen.esp
-	[FE: B0] VtawUtilityPack1.esp
-	[FE: B1] VtawWardrobe1.esp
-	[FE: B2] VtawWardrobe4.esp
-	[FE: B3] VtawWardrobe6.esp
-	[FE: B4] VtawWardrobe7.esp
-	[FE: B5] VtawLoba.esp
-	[FE: B6] DITC - Hunting Loot Improved.esp
-	[FE: B7] DITC - Cooking Outputs Improved.esp
-	[FE: B8] vault-outfit-pack-armorslot-fix.esp
-	[FE: B9] Aigni_BarberSurgery_Camera.esp
-	[FE: BA] Glowing Animals Emit Light.esp
-	[FE: BB] AllDeathclawsGlow.esp
-	[FE: BC] ImmersiveAnimationFramework.esp
-	[FE: BD] IAF - Far Harbor & Nuka World.esp
-	[FE: BE] ValiusHDTextures2K.esp
-	[FE: BF] Radiant_Questing_in_the_Commonwealth_-_UF4P_Patch.esp
-	[FE: C0] MiscellaneousPerksPack.esp
-	[FE: C1] Be Exceptional Rebalanced (LVL 117).esp
-	[FE: C2] YouAreSPECIAL - Be Exceptional Patch.esp
-	[FE: C3] You Are Exceptional.esp
-	[FE: C4] MojaveBrotherhood.esp
-	[FE: C5] SkipKelloggMemories.esp
-	[FE: C6] Immersive Fallout (DLC).esp
-	[FE: C7] WIPAG_Classic_Addon.esp
-	[FE: C8] WIPAG_Combat_Addon.esp
-	[FE: C9] WIPAG_Contraptions_DLC_Addon.esp
-	[FE: CA] WIPAG_FarHarbor_DLC_Addon.esp
-	[FE: CB] WIPAG_NukaWorld_DLC_Addon.esp
-	[FE: CC] WIPAG_Spartan_Addon.esp
-	[FE: CD] WIPAG_X03_Hellfire_Addon.esp
-	[FE: CE] WIPAG_T51c_Addon.esp
-	[FE: CF] WIPAG_Vault_Tec_Addon.esp
-	[FE: D0] WIPAG_Paint_Garage_Style_1_Waxed.esp
-	[FE: D1] WIPAG_Paint_Garage_Style_2_Master.esp
-	[FE: D2] WIPAG_Paint_Garage_Style_2_Waxed.esp
-	[FE: D3] WIPAG_Paint_Garage_Style_3_Master.esp
-	[FE: D4] WIPAG_Paint_Garage_Style_3_Waxed.esp
-	[FE: D5] WIPAG_Paint_Garage_Style_4_Master.esp
-	[FE: D6] WIPAG_Paint_Garage_Style_4_Waxed.esp
-	[FE: D7] WIPAG_Paint_Garage_Style_5_Master.esp
-	[FE: D8] WIPAG_Paint_Garage_Style_5_Waxed.esp
-	[FE: D9] WIPAG_Paint_Garage_Style_6_Master.esp
-	[FE: DA] WIPAG_Paint_Garage_Style_6_Waxed.esp
-	[FE: DB] Fortune Finder 4 Fix.esp
-	[FE: DC] UltimateLockpick.esp
-	[FE: DD] Emogene_Fix.esp
-	[FE: DE] WhoIsTheGeneral.esp
-	[FE: DF] [B1] KT_DLC_PinUp.esp
-	[FE: E0] [B2] KT_DLC_Western.esp
-	[FE: E1] [B4] KT_DLC_TheTerror.esp
-	[FE: E2] [C1] KT_DLC_BoardGames.esp
-	[FE: E3] InstitWeapPosit_LHNR_patch.esp
-	[FE: E4] [B1] KT_DLC_RobCoPatcher.esp
-	[FE: E5] [B2] KT_DLC_RobCoPatcher.esp
-	[FE: E6] [B4] KT_DLC_RobCoPatcher.esp
-	[FE: E7] [C1] KT_DLC_RobCoPatcher.esp
-	[FE: E8] [F1] KT_DLC_RobCoPatcher.esp
-	[FE: E9] InteractionAnimations.esp
-	[FE: EA] FloaterFix.esp
-	[FE: EB] Langleys HD Texture Workshop.esp
-	[FE: EC] NMC Bundle VERY HIGH.esp
-	[FE: ED] DynamicGlowingBeveragePack.esp
-	[FE: EE] BetterCoastalWaves.esp
-	[FE: EF] SS2_GunForHire_Patch.esp
-	[FE: F0] SS2_3DNPC_WarehouseDoorPatch.esp
-	[FE: F1] Feral Ghoul Bite Skills.esp
-	[FE: F2] stealth field fix.esp
-	[FE: F3] VtawSaraBellum.esp
-	[FE: F4] Vtaw TurtleNeck.esp
-	[FE: F5] Vtaw Dark Full.esp
-	[FE: F6] VtawMiranda.esp
-	[FE: F7] VtawWardrobe9.esp
-	[FE: F8] VtawShevaOffice.esp
-	[FE: F9] VtawNightSpy.esp
-	[FE: FA] VtawLittleDanger.esp
-	[FE: FB] VtawInstituteScout.esp
-	[FE: FC] VtawGhost.esp
-	[FE: FD] Realistic Reverb and Ambiance.esp
-	[FE: FE] Ambient Wasteland.esp
-	[FE: FF] Realistic Reverb and Ambience - Physics Sound Overhaul Patch.esp
+	[FE:000] Q_ElevatorTransitionOff.esp
+	[FE:001] AAFThemes.esl
+	[FE:002] BakaFramework.esm
+	[FE:003] [A0] KT_Framework_Addon.esl
+	[FE:004] Heart Shirt.esl
+	[FE:005] Jinga C Bodysuit.esl
+	[FE:006] MAIM Master.esm
+	[FE:007] PPF.esm
+	[FE:008] FATE Core - Fixes.esl
+	[FE:009] LegendaryDropBugfix.esl
+	[FE:00A] NoDialogueAutoRotAndForcedPos.esl
+	[FE:00B] FastTravelAIDetectionFix.esl
+	[FE:00C] WashOutThatCum.esl
+	[FE:00D] Munitions - An Ammo Expansion.esl
+	[FE:00E] Munitions - Vanilla Ammo Addon.esl
+	[FE:00F] RedRocketsGlareII.esl
+	[FE:010] BusStopLighting.esl
+	[FE:011] Ketaros_NewMags.esl
+	[FE:012] LIF.esl
+	[FE:013] BodyTalk3-RaiderNormalsFix.esl
+	[FE:014] HiPolyFacesCompanionPlugin.esl
+	[FE:015] SS2WorkshopHUDOverride.esl
+	[FE:016] Nuka World HD Texture Pack.esl
+	[FE:017] AWHD2KNukaWorld.esl
+	[FE:018] AWHD2KAutomatron.esl
+	[FE:019] AWHD2KFarHarbour.esl
+	[FE:01A] Cranky.esl
+	[FE:01B] CCKCR.esl
+	[FE:01C] [F1] KT_DLC_Magazines.esl
+	[FE:01D] RecruitHaylen.esl
+	[FE:01E] RecruitHaylen_EditableAppearancePatch.esl
+	[FE:01F] Recipes76.esl
+	[FE:020] CAPA.esl
+	[FE:021] ClassicUnarmedPack.esl
+	[FE:022] FG_ReloadSounds.esl
+	[FE:023] Geckos.esl
+	[FE:024] QuestTweaks-DLC04MS01.esl
+	[FE:025] HaxRPG7.esl
+	[FE:026] Skb-MinigunsRebirth.esl
+	[FE:027] T65PA.esl
+	[FE:028] ClassicMeleePack.esl
+	[FE:029] L96A1.esl
+	[FE:02A] CanarySaveFileMonitor.esl
+	[FE:02B] CWOutfitPackPart2.esl
+	[FE:02C] VaultOutfitPack.esl
+	[FE:02D] CWBrahmin.esl
+	[FE:02E] Clothes Pack v2.0 by DonEb14n.esl
+	[FE:02F] Clothes Pack 2 by DonEb14n.esl
+	[FE:030] Clothes Pack 3 by DonEb14n.esl
+	[FE:031] Clothes Pack 4 by DonEb14n.esl
+	[FE:032] Zapgun.esl
+	[FE:033] CROSS_CoA.esl
+	[FE:034] CROSS_VertibirdFlightsuit.esl
+	[FE:035] CWBrotherhoodOutfits.esl
+	[FE:036] CWRaiders.esl
+	[FE:037] ApalLeotard.esl
+	[FE:038] Jinga Closet 1.esl
+	[FE:039] Jinga SwimSuit.esl
+	[FE:03A] JingaBodysuit.esl
+	[FE:03B] ballisticproject2k.esl
+	[FE:03C] instituteproject2k.esl
+	[FE:03D] MP5.esl
+	[FE:03E] InstituteTurboplasmaRifle.esl
+	[FE:03F] 1FOM_FireAxe.esl
+	[FE:040] GrillZoneCleaver.esl
+	[FE:041] EnclavePack.esl
+	[FE:042] wasterArmor.esl
+	[FE:043] rpampas.esl
+	[FE:044] KKYpampas.esl
+	[FE:045] Friffy_Piper Outfit_Standalone.esl
+	[FE:046] CWHuntingRifle.esl
+	[FE:047] AA12.esl
+	[FE:048] CW32Pistol.esl
+	[FE:049] AutoAxe.esl
+	[FE:04A] Jumpsuit.esl
+	[FE:04B] M72GaussRifle.esl
+	[FE:04C] MG42.esl
+	[FE:04D] NCRArmourPack.esl
+	[FE:04E] Mantis.esl
+	[FE:04F] Cazadors.esl
+	[FE:050] Bighorner.esl
+	[FE:051] Colt6520.esl
+	[FE:052] AORobcoReconScope.esl
+	[FE:053] FONW - The Dunes.esl
+	[FE:054] laserproject4k.esl
+	[FE:055] FOLON - LugerP08.esl
+	[FE:056] Skb_MachinegunsRebirth.esl
+	[FE:057] plasmaproject.esl
+	[FE:058] FlamerPistol.esl
+	[FE:059] CROSS_PlasRail.esl
+	[FE:05A] ThrowMoneyAtSS2.esl
+	[FE:05B] VtawJumpsuit.esl
+	[FE:05C] VtawWardrobe2.esl
+	[FE:05D] VtawBattleSuit.esl
+	[FE:05E] VtawWardrobe5.esl
+	[FE:05F] TCS sportswear.esl
+	[FE:060] SwimmingAnims.esl
+	[FE:061] Quick_Modification_Weapon_by_tooun.esl
+	[FE:062] DNMega.esl
+	[FE:063] Faded Glory - Soundtrack Expansion.esl
+	[FE:064] Fallout Suite.esl
+	[FE:065] dpjetandxcell.esl
+	[FE:066] DX_Bikini_Collection_pt1.esl
+	[FE:067] DX_Bikini_Collection_pt2.esl
+	[FE:068] DX_Bikini_Collection_pt3.esl
+	[FE:069] DX_FetishFashion_Part1.esl
+	[FE:06A] DX_Pornstar_Fashion.esl
+	[FE:06B] AnimalPosingFramework.esl
+	[FE:06C] dppsychoandmedx.esl
+	[FE:06D] NPCScaling - Encounter Zones.esl
+	[FE:06E] Intro Deathclaw is a runt.esl
+	[FE:06F] Immersive_Molotovs_Flamer_Ruddy88ExtendedESL.esl
+	[FE:070] UniquePlayerLM.esl
+	[FE:071] Q_FusionCoreCharge.esp
+	[FE:072] FATE Module - Basketball Crash Fix.esp
+	[FE:073] FATE Module - Tesla Free Power.esp
+	[FE:074] FATE Module - UNL + DCB Zones.esp
+	[FE:075] FATE Module - UNL Zones.esp
+	[FE:076] FATE Module - PipBoy Ambient Sounds.esp
+	[FE:077] ALSL Vault Suit Unzipped - Vaults 111 and 95 suits only.esp
+	[FE:078] Elzee Jolly Item Sounds.esp
+	[FE:079] SRO - Syringer Overhaul.esp
+	[FE:07A] SpitfireBallistics.esp
+	[FE:07B] MYLadyKillerBed.esp
+	[FE:07C] AdvSettleTurretSet.esp
+	[FE:07D] WorkshopFramework_ScriptOverride.esp
+	[FE:07E] MinutemenSentinel - UFO4P Patch.esp
+	[FE:07F] CryolatorFlamerShishkebabFix.esp
+	[FE:080] CazadorML.esp
+	[FE:081] CGOsoundsplugin.esp
+	[FE:082] NoLoopingWeaponSounds.esp
+	[FE:083] NoLoopingWeaponSounds_DLC_Nuka.esp
+	[FE:084] CROSS_BrotherhoodRecon.esp
+	[FE:085] CROSS_InstituteExpeditionarySuit.esp
+	[FE:086] Jump Grunt.esp
+	[FE:087] K9TacticalHarness.esp
+	[FE:088] TBOS-AntoHairPack.esp
+	[FE:089] Lots More Female Hairstyles.esp
+	[FE:08A] Lots More Male Hairstyles.esp
+	[FE:08B] MiscHairstyle.esp
+	[FE:08C] AzarPonytailHairstyles.esp
+	[FE:08D] 512StandaloneHairColors.esp
+	[FE:08E] PA-Quick Animations.esp
+	[FE:08F] FO3VaultSuit.esp
+	[FE:090] CAPA Fixes.esp
+	[FE:091] Stimpaks help you breathe.esp
+	[FE:092] VWR - Explosives.esp
+	[FE:093] FOLON_Bren_Addon.esp
+	[FE:094] MGSBB.esp
+	[FE:095] G3_R91_Expansion.esp
+	[FE:096] G3A3LvlListPatch.esp
+	[FE:097] RB_ProtonAxe.esp
+	[FE:098] SavrenXHD1KBuildingAndInterior.esp
+	[FE:099] MunitionsBallistics.esp
+	[FE:09A] MunitionsBallistics-MAA-TD.esp
+	[FE:09B] RSh-12.esp
+	[FE:09C] YK42B_Reborn.esp
+	[FE:09D] TheKite_Railroad_Handmaiden.esp
+	[FE:09E] WATM-MM-MMUPAIA_CustomPatch.esp
+	[FE:09F] Backpack Crafting.esp
+	[FE:0A0] 3DNPC_FO4-Patch.esp
+	[FE:0A1] M4k4rov - PPSh.esp
+	[FE:0A2] PPSh_Addon.esp
+	[FE:0A3] RemoteExplosives.esp
+	[FE:0A4] Remote Explosives CTD fix in Workshop.esp
+	[FE:0A5] AER15_DamageModifiers.esp
+	[FE:0A6] DOOMPumpShotgun.esp
+	[FE:0A7] CROSS_CourserStrigidae.esp
+	[FE:0A8] Assault Rifle Reanimated.esp
+	[FE:0A9] X12Plasmacaster-DamageModifiers.esp
+	[FE:0AA] X12Plasmacaster-SkinRusty.esp
+	[FE:0AB] Sten.esp
+	[FE:0AC] RCW.esp
+	[FE:0AD] Remington700AP.esp
+	[FE:0AE] Remington700_Addon.esp
+	[FE:0AF] Vault13Canteen.esp
+	[FE:0B0] VtawUtilityPack1.esp
+	[FE:0B1] VtawWardrobe1.esp
+	[FE:0B2] VtawWardrobe4.esp
+	[FE:0B3] VtawWardrobe6.esp
+	[FE:0B4] VtawWardrobe7.esp
+	[FE:0B5] VtawLoba.esp
+	[FE:0B6] DITC - Hunting Loot Improved.esp
+	[FE:0B7] DITC - Cooking Outputs Improved.esp
+	[FE:0B8] vault-outfit-pack-armorslot-fix.esp
+	[FE:0B9] Aigni_BarberSurgery_Camera.esp
+	[FE:0BA] Glowing Animals Emit Light.esp
+	[FE:0BB] AllDeathclawsGlow.esp
+	[FE:0BC] ImmersiveAnimationFramework.esp
+	[FE:0BD] IAF - Far Harbor & Nuka World.esp
+	[FE:0BE] ValiusHDTextures2K.esp
+	[FE:0BF] Radiant_Questing_in_the_Commonwealth_-_UF4P_Patch.esp
+	[FE:0C0] MiscellaneousPerksPack.esp
+	[FE:0C1] Be Exceptional Rebalanced (LVL 117).esp
+	[FE:0C2] YouAreSPECIAL - Be Exceptional Patch.esp
+	[FE:0C3] You Are Exceptional.esp
+	[FE:0C4] MojaveBrotherhood.esp
+	[FE:0C5] SkipKelloggMemories.esp
+	[FE:0C6] Immersive Fallout (DLC).esp
+	[FE:0C7] WIPAG_Classic_Addon.esp
+	[FE:0C8] WIPAG_Combat_Addon.esp
+	[FE:0C9] WIPAG_Contraptions_DLC_Addon.esp
+	[FE:0CA] WIPAG_FarHarbor_DLC_Addon.esp
+	[FE:0CB] WIPAG_NukaWorld_DLC_Addon.esp
+	[FE:0CC] WIPAG_Spartan_Addon.esp
+	[FE:0CD] WIPAG_X03_Hellfire_Addon.esp
+	[FE:0CE] WIPAG_T51c_Addon.esp
+	[FE:0CF] WIPAG_Vault_Tec_Addon.esp
+	[FE:0D0] WIPAG_Paint_Garage_Style_1_Waxed.esp
+	[FE:0D1] WIPAG_Paint_Garage_Style_2_Master.esp
+	[FE:0D2] WIPAG_Paint_Garage_Style_2_Waxed.esp
+	[FE:0D3] WIPAG_Paint_Garage_Style_3_Master.esp
+	[FE:0D4] WIPAG_Paint_Garage_Style_3_Waxed.esp
+	[FE:0D5] WIPAG_Paint_Garage_Style_4_Master.esp
+	[FE:0D6] WIPAG_Paint_Garage_Style_4_Waxed.esp
+	[FE:0D7] WIPAG_Paint_Garage_Style_5_Master.esp
+	[FE:0D8] WIPAG_Paint_Garage_Style_5_Waxed.esp
+	[FE:0D9] WIPAG_Paint_Garage_Style_6_Master.esp
+	[FE:0DA] WIPAG_Paint_Garage_Style_6_Waxed.esp
+	[FE:0DB] Fortune Finder 4 Fix.esp
+	[FE:0DC] UltimateLockpick.esp
+	[FE:0DD] Emogene_Fix.esp
+	[FE:0DE] WhoIsTheGeneral.esp
+	[FE:0DF] [B1] KT_DLC_PinUp.esp
+	[FE:0E0] [B2] KT_DLC_Western.esp
+	[FE:0E1] [B4] KT_DLC_TheTerror.esp
+	[FE:0E2] [C1] KT_DLC_BoardGames.esp
+	[FE:0E3] InstitWeapPosit_LHNR_patch.esp
+	[FE:0E4] [B1] KT_DLC_RobCoPatcher.esp
+	[FE:0E5] [B2] KT_DLC_RobCoPatcher.esp
+	[FE:0E6] [B4] KT_DLC_RobCoPatcher.esp
+	[FE:0E7] [C1] KT_DLC_RobCoPatcher.esp
+	[FE:0E8] [F1] KT_DLC_RobCoPatcher.esp
+	[FE:0E9] InteractionAnimations.esp
+	[FE:0EA] FloaterFix.esp
+	[FE:0EB] Langleys HD Texture Workshop.esp
+	[FE:0EC] NMC Bundle VERY HIGH.esp
+	[FE:0ED] DynamicGlowingBeveragePack.esp
+	[FE:0EE] BetterCoastalWaves.esp
+	[FE:0EF] SS2_GunForHire_Patch.esp
+	[FE:0F0] SS2_3DNPC_WarehouseDoorPatch.esp
+	[FE:0F1] Feral Ghoul Bite Skills.esp
+	[FE:0F2] stealth field fix.esp
+	[FE:0F3] VtawSaraBellum.esp
+	[FE:0F4] Vtaw TurtleNeck.esp
+	[FE:0F5] Vtaw Dark Full.esp
+	[FE:0F6] VtawMiranda.esp
+	[FE:0F7] VtawWardrobe9.esp
+	[FE:0F8] VtawShevaOffice.esp
+	[FE:0F9] VtawNightSpy.esp
+	[FE:0FA] VtawLittleDanger.esp
+	[FE:0FB] VtawInstituteScout.esp
+	[FE:0FC] VtawGhost.esp
+	[FE:0FD] Realistic Reverb and Ambiance.esp
+	[FE:0FE] Ambient Wasteland.esp
+	[FE:0FF] Realistic Reverb and Ambience - Physics Sound Overhaul Patch.esp
 	[FE:100] DCRE.esp
 	[FE:101] 4estGimp - LAER_INNR_ini_CS1.9.esp
 	[FE:102] 12.7mm Pistol - Unofficial Update.esp

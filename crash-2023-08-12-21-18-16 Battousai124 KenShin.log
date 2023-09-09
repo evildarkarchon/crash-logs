@@ -1060,22 +1060,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     ccrzrfo4001-tunnelsnakes.esm
-	[ 8]     ccswkfo4001-astronautpowerarmor.esm
-	[ 9]     cczsef04001-bhouse.esm
-	[ A]     cctosfo4001-neosky.esm
-	[ B]     cczsefo4002-smanor.esm
-	[ C]     cctosfo4002_neonflats.esm
-	[ D]     Unofficial Fallout 4 Patch.esp
-	[ E]     ArmorKeywords.esm
-	[ F]     SettlementKeywords.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     ccrzrfo4001-tunnelsnakes.esm
+	[08]     ccswkfo4001-astronautpowerarmor.esm
+	[09]     cczsef04001-bhouse.esm
+	[0A]     cctosfo4001-neosky.esm
+	[0B]     cczsefo4002-smanor.esm
+	[0C]     cctosfo4002_neonflats.esm
+	[0D]     Unofficial Fallout 4 Patch.esp
+	[0E]     ArmorKeywords.esm
+	[0F]     SettlementKeywords.esm
 	[10]     EthreonMasterPlan.esm
 	[11]     HUDFramework.esm
 	[12]     WorkshopFramework.esm
@@ -1284,7 +1284,7 @@ PLUGINS:
 	[DD]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
 	[DE]     SimHomestead2.esp
 	[DF]     SS2_SIMPDDDD.esp
-	[E0]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[E0]     [SS20Addon] SimSettlements SuperStructures.esp
 	[E1]     InstituteSettlements2.esp
 	[E2]     SS2_FDK_TinyLiving.esp
 	[E3]     SS2WastelandVenturers.esp
@@ -1307,262 +1307,262 @@ PLUGINS:
 	[F4]     Better_Settlement_Defence.esp
 	[F5]     CleanMySettlement.esp
 	[F6]     SKKWorkshopUtilities.esp
-	[FE:  0] ccbgsfo4016-prey.esl
-	[FE:  1] ccbgsfo4018-gaussrifleprototype.esl
-	[FE:  2] ccbgsfo4019-chinesestealtharmor.esl
-	[FE:  3] ccbgsfo4020-powerarmorskin(black).esl
-	[FE:  4] ccbgsfo4022-powerarmorskin(camo01).esl
-	[FE:  5] ccbgsfo4023-powerarmorskin(camo02).esl
-	[FE:  6] ccbgsfo4025-powerarmorskin(chrome).esl
-	[FE:  7] ccbgsfo4033-powerarmorskinwhite.esl
-	[FE:  8] ccbgsfo4024-pacamo03.esl
-	[FE:  9] ccbgsfo4038-horsearmor.esl
-	[FE:  A] ccbgsfo4041-doommarinearmor.esl
-	[FE:  B] ccbgsfo4042-bfg.esl
-	[FE:  C] ccbgsfo4044-hellfirepowerarmor.esl
-	[FE:  D] ccfsvfo4001-modularmilitarybackpack.esl
-	[FE:  E] ccfsvfo4002-midcenturymodern.esl
-	[FE:  F] ccfrsfo4001-handmadeshotgun.esl
-	[FE: 10] cceejfo4001-decorationpack.esl
-	[FE: 11] ccbgsfo4045-advarccab.esl
-	[FE: 12] ccfsvfo4003-slocum.esl
-	[FE: 13] ccgcafo4001-factionws01army.esl
-	[FE: 14] ccgcafo4002-factionws02acat.esl
-	[FE: 15] ccgcafo4003-factionws03bos.esl
-	[FE: 16] ccgcafo4004-factionws04gun.esl
-	[FE: 17] ccgcafo4005-factionws05hrpink.esl
-	[FE: 18] ccgcafo4006-factionws06hrshark.esl
-	[FE: 19] ccgcafo4007-factionws07hrflames.esl
-	[FE: 1A] ccgcafo4008-factionws08inst.esl
-	[FE: 1B] ccgcafo4009-factionws09mm.esl
-	[FE: 1C] ccgcafo4010-factionws10rr.esl
-	[FE: 1D] ccgcafo4011-factionws11vt.esl
-	[FE: 1E] ccgcafo4012-factionas01acat.esl
-	[FE: 1F] ccgcafo4013-factionas02bos.esl
-	[FE: 20] ccgcafo4014-factionas03gun.esl
-	[FE: 21] ccgcafo4015-factionas04hrpink.esl
-	[FE: 22] ccgcafo4016-factionas05hrshark.esl
-	[FE: 23] ccgcafo4017-factionas06inst.esl
-	[FE: 24] ccgcafo4018-factionas07mm.esl
-	[FE: 25] ccgcafo4019-factionas08nuk.esl
-	[FE: 26] ccgcafo4020-factionas09rr.esl
-	[FE: 27] ccgcafo4021-factionas10hrflames.esl
-	[FE: 28] ccgcafo4022-factionas11vt.esl
-	[FE: 29] ccgcafo4023-factionas12army.esl
-	[FE: 2A] ccawnfo4001-brandedattire.esl
-	[FE: 2B] ccbgsfo4050-dgbcoll.esl
-	[FE: 2C] ccbgsfo4051-dgbox.esl
-	[FE: 2D] ccbgsfo4052-dgdal.esl
-	[FE: 2E] ccbgsfo4053-dggoldr.esl
-	[FE: 2F] ccbgsfo4054-dggreatd.esl
-	[FE: 30] ccbgsfo4055-dghusk.esl
-	[FE: 31] ccbgsfo4056-dglabb.esl
-	[FE: 32] ccbgsfo4057-dglaby.esl
-	[FE: 33] ccbgsfo4058-dglabc.esl
-	[FE: 34] ccbgsfo4059-dgpit.esl
-	[FE: 35] ccbgsfo4060-dgrot.esl
-	[FE: 36] ccbgsfo4061-dgshiinu.esl
-	[FE: 37] ccbgsfo4036-trnsdg.esl
-	[FE: 38] ccfrsfo4002-antimaterielrifle.esl
-	[FE: 39] cceejfo4002-nuka.esl
-	[FE: 3A] ccbgsfo4021-powerarmorskinblue.esl
-	[FE: 3B] ccbgsfo4027-powerarmorskingreen.esl
-	[FE: 3C] ccbgsfo4034-powerarmorskinyellow.esl
-	[FE: 3D] ccbgsfo4028-powerarmorskinorange.esl
-	[FE: 3E] ccbgsfo4031-powerarmorskinred.esl
-	[FE: 3F] ccbgsfo4030-powerarmorskinpurple.esl
-	[FE: 40] ccbgsfo4032-powerarmorskintan.esl
-	[FE: 41] ccbgsfo4029-powerarmorskinpink.esl
-	[FE: 42] ccsbjfo4001-solarflare.esl
-	[FE: 43] cckgjfo4001-bastion.esl
-	[FE: 44] ccbgsfo4063-papat.esl
-	[FE: 45] ccqdrfo4001_powerarmorai.esl
-	[FE: 46] ccbgsfo4048-dovah.esl
-	[FE: 47] ccbgsfo4101-as_shi.esl
-	[FE: 48] ccbgsfo4114-ws_shi.esl
-	[FE: 49] ccbgsfo4115-x02.esl
-	[FE: 4A] ccrzrfo4002-disintegrate.esl
-	[FE: 4B] ccbgsfo4116-heavyflamer.esl
-	[FE: 4C] ccbgsfo4091-as_bats.esl
-	[FE: 4D] ccbgsfo4092-as_camoblue.esl
-	[FE: 4E] ccbgsfo4093-as_camogreen.esl
-	[FE: 4F] ccbgsfo4094-as_camotan.esl
-	[FE: 50] ccbgsfo4097-as_jack-olantern.esl
-	[FE: 51] ccbgsfo4104-ws_bats.esl
-	[FE: 52] ccbgsfo4105-ws_camoblue.esl
-	[FE: 53] ccbgsfo4106-ws_camogreen.esl
-	[FE: 54] ccbgsfo4107-ws_camotan.esl
-	[FE: 55] ccbgsfo4111-ws_jack-olantern.esl
-	[FE: 56] ccbgsfo4118-ws_tunnelsnakes.esl
-	[FE: 57] ccbgsfo4113-ws_reillysrangers.esl
-	[FE: 58] ccbgsfo4112-ws_pickman.esl
-	[FE: 59] ccbgsfo4110-ws_enclave.esl
-	[FE: 5A] ccbgsfo4108-ws_childrenofatom.esl
-	[FE: 5B] ccbgsfo4103-as_tunnelsnakes.esl
-	[FE: 5C] ccbgsfo4099-as_reillysrangers.esl
-	[FE: 5D] ccbgsfo4098-as_pickman.esl
-	[FE: 5E] ccbgsfo4096-as_enclave.esl
-	[FE: 5F] ccbgsfo4095-as_childrenofatom.esl
-	[FE: 60] ccbgsfo4035-pint.esl
-	[FE: 61] ccjvdfo4001-holiday.esl
-	[FE: 62] ccbgsfo4047-qthund.esl
-	[FE: 63] ccfrsfo4003-cr75l.esl
-	[FE: 64] ccacxfo4001-vsuit.esl
-	[FE: 65] ccbgsfo4040-vrworkshop01.esl
-	[FE: 66] ccfsvfo4005-vrdesertisland.esl
-	[FE: 67] ccfsvfo4006-vrwasteland.esl
-	[FE: 68] ccsbjfo4002_manwellrifle.esl
-	[FE: 69] ccbgsfo4117-capmerc.esl
-	[FE: 6A] ccfsvfo4004-vrworkshopgnrplaza.esl
-	[FE: 6B] ccbgsfo4046-tescan.esl
-	[FE: 6C] ccgcafo4025-pagunmm.esl
-	[FE: 6D] PPF.esm
-	[FE: 6E] BakaFullscreenPipboy.esm
-	[FE: 6F] VLPad.esl
-	[FE: 70] CC - Pipboy Skins (VIS).esl
-	[FE: 71] CC Armor skins.esl
-	[FE: 72] CC Dog skins.esl
-	[FE: 73] CC Power Armor skins.esl
-	[FE: 74] CC Weapon skins.esl
-	[FE: 75] Quick_Modification_Weapon_by_tooun.esl
-	[FE: 76] Quick_Change_Armor_by_tooun.esl
-	[FE: 77] ammoUI_by_tooun.esl
-	[FE: 78] IDEKsLogisticsStation2.esl
-	[FE: 79] Castle Restoration Project.esl
-	[FE: 7A] CoastalCottageExpFarm.esl
-	[FE: 7B] MM-Castle-HQ-By-Tarkkh-V2.6.esl
-	[FE: 7C] Settler Sandbox Overhaul.esl
-	[FE: 7D] SimpleSanctuary.esl
-	[FE: 7E] ZJ PerfPlan - Sanctuary.esl
-	[FE: 7F] GavMan_Vault88_CityPlan.esl
-	[FE: 80] GavMan_V88_Ch2_ Plots_Layouts.esl
-	[FE: 81] ThrowMoneyAtSS2.esl
-	[FE: 82] WSFW_WorkshopWarningSuppression.esl
-	[FE: 83] ManufacturingExtended.esp
-	[FE: 84] AdvSettleTurretSet-Real.esp
-	[FE: 85] AdvPortableTurretSet-Real-Extension.esp
-	[FE: 86] AdvBubbleTurretSet-Real.esp
-	[FE: 87] SelectMarkMacTurret.esp
-	[FE: 88] AkaAutomaticLaserTripwire.esp
-	[FE: 89] OctaviusSentibar_Labels.esp
-	[FE: 8A] Better Vendor Stalls.esp
-	[FE: 8B] ImmersiveVendors.esp
-	[FE: 8C] Marmo1233 - Immersive Settlers.esp
-	[FE: 8D] RichMerchants.esp
-	[FE: 8E] LongerPowerLines3x.esp
-	[FE: 8F] SurvivalSaving_Holotapes.esp
-	[FE: 90] Locksmith.esp
-	[FE: 91] FallComplete.esp
-	[FE: 92] PowerArmorDelivery.esp
-	[FE: 93] Running with Corpses.esp
-	[FE: 94] RadiationProtector.esp
-	[FE: 95] LegendaryRarity100.esp
-	[FE: 96] SettlementCorpseCleaner-Merged.esp
-	[FE: 97] SkjAlert_All_DLC.esp
-	[FE: 98] Arbitration - BetterCombatAI+RedGren+GrenFarther+SO+Mol+NoConReg.esp
-	[FE: 99] Arbitration - Button Lowered Weapons.esp
-	[FE: 9A] LureEnemies.esp
-	[FE: 9B] ModdableRobotSettlers.esp
-	[FE: 9C] Expanded Missile Launcher Mods Alt.esp
-	[FE: 9D] Expanded Railway Rifle Mods.esp
-	[FE: 9E] Chems+Devices+Syringer+Grenades+Syringer.esp
-	[FE: 9F] SaveManager.esp
-	[FE: A0] dD - Ultimate Blood+DeadBody.esp
-	[FE: A1] CusMarkMacTurret.esp
-	[FE: A2] Uncaged_Cait_v2.esp
-	[FE: A3] DESTROY_ALL_Cricket_v2_1.00.esp
-	[FE: A4] Emergent_Design_Curie_v2.esp
-	[FE: A5] The_Everyghoul_Hancock_v2.esp
-	[FE: A6] Rough_in_the_Diamond_Piper_v2_1.02.esp
-	[FE: A7] Soldier_of_Misfortune_Preston_v2_1.01.esp
-	[FE: A8] IS_BEST_FIGHTER_Strong_v2.esp
-	[FE: A9] CompanionsGoHome_A.esp
-	[FE: AA] TheMobileMechanic - ASE WSE ITO Addon.esp
-	[FE: AB] OutfitSwitcher - Addon+Patch.esp
-	[FE: AC] HelmetToggle.esp
-	[FE: AD] Identify Power Armor Frames.esp
-	[FE: AE] Move Store and Assign Power Armor.esp
-	[FE: AF] HPA.esp
-	[FE: B0] UFOCrashSite.esp
-	[FE: B1] Pip-Boy Flashlight.esp
-	[FE: B2] ToggleFanning.esp
-	[FE: B3] General's Colonial Duster - ASE Patch.esp
-	[FE: B4] Brotherhood of Steel Kit.esp
-	[FE: B5] KelloggArm.esp
-	[FE: B6] Armorsmith Hothtrooper44.esp
-	[FE: B7] NanoSuit.esp
-	[FE: B8] NanoArmor.esp
-	[FE: B9] Suit_Up.esp
-	[FE: BA] LagrieHelmet.esp
-	[FE: BB] Punisher Coat.esp
-	[FE: BC] MGSOutfit.esp
-	[FE: BD] Crimsomrider's Accessories.esp
-	[FE: BE] Crimsomrider's Accessories - VIS ASE Patch.esp
-	[FE: BF] K9TacticalHarness.esp
-	[FE: C0] Rangergearnew v0.5a ASE Patch.esp
-	[FE: C1] Needles_1.00.esp
-	[FE: C2] WeaponsHD.esp
-	[FE: C3] UWMR+CWMR+WMF+IWMD-GOTY+AWKCR+NC.esp
-	[FE: C4] NAC-RemoveMenuItem.esp
-	[FE: C5] ELFX - NAC X Patch.esp
-	[FE: C6] Region Names on Save Files.esp
-	[FE: C7] Unique Armor Change-Combat by Battousai124.esp
-	[FE: C8] Unique Armor Change-PA by Battousai124.esp
-	[FE: C9] Scavvers of the Commonwealth - ZWPA Patch.esp
-	[FE: CA] Power Armor Scrap Recipes.esp
-	[FE: CB] Automatron Decals.esp
-	[FE: CC] VAFS Redux DLC Patch +VATS.esp
-	[FE: CD] VAFS Redux ZWPAO Patch.esp
-	[FE: CE] Glowsight Overhaul 1.1.esp
-	[FE: CF] CombatRiflePlus.esp
-	[FE: D0] EnergyWeaponsEqualized.esp
-	[FE: D1] Glorious_Glowing_Plasma_Weapons_by_Diranar.esp
-	[FE: D2] PlasmaGatling.esp
-	[FE: D3] PlasmaGatling - WSE Patch.esp
-	[FE: D4] UsefulCrank.esp
-	[FE: D5] Gatling Laser Ammo Conversion - GLO Patch.esp
-	[FE: D6] InstituteReformation - VIS ASE Patch.esp
-	[FE: D7] 3dscopes-wse2.esp
-	[FE: D8] MikeMooresMCAM - WSE Patch.esp
-	[FE: D9] WattzLaserGun_AssetLoader.esp
-	[FE: DA] WattzLaserGun - WSE Patch.esp
-	[FE: DB] 3dscopes-holorifle.esp
-	[FE: DC] LightsaberMod - ASE Patch.esp
-	[FE: DD] Fusion Gun - WSE Override.esp
-	[FE: DE] NV4(Redux)-WSEified.esp
-	[FE: DF] 3dscopes-fnfal.esp
-	[FE: E0] 3dscopes-leeenfield.esp
-	[FE: E1] 3dscopes-wmsr.esp
-	[FE: E2] YCS186 - WSE Patch.esp
-	[FE: E3] Moddable Plasma Caster - VIS Patch.esp
-	[FE: E4] Moddable Plasma Caster - ZWPAO Patch.esp
-	[FE: E5] InstituteTechnologyOverhaul - FULL.esp
-	[FE: E6] GunnerJuryRigYLC.esp
-	[FE: E7] WeaponSmith Extended 2 - ITO Patch.esp
-	[FE: E8] Unique NPCs - ITO Patch.esp
-	[FE: E9] DualGun.esp
-	[FE: EA] DualGun - WSE Patch.esp
-	[FE: EB] Dual44.esp
-	[FE: EC] Dual44 - WSE Patch.esp
-	[FE: ED] DOOMBased Dual-Wield Pack.esp
-	[FE: EE] AA FusionCityRising - Loads-AE-WSE2-VIS Patch.esp
-	[FE: EF] Outcasts and Remnants - Loads-AE-WSE2-VIS Patch.esp
-	[FE: F0] ProjectValkyrie - NC-Loads-AE-VIS Patch.esp
-	[FE: F1] Thuggysmurf_Optimization.esp
-	[FE: F2] Thuggysmurf_Optimization - ASE Patch.esp
-	[FE: F3] Nuclear Holocaust Pipboy.esp
-	[FE: F4] BLD - Merged - WSE-MCAM Edition.esp
-	[FE: F5] GunmetalArmorWeaponSkins-Merge Part 02.esp
-	[FE: F6] GunmetalArmorWeaponSkins-Merge Part 03.esp
-	[FE: F7] GunmetalArmorWeaponSkins-Merge Part 04.esp
-	[FE: F8] Settlement_Markers - VIS Patch.esp
-	[FE: F9] SolarPower.esp
-	[FE: FA] IDEKsLogisticsStation2_SS2_Patch.esp
-	[FE: FB] SS2-PraRandomAddon-VISG.esp
-	[FE: FC] SS2Addon_MS_BareEssentials.esp
-	[FE: FD] SS2AOP_VaultTecTools.esp
-	[FE: FE] MS SS2 Unlock Vanilla Recruitable Vendors.esp
-	[FE: FF] LD50_Leaders - Patch.esp
+	[FE:000] ccbgsfo4016-prey.esl
+	[FE:001] ccbgsfo4018-gaussrifleprototype.esl
+	[FE:002] ccbgsfo4019-chinesestealtharmor.esl
+	[FE:003] ccbgsfo4020-powerarmorskin(black).esl
+	[FE:004] ccbgsfo4022-powerarmorskin(camo01).esl
+	[FE:005] ccbgsfo4023-powerarmorskin(camo02).esl
+	[FE:006] ccbgsfo4025-powerarmorskin(chrome).esl
+	[FE:007] ccbgsfo4033-powerarmorskinwhite.esl
+	[FE:008] ccbgsfo4024-pacamo03.esl
+	[FE:009] ccbgsfo4038-horsearmor.esl
+	[FE:00A] ccbgsfo4041-doommarinearmor.esl
+	[FE:00B] ccbgsfo4042-bfg.esl
+	[FE:00C] ccbgsfo4044-hellfirepowerarmor.esl
+	[FE:00D] ccfsvfo4001-modularmilitarybackpack.esl
+	[FE:00E] ccfsvfo4002-midcenturymodern.esl
+	[FE:00F] ccfrsfo4001-handmadeshotgun.esl
+	[FE:010] cceejfo4001-decorationpack.esl
+	[FE:011] ccbgsfo4045-advarccab.esl
+	[FE:012] ccfsvfo4003-slocum.esl
+	[FE:013] ccgcafo4001-factionws01army.esl
+	[FE:014] ccgcafo4002-factionws02acat.esl
+	[FE:015] ccgcafo4003-factionws03bos.esl
+	[FE:016] ccgcafo4004-factionws04gun.esl
+	[FE:017] ccgcafo4005-factionws05hrpink.esl
+	[FE:018] ccgcafo4006-factionws06hrshark.esl
+	[FE:019] ccgcafo4007-factionws07hrflames.esl
+	[FE:01A] ccgcafo4008-factionws08inst.esl
+	[FE:01B] ccgcafo4009-factionws09mm.esl
+	[FE:01C] ccgcafo4010-factionws10rr.esl
+	[FE:01D] ccgcafo4011-factionws11vt.esl
+	[FE:01E] ccgcafo4012-factionas01acat.esl
+	[FE:01F] ccgcafo4013-factionas02bos.esl
+	[FE:020] ccgcafo4014-factionas03gun.esl
+	[FE:021] ccgcafo4015-factionas04hrpink.esl
+	[FE:022] ccgcafo4016-factionas05hrshark.esl
+	[FE:023] ccgcafo4017-factionas06inst.esl
+	[FE:024] ccgcafo4018-factionas07mm.esl
+	[FE:025] ccgcafo4019-factionas08nuk.esl
+	[FE:026] ccgcafo4020-factionas09rr.esl
+	[FE:027] ccgcafo4021-factionas10hrflames.esl
+	[FE:028] ccgcafo4022-factionas11vt.esl
+	[FE:029] ccgcafo4023-factionas12army.esl
+	[FE:02A] ccawnfo4001-brandedattire.esl
+	[FE:02B] ccbgsfo4050-dgbcoll.esl
+	[FE:02C] ccbgsfo4051-dgbox.esl
+	[FE:02D] ccbgsfo4052-dgdal.esl
+	[FE:02E] ccbgsfo4053-dggoldr.esl
+	[FE:02F] ccbgsfo4054-dggreatd.esl
+	[FE:030] ccbgsfo4055-dghusk.esl
+	[FE:031] ccbgsfo4056-dglabb.esl
+	[FE:032] ccbgsfo4057-dglaby.esl
+	[FE:033] ccbgsfo4058-dglabc.esl
+	[FE:034] ccbgsfo4059-dgpit.esl
+	[FE:035] ccbgsfo4060-dgrot.esl
+	[FE:036] ccbgsfo4061-dgshiinu.esl
+	[FE:037] ccbgsfo4036-trnsdg.esl
+	[FE:038] ccfrsfo4002-antimaterielrifle.esl
+	[FE:039] cceejfo4002-nuka.esl
+	[FE:03A] ccbgsfo4021-powerarmorskinblue.esl
+	[FE:03B] ccbgsfo4027-powerarmorskingreen.esl
+	[FE:03C] ccbgsfo4034-powerarmorskinyellow.esl
+	[FE:03D] ccbgsfo4028-powerarmorskinorange.esl
+	[FE:03E] ccbgsfo4031-powerarmorskinred.esl
+	[FE:03F] ccbgsfo4030-powerarmorskinpurple.esl
+	[FE:040] ccbgsfo4032-powerarmorskintan.esl
+	[FE:041] ccbgsfo4029-powerarmorskinpink.esl
+	[FE:042] ccsbjfo4001-solarflare.esl
+	[FE:043] cckgjfo4001-bastion.esl
+	[FE:044] ccbgsfo4063-papat.esl
+	[FE:045] ccqdrfo4001_powerarmorai.esl
+	[FE:046] ccbgsfo4048-dovah.esl
+	[FE:047] ccbgsfo4101-as_shi.esl
+	[FE:048] ccbgsfo4114-ws_shi.esl
+	[FE:049] ccbgsfo4115-x02.esl
+	[FE:04A] ccrzrfo4002-disintegrate.esl
+	[FE:04B] ccbgsfo4116-heavyflamer.esl
+	[FE:04C] ccbgsfo4091-as_bats.esl
+	[FE:04D] ccbgsfo4092-as_camoblue.esl
+	[FE:04E] ccbgsfo4093-as_camogreen.esl
+	[FE:04F] ccbgsfo4094-as_camotan.esl
+	[FE:050] ccbgsfo4097-as_jack-olantern.esl
+	[FE:051] ccbgsfo4104-ws_bats.esl
+	[FE:052] ccbgsfo4105-ws_camoblue.esl
+	[FE:053] ccbgsfo4106-ws_camogreen.esl
+	[FE:054] ccbgsfo4107-ws_camotan.esl
+	[FE:055] ccbgsfo4111-ws_jack-olantern.esl
+	[FE:056] ccbgsfo4118-ws_tunnelsnakes.esl
+	[FE:057] ccbgsfo4113-ws_reillysrangers.esl
+	[FE:058] ccbgsfo4112-ws_pickman.esl
+	[FE:059] ccbgsfo4110-ws_enclave.esl
+	[FE:05A] ccbgsfo4108-ws_childrenofatom.esl
+	[FE:05B] ccbgsfo4103-as_tunnelsnakes.esl
+	[FE:05C] ccbgsfo4099-as_reillysrangers.esl
+	[FE:05D] ccbgsfo4098-as_pickman.esl
+	[FE:05E] ccbgsfo4096-as_enclave.esl
+	[FE:05F] ccbgsfo4095-as_childrenofatom.esl
+	[FE:060] ccbgsfo4035-pint.esl
+	[FE:061] ccjvdfo4001-holiday.esl
+	[FE:062] ccbgsfo4047-qthund.esl
+	[FE:063] ccfrsfo4003-cr75l.esl
+	[FE:064] ccacxfo4001-vsuit.esl
+	[FE:065] ccbgsfo4040-vrworkshop01.esl
+	[FE:066] ccfsvfo4005-vrdesertisland.esl
+	[FE:067] ccfsvfo4006-vrwasteland.esl
+	[FE:068] ccsbjfo4002_manwellrifle.esl
+	[FE:069] ccbgsfo4117-capmerc.esl
+	[FE:06A] ccfsvfo4004-vrworkshopgnrplaza.esl
+	[FE:06B] ccbgsfo4046-tescan.esl
+	[FE:06C] ccgcafo4025-pagunmm.esl
+	[FE:06D] PPF.esm
+	[FE:06E] BakaFullscreenPipboy.esm
+	[FE:06F] VLPad.esl
+	[FE:070] CC - Pipboy Skins (VIS).esl
+	[FE:071] CC Armor skins.esl
+	[FE:072] CC Dog skins.esl
+	[FE:073] CC Power Armor skins.esl
+	[FE:074] CC Weapon skins.esl
+	[FE:075] Quick_Modification_Weapon_by_tooun.esl
+	[FE:076] Quick_Change_Armor_by_tooun.esl
+	[FE:077] ammoUI_by_tooun.esl
+	[FE:078] IDEKsLogisticsStation2.esl
+	[FE:079] Castle Restoration Project.esl
+	[FE:07A] CoastalCottageExpFarm.esl
+	[FE:07B] MM-Castle-HQ-By-Tarkkh-V2.6.esl
+	[FE:07C] Settler Sandbox Overhaul.esl
+	[FE:07D] SimpleSanctuary.esl
+	[FE:07E] ZJ PerfPlan - Sanctuary.esl
+	[FE:07F] GavMan_Vault88_CityPlan.esl
+	[FE:080] GavMan_V88_Ch2_ Plots_Layouts.esl
+	[FE:081] ThrowMoneyAtSS2.esl
+	[FE:082] WSFW_WorkshopWarningSuppression.esl
+	[FE:083] ManufacturingExtended.esp
+	[FE:084] AdvSettleTurretSet-Real.esp
+	[FE:085] AdvPortableTurretSet-Real-Extension.esp
+	[FE:086] AdvBubbleTurretSet-Real.esp
+	[FE:087] SelectMarkMacTurret.esp
+	[FE:088] AkaAutomaticLaserTripwire.esp
+	[FE:089] OctaviusSentibar_Labels.esp
+	[FE:08A] Better Vendor Stalls.esp
+	[FE:08B] ImmersiveVendors.esp
+	[FE:08C] Marmo1233 - Immersive Settlers.esp
+	[FE:08D] RichMerchants.esp
+	[FE:08E] LongerPowerLines3x.esp
+	[FE:08F] SurvivalSaving_Holotapes.esp
+	[FE:090] Locksmith.esp
+	[FE:091] FallComplete.esp
+	[FE:092] PowerArmorDelivery.esp
+	[FE:093] Running with Corpses.esp
+	[FE:094] RadiationProtector.esp
+	[FE:095] LegendaryRarity100.esp
+	[FE:096] SettlementCorpseCleaner-Merged.esp
+	[FE:097] SkjAlert_All_DLC.esp
+	[FE:098] Arbitration - BetterCombatAI+RedGren+GrenFarther+SO+Mol+NoConReg.esp
+	[FE:099] Arbitration - Button Lowered Weapons.esp
+	[FE:09A] LureEnemies.esp
+	[FE:09B] ModdableRobotSettlers.esp
+	[FE:09C] Expanded Missile Launcher Mods Alt.esp
+	[FE:09D] Expanded Railway Rifle Mods.esp
+	[FE:09E] Chems+Devices+Syringer+Grenades+Syringer.esp
+	[FE:09F] SaveManager.esp
+	[FE:0A0] dD - Ultimate Blood+DeadBody.esp
+	[FE:0A1] CusMarkMacTurret.esp
+	[FE:0A2] Uncaged_Cait_v2.esp
+	[FE:0A3] DESTROY_ALL_Cricket_v2_1.00.esp
+	[FE:0A4] Emergent_Design_Curie_v2.esp
+	[FE:0A5] The_Everyghoul_Hancock_v2.esp
+	[FE:0A6] Rough_in_the_Diamond_Piper_v2_1.02.esp
+	[FE:0A7] Soldier_of_Misfortune_Preston_v2_1.01.esp
+	[FE:0A8] IS_BEST_FIGHTER_Strong_v2.esp
+	[FE:0A9] CompanionsGoHome_A.esp
+	[FE:0AA] TheMobileMechanic - ASE WSE ITO Addon.esp
+	[FE:0AB] OutfitSwitcher - Addon+Patch.esp
+	[FE:0AC] HelmetToggle.esp
+	[FE:0AD] Identify Power Armor Frames.esp
+	[FE:0AE] Move Store and Assign Power Armor.esp
+	[FE:0AF] HPA.esp
+	[FE:0B0] UFOCrashSite.esp
+	[FE:0B1] Pip-Boy Flashlight.esp
+	[FE:0B2] ToggleFanning.esp
+	[FE:0B3] General's Colonial Duster - ASE Patch.esp
+	[FE:0B4] Brotherhood of Steel Kit.esp
+	[FE:0B5] KelloggArm.esp
+	[FE:0B6] Armorsmith Hothtrooper44.esp
+	[FE:0B7] NanoSuit.esp
+	[FE:0B8] NanoArmor.esp
+	[FE:0B9] Suit_Up.esp
+	[FE:0BA] LagrieHelmet.esp
+	[FE:0BB] Punisher Coat.esp
+	[FE:0BC] MGSOutfit.esp
+	[FE:0BD] Crimsomrider's Accessories.esp
+	[FE:0BE] Crimsomrider's Accessories - VIS ASE Patch.esp
+	[FE:0BF] K9TacticalHarness.esp
+	[FE:0C0] Rangergearnew v0.5a ASE Patch.esp
+	[FE:0C1] Needles_1.00.esp
+	[FE:0C2] WeaponsHD.esp
+	[FE:0C3] UWMR+CWMR+WMF+IWMD-GOTY+AWKCR+NC.esp
+	[FE:0C4] NAC-RemoveMenuItem.esp
+	[FE:0C5] ELFX - NAC X Patch.esp
+	[FE:0C6] Region Names on Save Files.esp
+	[FE:0C7] Unique Armor Change-Combat by Battousai124.esp
+	[FE:0C8] Unique Armor Change-PA by Battousai124.esp
+	[FE:0C9] Scavvers of the Commonwealth - ZWPA Patch.esp
+	[FE:0CA] Power Armor Scrap Recipes.esp
+	[FE:0CB] Automatron Decals.esp
+	[FE:0CC] VAFS Redux DLC Patch +VATS.esp
+	[FE:0CD] VAFS Redux ZWPAO Patch.esp
+	[FE:0CE] Glowsight Overhaul 1.1.esp
+	[FE:0CF] CombatRiflePlus.esp
+	[FE:0D0] EnergyWeaponsEqualized.esp
+	[FE:0D1] Glorious_Glowing_Plasma_Weapons_by_Diranar.esp
+	[FE:0D2] PlasmaGatling.esp
+	[FE:0D3] PlasmaGatling - WSE Patch.esp
+	[FE:0D4] UsefulCrank.esp
+	[FE:0D5] Gatling Laser Ammo Conversion - GLO Patch.esp
+	[FE:0D6] InstituteReformation - VIS ASE Patch.esp
+	[FE:0D7] 3dscopes-wse2.esp
+	[FE:0D8] MikeMooresMCAM - WSE Patch.esp
+	[FE:0D9] WattzLaserGun_AssetLoader.esp
+	[FE:0DA] WattzLaserGun - WSE Patch.esp
+	[FE:0DB] 3dscopes-holorifle.esp
+	[FE:0DC] LightsaberMod - ASE Patch.esp
+	[FE:0DD] Fusion Gun - WSE Override.esp
+	[FE:0DE] NV4(Redux)-WSEified.esp
+	[FE:0DF] 3dscopes-fnfal.esp
+	[FE:0E0] 3dscopes-leeenfield.esp
+	[FE:0E1] 3dscopes-wmsr.esp
+	[FE:0E2] YCS186 - WSE Patch.esp
+	[FE:0E3] Moddable Plasma Caster - VIS Patch.esp
+	[FE:0E4] Moddable Plasma Caster - ZWPAO Patch.esp
+	[FE:0E5] InstituteTechnologyOverhaul - FULL.esp
+	[FE:0E6] GunnerJuryRigYLC.esp
+	[FE:0E7] WeaponSmith Extended 2 - ITO Patch.esp
+	[FE:0E8] Unique NPCs - ITO Patch.esp
+	[FE:0E9] DualGun.esp
+	[FE:0EA] DualGun - WSE Patch.esp
+	[FE:0EB] Dual44.esp
+	[FE:0EC] Dual44 - WSE Patch.esp
+	[FE:0ED] DOOMBased Dual-Wield Pack.esp
+	[FE:0EE] AA FusionCityRising - Loads-AE-WSE2-VIS Patch.esp
+	[FE:0EF] Outcasts and Remnants - Loads-AE-WSE2-VIS Patch.esp
+	[FE:0F0] ProjectValkyrie - NC-Loads-AE-VIS Patch.esp
+	[FE:0F1] Thuggysmurf_Optimization.esp
+	[FE:0F2] Thuggysmurf_Optimization - ASE Patch.esp
+	[FE:0F3] Nuclear Holocaust Pipboy.esp
+	[FE:0F4] BLD - Merged - WSE-MCAM Edition.esp
+	[FE:0F5] GunmetalArmorWeaponSkins-Merge Part 02.esp
+	[FE:0F6] GunmetalArmorWeaponSkins-Merge Part 03.esp
+	[FE:0F7] GunmetalArmorWeaponSkins-Merge Part 04.esp
+	[FE:0F8] Settlement_Markers - VIS Patch.esp
+	[FE:0F9] SolarPower.esp
+	[FE:0FA] IDEKsLogisticsStation2_SS2_Patch.esp
+	[FE:0FB] SS2-PraRandomAddon-VISG.esp
+	[FE:0FC] SS2Addon_MS_BareEssentials.esp
+	[FE:0FD] SS2AOP_VaultTecTools.esp
+	[FE:0FE] MS SS2 Unlock Vanilla Recruitable Vendors.esp
+	[FE:0FF] LD50_Leaders - Patch.esp
 	[FE:100] BoS Paints.esp
 	[FE:101] QuestsTags_00_AllDLC.esp
 	[FE:102] QuestsTags_01_patch_UFO4P.esp

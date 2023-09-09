@@ -560,7 +560,7 @@ PLUGINS:
 	[44]     SS2HappyTrails.esp
 	[45]     WattzLaserGun.esp
 	[46]     LString_Bow.esp
-	[47]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[47]     [SS20Addon] SimSettlements SuperStructures.esp
 	[48]     ClassicSniper.esp
 	[49]     CombinedArmsNV.esp
 	[4A]     SkibsWeapons-REDUX.esp
@@ -699,7 +699,7 @@ PLUGINS:
 	[FE:004] TrickleCharger.esl
 	[FE:005] StartMeUpShaunDefaultAppearance.esp
 	[FE:006] Dank_ECO.esp
-	[FE:007] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:007] [SS20Addon] BloodMoonRaiders.esp
 	[FE:008] PRP-SS2-Fixes-Ch2.esp
 	[FE:009] Cyberout77.esp
 	[FE:00A] CyberOut Patch Vannila.esp

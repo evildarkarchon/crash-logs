@@ -804,15 +804,15 @@ F4SE PLUGINS:
 	HighFPSPhysicsFix.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     ChinaLakeandHolorifle.esp
-	[ 8]     F4NVLaserPistol.esp
-	[ 9]     PBW-TheServicePackRELOADED.esp
-	[FE:  0] Munitions - An Ammo Expansion.esl
-	[FE:  1] Munitions - Vanilla Ammo Addon.esl
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     ChinaLakeandHolorifle.esp
+	[08]     F4NVLaserPistol.esp
+	[09]     PBW-TheServicePackRELOADED.esp
+	[FE:000] Munitions - An Ammo Expansion.esl
+	[FE:001] Munitions - Vanilla Ammo Addon.esl

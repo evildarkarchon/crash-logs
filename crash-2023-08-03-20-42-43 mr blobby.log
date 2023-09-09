@@ -414,22 +414,22 @@ F4SE PLUGINS:
 	wsfw_identifier.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     WorkshopFramework.esm
-	[ 9]     SS2.esm
-	[ A]     SS2_XPAC_Chapter2.esm
-	[ B]     ArmorKeywords.esm
-	[ C]     HUDFramework.esm
-	[ D]     TacticalReload.esm
-	[ E]     TheFarmlands.esm
-	[ F]     SOTS.esp
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     WorkshopFramework.esm
+	[09]     SS2.esm
+	[0A]     SS2_XPAC_Chapter2.esm
+	[0B]     ArmorKeywords.esm
+	[0C]     HUDFramework.esm
+	[0D]     TacticalReload.esm
+	[0E]     TheFarmlands.esm
+	[0F]     SOTS.esp
 	[10]     TheWilderness.esm
 	[11]     EthreonMasterPlan.esm
 	[12]     Darlene.esm
@@ -479,7 +479,7 @@ PLUGINS:
 	[3E]     SS2_CityPlanPack_RiseOfTheCommonwealth.esp
 	[3F]     SS2WastelandVenturers.esp
 	[40]     SS2_MsB_PlainPlans.esp
-	[41]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[41]     [SS20Addon] SimSettlements SuperStructures.esp
 	[42]     SS2_ruined_simsettlement_addonpack.esp
 	[43]     SS2_FDK_TinyLiving.esp
 	[44]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
@@ -644,202 +644,202 @@ PLUGINS:
 	[E3]     AA Lots More Settlers and Enemies.esp
 	[E4]     SS2_Addon_3DNPC_SotC.esp
 	[E5]     BoxHouses.esp
-	[FE:  0] InstantClutterContainer.esl
-	[FE:  1] MinimalistWorkbenches.esl
-	[FE:  2] InteriorSettlementResources.esl
-	[FE:  3] MoreDoghouses.esl
-	[FE:  4] NewVendorStalls.esl
-	[FE:  5] NewBeds.esl
-	[FE:  6] NewWalls.esl
-	[FE:  7] MorePrefabs.esl
-	[FE:  8] FalloutInstrumentPack.esl
-	[FE:  9] SolarPanelsMakeshift.esl
-	[FE:  A] Toilets.esl
-	[FE:  B] BuildableCabins.esl
-	[FE:  C] PoliceSherifftable.esl
-	[FE:  D] Library.esl
-	[FE:  E] Showers.esl
-	[FE:  F] SimplisticTent.esl
-	[FE: 10] GuardObjects.esl
-	[FE: 11] Wells.esl
-	[FE: 12] CrashOnTheCouch.esl
-	[FE: 13] ShackShops.esl
-	[FE: 14] RadiationProtectorESL.esl
-	[FE: 15] WastelandGuardShacks.esl
-	[FE: 16] AssembledShacks.esl
-	[FE: 17] WaterPump.esl
-	[FE: 18] IDEKsLogisticsStation2.esl
-	[FE: 19] Dogs can grab player.esl
-	[FE: 1A] StimpakCompanions.esl
-	[FE: 1B] TrackBunkerHillCaravans.esl
-	[FE: 1C] AutoAxe.esl
-	[FE: 1D] BetterRoboticsDisposal.esl
-	[FE: 1E] Boston Airport Refugee Camp.esl
-	[FE: 1F] CastleExtended.esl
-	[FE: 20] ChCl.esl
-	[FE: 21] ClassicUnarmedPack.esl
-	[FE: 22] CovenantEnhancement.esl
-	[FE: 23] DiamondCityAmbience.esl
-	[FE: 24] DrGoodneighbor.esl
-	[FE: 25] FitnessAtSettlements.esl
-	[FE: 26] GavMan_CovenantSep21_CityPlan.esl
-	[FE: 27] GavMan_CroupMar21_CityPlan.esl
-	[FE: 28] GavMan_Finch_Feb22_CityPlan.esl
-	[FE: 29] Gavman_JamaicaAPR21_Cityplan.esl
-	[FE: 2A] Gavman_MurkTreesMAY21_Cityplan.esl
-	[FE: 2B] GavMan_NordhagenApr22_CityPlan.esl
-	[FE: 2C] GavMan_Zimonja_Cityplan.esl
-	[FE: 2D] GSHGuardShifts.esl
-	[FE: 2E] HandmadeAntiMaterielRifle.esl
-	[FE: 2F] Home plate.esl
-	[FE: 30] JamaicaPlainPathing.esm
-	[FE: 31] K198Recruit.esl
-	[FE: 32] MM-Castle-HQ-By-Tarkkh-V2.6.esl
-	[FE: 33] NPSShopping.esl
-	[FE: 34] PMOutfitPack.esl
-	[FE: 35] RecruitAmnesiac.esl
-	[FE: 36] RecruitCora.esl
-	[FE: 37] RecruitJulietteHart.esl
-	[FE: 38] RecruitKat.esl
-	[FE: 39] RecruitMac.esl
-	[FE: 3A] RecruitVirgil.esl
-	[FE: 3B] RecruitWoundedDog.esl
-	[FE: 3C] SalemVolunteerMilitia.esl
-	[FE: 3D] SavingSlim.esl
-	[FE: 3E] SSTMinutemanWatchtowers.esl
-	[FE: 3F] Starlight The ron tower.nocc.esl
-	[FE: 40] SwansBarAndPitstop.esl
-	[FE: 41] The Mechanist's lair - Robco's rebirth.esl
-	[FE: 42] Vault 81 - Buy Guard Armor.esl
-	[FE: 43] WorkshopGuardsSleep.esl
-	[FE: 44] HellcatPA.esl
-	[FE: 45] RepopulateSalem.esl
-	[FE: 46] OberlandOutpost_Minutemen.esl
-	[FE: 47] Bunker Hill Mega City.esl
-	[FE: 48] GavMan_Egret_CityPlan.esl
-	[FE: 49] GavMan_Vault88_CityPlan.esl
-	[FE: 4A] NukaColaBaron.esl
-	[FE: 4B] GoodneighborGuardsOutside.esl
-	[FE: 4C] IAF - Far Harbor & Nuka World.esp
-	[FE: 4D] ImmersiveAnimationFramework.esp
-	[FE: 4E] ConcordResurrected.esp
-	[FE: 4F] SOTS_AWKCR_AS_Patch.esp
-	[FE: 50] T6M_MicroShack.esp
-	[FE: 51] Workshop_Planters.esp
-	[FE: 52] BetterShackBridges.esp
-	[FE: 53] BetterJunkFences.esp
-	[FE: 54] ExpandedSettlementBuildings.esp
-	[FE: 55] CR_OuthouseCollection.esp
-	[FE: 56] ArmorTables.esp
-	[FE: 57] Water Sources Expanded.esp
-	[FE: 58] MapleFarming.esp
-	[FE: 59] commondefense.esp
-	[FE: 5A] DynGuardMats.esp
-	[FE: 5B] chopthatmeat.esp
-	[FE: 5C] Scarecrows.esp
-	[FE: 5D] DynStoreMats.esp
-	[FE: 5E] TurretStands.esp
-	[FE: 5F] NPCUseRailings.esp
-	[FE: 60] BLD_Barricades.esp
-	[FE: 61] DDP_Interior_doorway1.esp
-	[FE: 62] MakeshiftTents.esp
-	[FE: 63] TTP_VendorStalls.esp
-	[FE: 64] ZebrinasShackDoorExpansion.esp
-	[FE: 65] MakeshiftBattery.esp
-	[FE: 66] SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
-	[FE: 67] SS2Addon_MS_BareEssentials.esp
-	[FE: 68] IDEKsLogisticsStation2_SS2_Patch.esp
-	[FE: 69] SS2_Addon_Favelabulous.esp
-	[FE: 6A] Sim Settlers 2 Go Shopping.esp
-	[FE: 6B] SS2AOP_VaultTecTools.esp
-	[FE: 6C] Splinterz.esp
-	[FE: 6D] SimHomestead2.esp
-	[FE: 6E] CompanionAccuracy.esp
-	[FE: 6F] Diverse Cats.esp
-	[FE: 70] _mdcMinutemenLabCoat.esp
-	[FE: 71] AirportHomePlateLairSettlements.esp
-	[FE: 72] Artist Raider.esp
-	[FE: 73] AtomCatsDragRaceStartFix.esp
-	[FE: 74] AttackSpawnsOutsideSettlement.esp
-	[FE: 75] AzarPonytailHairstyles.esp
-	[FE: 76] Better Manta Man.esp
-	[FE: 77] BetterSettlersCCAPack2.0.esp
-	[FE: 78] BetterSettlersMortalPack.esp
-	[FE: 79] BetterSettlersNoLollygagging.esp
-	[FE: 7A] Breakheart Banks - Settlement.esp
-	[FE: 7B] BridgeSettlement.esp
-	[FE: 7C] BusStopSettlementChallenge.esp
-	[FE: 7D] CambridgeSafehouse.esp
-	[FE: 7E] caravanweapon.esp
-	[FE: 7F] Cat Raider.esp
-	[FE: 80] Crater Chantry.esp
-	[FE: 81] Crossbow.esp
-	[FE: 82] CryolatorFlamerShishkebabFix.esp
-	[FE: 83] DCRE.esp
-	[FE: 84] DiamondCityGreenhouseWorkshop.esp
-	[FE: 85] DogSleepFurnitures.esp
-	[FE: 86] DV-Durable Vertibirds.esp
-	[FE: 87] DX Adventurer Outfit.esp
-	[FE: 88] Farmacy.esp
-	[FE: 89] Fixed Trading Prices.esp
-	[FE: 8A] Jamaica Plain Land Edits.esp
-	[FE: 8B] LongerPowerLines3x.esp
-	[FE: 8C] MadMaxOutfit.esp
-	[FE: 8D] Minutemen Outfit.esp
-	[FE: 8E] NeighborWatch.esp
-	[FE: 8F] NolandOutpost.esp
-	[FE: 90] P90NPC.esp
-	[FE: 91] PH_BrightBluff.esp
-	[FE: 92] Protected Unique NPC's.esp
-	[FE: 93] ProtectedNamedSettlers.esp
-	[FE: 94] ProvisionerUniform.esp
-	[FE: 95] RansackedRelay.esp
-	[FE: 96] SalemTurrets-GunRunFix-MK5.esp
-	[FE: 97] SC_ExpandedScrapList.esp
-	[FE: 98] Scrap (Not Quite) Everything - 1 Sanctuary Roads, Foundations, Houses and Driveways.esp
-	[FE: 99] Scrap (Not Quite) Everything - 1a Retaining Walls.esp
-	[FE: 9A] Scrap (Not Quite) Everything - 1a Sanctuary Sidewalks.esp
-	[FE: 9B] Scrap (Not Quite) Everything - 1a Sanctuary Sign.esp
-	[FE: 9C] Scrap (Not Quite) Everything - 1a Sanctuary Steps.esp
-	[FE: 9D] Scrap (Not Quite) Everything - 1b Wasteland Reconstrucion Kit Patch.esp
-	[FE: 9E] Scrap (Not Quite) Everything - 2 Red Rocket and Starlight Combo.esp
-	[FE: 9F] Scrap (Not Quite) Everything - 4 Covenant Houses.esp
-	[FE: A0] Scrap (Not Quite) Everything - 4 Covenant Sign.esp
-	[FE: A1] Scrap (Not Quite) Everything - 4 Covenant Turret Platforms.esp
-	[FE: A2] Scrap (Not Quite) Everything - 4 Covenant Walls.esp
-	[FE: A3] Scrap Everything - Ultimate Edition.esp
-	[FE: A4] SettlementDeadZoneFixMaxCompat.esp
-	[FE: A5] SOTS_Optimization.esp
-	[FE: A6] SS2C2PoliceWeaponsPatch.esp
-	[FE: A7] StoryWealthLocation-CrabShack.esp
-	[FE: A8] SwanPond - Settlement.esp
-	[FE: A9] Swans Pond Settlement Sandbox Fix.esp
-	[FE: AA] TheSlogExtended.esp
-	[FE: AB] TrueGenderEquality.esp
-	[FE: AC] Vault4-eXoPatch.esp
-	[FE: AD] VCM_CountyCrossing_Vanilla_NavmeshUpdate.esp
-	[FE: AE] VCM_GreentopNursery_Navmesh_Update.esp
-	[FE: AF] VCM_KingsportLighthouse_Vanilla_Navmesh_Update.esp
-	[FE: B0] VCM_Murkwater_Navmesh_Update.esp
-	[FE: B1] VCM_RedRocket_Navmesh_Update.esp
-	[FE: B2] Vivid Fallout - All in One - Best Choice.esp
-	[FE: B3] NahantExtraMoreThingsToDo.esp
-	[FE: B4] FortStronger[Previsibines].esp
-	[FE: B5] WorkshopFramework_ScriptOverride.esp
-	[FE: B6] CRP Radio Towers 2.5.esp
-	[FE: B7] 3DNPC-eXoPatch.esp
-	[FE: B8] GunForHire-eXoPatch-Leader.esp
-	[FE: B9] GunForHire-eXoPatch.esp
-	[FE: BA] GunForHire-eXoPatch-SS2DoorRestoration.esp
-	[FE: BB] OCsV81TradeCamp.esp
-	[FE: BC] OCsv81TradeCampInstantUnlock.esp
-	[FE: BD] IntGrievingRaider.esp
-	[FE: BE] [CSR]SS2_Coastal_Cottage.esp
-	[FE: BF] Fort Tenpines.esp
-	[FE: C0] Amelia and Dan at Bunker Hill.esp
-	[FE: C1] RotPP.esp
-	[FE: C2] IntWayneGorski.esp
-	[FE: C3] WorldshighestSettlement.esp
-	[FE: C4] SS2_NobodysLeaders2.esp
-	[FE: C5] SS2_NobodysLeaders2_Automatron.esp
-	[FE: C6] SS2_NobodysLeaders2_VaultTecWorkshop.esp
+	[FE:000] InstantClutterContainer.esl
+	[FE:001] MinimalistWorkbenches.esl
+	[FE:002] InteriorSettlementResources.esl
+	[FE:003] MoreDoghouses.esl
+	[FE:004] NewVendorStalls.esl
+	[FE:005] NewBeds.esl
+	[FE:006] NewWalls.esl
+	[FE:007] MorePrefabs.esl
+	[FE:008] FalloutInstrumentPack.esl
+	[FE:009] SolarPanelsMakeshift.esl
+	[FE:00A] Toilets.esl
+	[FE:00B] BuildableCabins.esl
+	[FE:00C] PoliceSherifftable.esl
+	[FE:00D] Library.esl
+	[FE:00E] Showers.esl
+	[FE:00F] SimplisticTent.esl
+	[FE:010] GuardObjects.esl
+	[FE:011] Wells.esl
+	[FE:012] CrashOnTheCouch.esl
+	[FE:013] ShackShops.esl
+	[FE:014] RadiationProtectorESL.esl
+	[FE:015] WastelandGuardShacks.esl
+	[FE:016] AssembledShacks.esl
+	[FE:017] WaterPump.esl
+	[FE:018] IDEKsLogisticsStation2.esl
+	[FE:019] Dogs can grab player.esl
+	[FE:01A] StimpakCompanions.esl
+	[FE:01B] TrackBunkerHillCaravans.esl
+	[FE:01C] AutoAxe.esl
+	[FE:01D] BetterRoboticsDisposal.esl
+	[FE:01E] Boston Airport Refugee Camp.esl
+	[FE:01F] CastleExtended.esl
+	[FE:020] ChCl.esl
+	[FE:021] ClassicUnarmedPack.esl
+	[FE:022] CovenantEnhancement.esl
+	[FE:023] DiamondCityAmbience.esl
+	[FE:024] DrGoodneighbor.esl
+	[FE:025] FitnessAtSettlements.esl
+	[FE:026] GavMan_CovenantSep21_CityPlan.esl
+	[FE:027] GavMan_CroupMar21_CityPlan.esl
+	[FE:028] GavMan_Finch_Feb22_CityPlan.esl
+	[FE:029] Gavman_JamaicaAPR21_Cityplan.esl
+	[FE:02A] Gavman_MurkTreesMAY21_Cityplan.esl
+	[FE:02B] GavMan_NordhagenApr22_CityPlan.esl
+	[FE:02C] GavMan_Zimonja_Cityplan.esl
+	[FE:02D] GSHGuardShifts.esl
+	[FE:02E] HandmadeAntiMaterielRifle.esl
+	[FE:02F] Home plate.esl
+	[FE:030] JamaicaPlainPathing.esm
+	[FE:031] K198Recruit.esl
+	[FE:032] MM-Castle-HQ-By-Tarkkh-V2.6.esl
+	[FE:033] NPSShopping.esl
+	[FE:034] PMOutfitPack.esl
+	[FE:035] RecruitAmnesiac.esl
+	[FE:036] RecruitCora.esl
+	[FE:037] RecruitJulietteHart.esl
+	[FE:038] RecruitKat.esl
+	[FE:039] RecruitMac.esl
+	[FE:03A] RecruitVirgil.esl
+	[FE:03B] RecruitWoundedDog.esl
+	[FE:03C] SalemVolunteerMilitia.esl
+	[FE:03D] SavingSlim.esl
+	[FE:03E] SSTMinutemanWatchtowers.esl
+	[FE:03F] Starlight The ron tower.nocc.esl
+	[FE:040] SwansBarAndPitstop.esl
+	[FE:041] The Mechanist's lair - Robco's rebirth.esl
+	[FE:042] Vault 81 - Buy Guard Armor.esl
+	[FE:043] WorkshopGuardsSleep.esl
+	[FE:044] HellcatPA.esl
+	[FE:045] RepopulateSalem.esl
+	[FE:046] OberlandOutpost_Minutemen.esl
+	[FE:047] Bunker Hill Mega City.esl
+	[FE:048] GavMan_Egret_CityPlan.esl
+	[FE:049] GavMan_Vault88_CityPlan.esl
+	[FE:04A] NukaColaBaron.esl
+	[FE:04B] GoodneighborGuardsOutside.esl
+	[FE:04C] IAF - Far Harbor & Nuka World.esp
+	[FE:04D] ImmersiveAnimationFramework.esp
+	[FE:04E] ConcordResurrected.esp
+	[FE:04F] SOTS_AWKCR_AS_Patch.esp
+	[FE:050] T6M_MicroShack.esp
+	[FE:051] Workshop_Planters.esp
+	[FE:052] BetterShackBridges.esp
+	[FE:053] BetterJunkFences.esp
+	[FE:054] ExpandedSettlementBuildings.esp
+	[FE:055] CR_OuthouseCollection.esp
+	[FE:056] ArmorTables.esp
+	[FE:057] Water Sources Expanded.esp
+	[FE:058] MapleFarming.esp
+	[FE:059] commondefense.esp
+	[FE:05A] DynGuardMats.esp
+	[FE:05B] chopthatmeat.esp
+	[FE:05C] Scarecrows.esp
+	[FE:05D] DynStoreMats.esp
+	[FE:05E] TurretStands.esp
+	[FE:05F] NPCUseRailings.esp
+	[FE:060] BLD_Barricades.esp
+	[FE:061] DDP_Interior_doorway1.esp
+	[FE:062] MakeshiftTents.esp
+	[FE:063] TTP_VendorStalls.esp
+	[FE:064] ZebrinasShackDoorExpansion.esp
+	[FE:065] MakeshiftBattery.esp
+	[FE:066] SimSettlements2_AddOnPack_ApocalypticAdditions_SirLach.esp
+	[FE:067] SS2Addon_MS_BareEssentials.esp
+	[FE:068] IDEKsLogisticsStation2_SS2_Patch.esp
+	[FE:069] SS2_Addon_Favelabulous.esp
+	[FE:06A] Sim Settlers 2 Go Shopping.esp
+	[FE:06B] SS2AOP_VaultTecTools.esp
+	[FE:06C] Splinterz.esp
+	[FE:06D] SimHomestead2.esp
+	[FE:06E] CompanionAccuracy.esp
+	[FE:06F] Diverse Cats.esp
+	[FE:070] _mdcMinutemenLabCoat.esp
+	[FE:071] AirportHomePlateLairSettlements.esp
+	[FE:072] Artist Raider.esp
+	[FE:073] AtomCatsDragRaceStartFix.esp
+	[FE:074] AttackSpawnsOutsideSettlement.esp
+	[FE:075] AzarPonytailHairstyles.esp
+	[FE:076] Better Manta Man.esp
+	[FE:077] BetterSettlersCCAPack2.0.esp
+	[FE:078] BetterSettlersMortalPack.esp
+	[FE:079] BetterSettlersNoLollygagging.esp
+	[FE:07A] Breakheart Banks - Settlement.esp
+	[FE:07B] BridgeSettlement.esp
+	[FE:07C] BusStopSettlementChallenge.esp
+	[FE:07D] CambridgeSafehouse.esp
+	[FE:07E] caravanweapon.esp
+	[FE:07F] Cat Raider.esp
+	[FE:080] Crater Chantry.esp
+	[FE:081] Crossbow.esp
+	[FE:082] CryolatorFlamerShishkebabFix.esp
+	[FE:083] DCRE.esp
+	[FE:084] DiamondCityGreenhouseWorkshop.esp
+	[FE:085] DogSleepFurnitures.esp
+	[FE:086] DV-Durable Vertibirds.esp
+	[FE:087] DX Adventurer Outfit.esp
+	[FE:088] Farmacy.esp
+	[FE:089] Fixed Trading Prices.esp
+	[FE:08A] Jamaica Plain Land Edits.esp
+	[FE:08B] LongerPowerLines3x.esp
+	[FE:08C] MadMaxOutfit.esp
+	[FE:08D] Minutemen Outfit.esp
+	[FE:08E] NeighborWatch.esp
+	[FE:08F] NolandOutpost.esp
+	[FE:090] P90NPC.esp
+	[FE:091] PH_BrightBluff.esp
+	[FE:092] Protected Unique NPC's.esp
+	[FE:093] ProtectedNamedSettlers.esp
+	[FE:094] ProvisionerUniform.esp
+	[FE:095] RansackedRelay.esp
+	[FE:096] SalemTurrets-GunRunFix-MK5.esp
+	[FE:097] SC_ExpandedScrapList.esp
+	[FE:098] Scrap (Not Quite) Everything - 1 Sanctuary Roads, Foundations, Houses and Driveways.esp
+	[FE:099] Scrap (Not Quite) Everything - 1a Retaining Walls.esp
+	[FE:09A] Scrap (Not Quite) Everything - 1a Sanctuary Sidewalks.esp
+	[FE:09B] Scrap (Not Quite) Everything - 1a Sanctuary Sign.esp
+	[FE:09C] Scrap (Not Quite) Everything - 1a Sanctuary Steps.esp
+	[FE:09D] Scrap (Not Quite) Everything - 1b Wasteland Reconstrucion Kit Patch.esp
+	[FE:09E] Scrap (Not Quite) Everything - 2 Red Rocket and Starlight Combo.esp
+	[FE:09F] Scrap (Not Quite) Everything - 4 Covenant Houses.esp
+	[FE:0A0] Scrap (Not Quite) Everything - 4 Covenant Sign.esp
+	[FE:0A1] Scrap (Not Quite) Everything - 4 Covenant Turret Platforms.esp
+	[FE:0A2] Scrap (Not Quite) Everything - 4 Covenant Walls.esp
+	[FE:0A3] Scrap Everything - Ultimate Edition.esp
+	[FE:0A4] SettlementDeadZoneFixMaxCompat.esp
+	[FE:0A5] SOTS_Optimization.esp
+	[FE:0A6] SS2C2PoliceWeaponsPatch.esp
+	[FE:0A7] StoryWealthLocation-CrabShack.esp
+	[FE:0A8] SwanPond - Settlement.esp
+	[FE:0A9] Swans Pond Settlement Sandbox Fix.esp
+	[FE:0AA] TheSlogExtended.esp
+	[FE:0AB] TrueGenderEquality.esp
+	[FE:0AC] Vault4-eXoPatch.esp
+	[FE:0AD] VCM_CountyCrossing_Vanilla_NavmeshUpdate.esp
+	[FE:0AE] VCM_GreentopNursery_Navmesh_Update.esp
+	[FE:0AF] VCM_KingsportLighthouse_Vanilla_Navmesh_Update.esp
+	[FE:0B0] VCM_Murkwater_Navmesh_Update.esp
+	[FE:0B1] VCM_RedRocket_Navmesh_Update.esp
+	[FE:0B2] Vivid Fallout - All in One - Best Choice.esp
+	[FE:0B3] NahantExtraMoreThingsToDo.esp
+	[FE:0B4] FortStronger[Previsibines].esp
+	[FE:0B5] WorkshopFramework_ScriptOverride.esp
+	[FE:0B6] CRP Radio Towers 2.5.esp
+	[FE:0B7] 3DNPC-eXoPatch.esp
+	[FE:0B8] GunForHire-eXoPatch-Leader.esp
+	[FE:0B9] GunForHire-eXoPatch.esp
+	[FE:0BA] GunForHire-eXoPatch-SS2DoorRestoration.esp
+	[FE:0BB] OCsV81TradeCamp.esp
+	[FE:0BC] OCsv81TradeCampInstantUnlock.esp
+	[FE:0BD] IntGrievingRaider.esp
+	[FE:0BE] [CSR]SS2_Coastal_Cottage.esp
+	[FE:0BF] Fort Tenpines.esp
+	[FE:0C0] Amelia and Dan at Bunker Hill.esp
+	[FE:0C1] RotPP.esp
+	[FE:0C2] IntWayneGorski.esp
+	[FE:0C3] WorldshighestSettlement.esp
+	[FE:0C4] SS2_NobodysLeaders2.esp
+	[FE:0C5] SS2_NobodysLeaders2_Automatron.esp
+	[FE:0C6] SS2_NobodysLeaders2_VaultTecWorkshop.esp

@@ -1013,22 +1013,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     AAF.esm
-	[ 8]     MutantMenagerie.esm
-	[ 9]     MutantMenagerie_FarHarbor.esm
-	[ A]     MutantMenagerie_NukaWorld.esm
-	[ B]     CWPointLookoutFO4.esm
-	[ C]     MutantMenagerie_PointLookout.esm
-	[ D]     CROSS_CosmeticFramework.esm
-	[ E]     XDI.esm
-	[ F]     Fallout 4 Fixes.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     AAF.esm
+	[08]     MutantMenagerie.esm
+	[09]     MutantMenagerie_FarHarbor.esm
+	[0A]     MutantMenagerie_NukaWorld.esm
+	[0B]     CWPointLookoutFO4.esm
+	[0C]     MutantMenagerie_PointLookout.esm
+	[0D]     CROSS_CosmeticFramework.esm
+	[0E]     XDI.esm
+	[0F]     Fallout 4 Fixes.esm
 	[10]     HUDFramework.esm
 	[11]     InstituteTechnologyOverhaul.esm
 	[12]     NAC.esm
@@ -1269,267 +1269,267 @@ PLUGINS:
 	[FD]     ESPExplorerFO4.esp
 	[FE]     DOOMSCARLK.esp
 	[FF]     DOOMLK05.esp
-	[ 0]     PAMAP.esp
-	[ 1]     BE_Enhanced Grenades.esp
-	[ 2]     Vioxsis_Strap-Ons.esp
-	[ 3]     rfortaleza2-mk2.esp
-	[ 4]     6 x XP.esp
-	[FE:  0] BusStopLighting.esl
-	[FE:  1] StarlightDriveInAndDiner.esl
-	[FE:  2] AAFThemes.esl
-	[FE:  3] Assaultron Embedded Laser Claws.esl
-	[FE:  4] Automatron Special Defense Assembly.esl
-	[FE:  5] Automatron Torso Misc Advanced Mod.esl
-	[FE:  6] IllumBillboardsAIO.esl
-	[FE:  7] RadioactiveSignsAIO.esl
-	[FE:  8] JingaBodysuit.esl
-	[FE:  9] Automatron Randomized Bots Framework.esm
-	[FE:  A] BakaWaitAnywhere.esm
-	[FE:  B] BakaFramework.esm
-	[FE:  C] Balisong.esl
-	[FE:  D] CROSS_CoA.esl
-	[FE:  E] CROSS_VertibirdFlightsuit.esl
-	[FE:  F] CROSS_Wasteland_Ronin.esl
-	[FE: 10] ClassicMeleePack.esl
-	[FE: 11] ClassicSuperSledge.esl
-	[FE: 12] Cyber Arms.esl
-	[FE: 13] DanseHelmet.esl
-	[FE: 14] DiamondCityAmbience.esl
-	[FE: 15] Dual44.esl
-	[FE: 16] EnclavePack.esl
-	[FE: 17] Enclave_Robot.esl
-	[FE: 18] CWPointLookoutFO4Patch.esl
-	[FE: 19] Fireflies.esl
-	[FE: 1A] SSTForestFungusDelit.esl
-	[FE: 1B] HeavySelectShotgun.esl
-	[FE: 1C] HellcatPA.esl
-	[FE: 1D] HiPolyFacesCompanionPlugin.esl
-	[FE: 1E] Jinga Closet 1.esl
-	[FE: 1F] Jinga C Bodysuit.esl
-	[FE: 20] DualGun.esl
-	[FE: 21] LIF.esl
-	[FE: 22] LarannKiarRecruitModsAIOArchivePackESL.esl
-	[FE: 23] FOLON_Lewis.esl
-	[FE: 24] SSTMinutemanWatchtowers.esl
-	[FE: 25] Bighorner.esl
-	[FE: 26] Cazadors.esl
-	[FE: 27] Geckos.esl
-	[FE: 28] Mantis.esl
-	[FE: 29] NCRArmourPack.esl
-	[FE: 2A] NuclearNaughtiesPaintings_AssEdition.esl
-	[FE: 2B] NuclearNaughtiesPaintings_BoobsEdition.esl
-	[FE: 2C] NuclearNaughtiesPaintings_NSFW1Edition.esl
-	[FE: 2D] NukatronQuantum.esl
-	[FE: 2E] PPF.esm
-	[FE: 2F] PhotonDisruptor.esl
-	[FE: 30] PickaxeWeapon.esl
-	[FE: 31] RedRocketsGlareII.esl
-	[FE: 32] RedRocket_Robot.esl
-	[FE: 33] Reverse Combat Armor.esl
-	[FE: 34] RunningWithHandsAnim.esl
-	[FE: 35] SelectAssaultRifle.esl
-	[FE: 36] SelectPowerArmor.esl
-	[FE: 37] Settler Sandbox Overhaul.esl
-	[FE: 38] Silent And Immediate Character Creation - Full (No Radio).esl
-	[FE: 39] SwimmingAnims.esl
-	[FE: 3A] TAAFlickerRemover.esl
-	[FE: 3B] VLPad.esl
-	[FE: 3C] Working_Aquariums.esl
-	[FE: 3D] SelectRevolver.esl
-	[FE: 3E] T65PA.esl
-	[FE: 3F] TeslaHeavyGun.esl
-	[FE: 40] Munitions - An Ammo Expansion.esl
-	[FE: 41] Munitions - Vanilla Ammo Addon.esl
-	[FE: 42] Atomic Muscle LM Patch.esl
-	[FE: 43] Vault-Tec Armor Redux - Modular Expansion & Fixes.esp
-	[FE: 44] PRP-DrNicks.esp
-	[FE: 45] 4estGimp - SotS AS MMWatchtower.esp
-	[FE: 46] Eli_Armour_Compendium_Patch.esp
-	[FE: 47] aBitBetterGunnerFaces.esp
-	[FE: 48] A Forest-Base Mod Patch.esp
-	[FE: 49] A Forest-RynsFallout4.esp
-	[FE: 4A] aForestPineTreesRedonePatch.esp
-	[FE: 4B] AForest-TrueGrass.esp
-	[FE: 4C] PRP-AForestTreeTrim.esp
-	[FE: 4D] PRP-AForest.esp
-	[FE: 4E] Lil More Hair - Beatnik and Beards.esp
-	[FE: 4F] Patch AAF - DiverseBodies.esp
-	[FE: 50] PRP-AmericaRising.esp
-	[FE: 51] Cyberout77.esp
-	[FE: 52] SF Atom Cats.esp
-	[FE: 53] AttackSpawnsOutsideSettlement.esp
-	[FE: 54] th1nkEyeBot-DLC03DLC04Addon.esp
-	[FE: 55] th1nkEyeBot-NukaWorld.esp
-	[FE: 56] Automatron Randomized Bots Overrider Unleveled.esp
-	[FE: 57] Automatron Randomized Bots Overrider.esp
-	[FE: 58] BLD - AI Tweaks.esp
-	[FE: 59] SF BOS.esp
-	[FE: 5A] Be Exceptional Rebalanced (LVL 78).esp
-	[FE: 5B] JSRS__Better Explosives Redux__patch.esp
-	[FE: 5C] BLD - Leveled Lists - DLC.esp
-	[FE: 5D] Better Locational Damage - DLC_Automatron.esp
-	[FE: 5E] Better Locational Damage - DLC_Far_Harbor.esp
-	[FE: 5F] Better Locational Damage - DLC_Nuka_World.esp
-	[FE: 60] Better Locational Damage - DLC_WWorkshop.esp
-	[FE: 61] Better Perks.esp
-	[FE: 62] Better Rubble.esp
-	[FE: 63] TS BoS Uniform Overhaul Standalone.esp
-	[FE: 64] Bullet Impact Overhaul.esp
-	[FE: 65] Burst Impact Blast FX.esp
-	[FE: 66] COCO Lingerie.esp
-	[FE: 67] CROSS_Eyewear_CircularGlasses.esp
-	[FE: 68] CROSS_Uni_Scarf.esp
-	[FE: 69] CROSS_2077.esp
-	[FE: 6A] CROSS_Blades.esp
-	[FE: 6B] CROSS_BreakActionLaser.esp
-	[FE: 6C] CROSS_BrotherhoodRecon.esp
-	[FE: 6D] CROSS_CourserStrigidae.esp
-	[FE: 6E] CROSS_CryoLance.esp
-	[FE: 6F] CROSS_InstituteExpeditionarySuit.esp
-	[FE: 70] CROSS_MojaveManhunter.esp
-	[FE: 71] CROSS_Uni_BosUniform.esp
-	[FE: 72] PRP-CSEPBIARedux.esp
-	[FE: 73] PRP-CSEPBountyMod.esp
-	[FE: 74] PRP-CSEPLoadedBases.esp
-	[FE: 75] PRP-CSEPHomeSick.esp
-	[FE: 76] CBBE.esp
-	[FE: 77] Cinematographic fog effect - Heavy.esp
-	[FE: 78] ClassicGhoulRace2022.esp
-	[FE: 79] Classic Speech Checks.esp
-	[FE: 7A] CompanionStatus-Settings.esp
-	[FE: 7B] MK_ComponentsRedone.esp
-	[FE: 7C] 3rd Person Cam SmallFix.esp
-	[FE: 7D] Crimsomrider's Accessories.esp
-	[FE: 7E] SF Curie.esp
-	[FE: 7F] DLCRobot Sentry Face Light Fix.esp
-	[FE: 80] DCRE.esp
-	[FE: 81] SF Deacon.esp
-	[FE: 82] DiverseBodies.esp
-	[FE: 83] DiscreteFemaleSkeleton.esp
-	[FE: 84] dD-Enhanced Blood Basic.esp
-	[FE: 85] Dank_ECO-INNR.esp
-	[FE: 86] Dank_ECO.esp
-	[FE: 87] Dank_ECO_DLCCoast.esp
-	[FE: 88] Dank_ECO_DLCNukaWorld.esp
-	[FE: 89] Dank_ECO_DLCRobot.esp
-	[FE: 8A] Nuka Cola Girl Magazine.esp
-	[FE: 8B] ButterflyPsBossGlasses.esp
-	[FE: 8C] Vault-Tec Armor.esp
-	[FE: 8D] NanoSuit.esp
-	[FE: 8E] ECM.esp
-	[FE: 8F] [ETH]EthnetsMeleeSounds.esp
-	[FE: 90] F4llout76 - Mutations.esp
-	[FE: 91] FATE Patch - Better Locational Damage.esp
-	[FE: 92] FATE Patch - Combat Zone Restored.esp
-	[FE: 93] FGEP-Legendary.esp
-	[FE: 94] FGEP - Lore-Friendly Patch - Injector Version.esp
-	[FE: 95] FO4HHS_AAF.esp
-	[FE: 96] Faded Glory - Soundtrack Expansion.esp
-	[FE: 97] Dank_FadedGlory_Radium.esp
-	[FE: 98] Radium.esp
-	[FE: 99] M8rDisablePipboyEffects.esp
-	[FE: 9A] LksFaceMaleMerge.esp
-	[FE: 9B] LksFaceFemaleMerge.esp
-	[FE: 9C] Lazman Female Outfit Replacer.esp
-	[FE: 9D] FemsheppingsDiamondSquareLoft_Patch.esp
-	[FE: 9E] BetterCoastalWaves.esp
-	[FE: 9F] NAC X - FogFilter.esp
-	[FE: A0] PRP-Vault4.esp
-	[FE: A1] SF Gage.esp
-	[FE: A2] SF Goodneighbor.esp
-	[FE: A3] PRP-Gun4Hire.esp
-	[FE: A4] Elzee Have a Seat.esp
-	[FE: A5] PRP-HOD.esp
-	[FE: A6] HiPolyFaces.esp
-	[FE: A7] Idiot Slut.esp
-	[FE: A8] IcebreakerCDO-Settlements.esp
-	[FE: A9] CityAmbience.esp
-	[FE: AA] InstituteBotLasers.esp
-	[FE: AB] DodgeInvincibilityFrames.esp
-	[FE: AC] JDress.esp
-	[FE: AD] JNFA.esp
-	[FE: AE] JSRS_Regions.esp
-	[FE: AF] Jump Grunt.esp
-	[FE: B0] Dank_ECO-LEO.esp
-	[FE: B1] Dank_LEO-Automatron.esp
-	[FE: B2] Dank_LEO.esp
-	[FE: B3] Dank_LEO_DLCCoast.esp
-	[FE: B4] Dank_LEO_DLCNukaWorld.esp
-	[FE: B5] LKsMagnolia..esp
-	[FE: B6] LKsCait.esp
-	[FE: B7] LAT - Diamond City Ambience Patch.esp
-	[FE: B8] LAT - Inner City Ambience Patch.esp
-	[FE: B9] LAT - Lush Ambience Patch.esp
-	[FE: BA] LAT - NAC Patch.esp
-	[FE: BB] LAT RAO - Atomic Radio Patch.esp
-	[FE: BC] LAT RAO - DCRE Patch.esp
-	[FE: BD] LOST Audio Tweaks.esp
-	[FE: BE] LKsPiperIntense.esp
-	[FE: BF] Larger Shipments.esp
-	[FE: C0] Leaf Piles Improved.esp
-	[FE: C1] LegendaryBosses - PlutoniumRedux.esp
-	[FE: C2] Dank_LAB.esp
-	[FE: C3] Dank_LAB_DLCNukaWorld.esp
-	[FE: C4] Dank_LAB_LEO.esp
-	[FE: C5] LegendaryAllDifficulties2x.esp
-	[FE: C6] LegendaryRarity10.esp
-	[FE: C7] Chainsaw_LL.esp
-	[FE: C8] Livewire Cyberout77 patch.esp
-	[FE: C9] Livewire by Shiagur.esp
-	[FE: CA] LookingStranger.esp
-	[FE: CB] BLD_LooksMenuPatch.esp
-	[FE: CC] LooksMenu.esp
-	[FE: CD] FGEP - Lore-Friendly - A Legendary Addition Patch.esp
-	[FE: CE] Lots More Facial Hair.esp
-	[FE: CF] Lots More Male Hairstyles.esp
-	[FE: D0] LushAmbience.esp
-	[FE: D1] SF MacCready.esp
-	[FE: D2] Alex - Perks Overhaul - 3DNPC - Patch.esp
-	[FE: D3] Alex - Perks Overhaul - Humble Perks - VAFS.esp
-	[FE: D4] Alex - Perks Overhaul - Optional - All.esp
-	[FE: D5] Alex - Perks Overhaul - Start Me Up.esp
-	[FE: D6] Alex - Perks Overhaul - VAFS.esp
-	[FE: D7] Alex - Perks Overhaul - WI - Humble Perks.esp
-	[FE: D8] Alex - Perks Overhaul - YAS - VAFS.esp
-	[FE: D9] Alex - Perks Overhaul - YAS.esp
-	[FE: DA] Alex - Perks Overhaul.esp
-	[FE: DB] Makeshiftshotgun.esp
-	[FE: DC] Maxson's Lootable Legendary Equipment - Face Maxson Patch.esp
-	[FE: DD] Maxson's Lootable Legendary Equipment .esp
-	[FE: DE] MaxwellsWorl XDI Patch.esp
-	[FE: DF] PRP-MaxwellsWorl.esp
-	[FE: E0] Minigun - Spun Up.esp
-	[FE: E1] MiscHairstyle.esp
-	[FE: E2] MoreResourcesX2.esp
-	[FE: E3] MoreBeards.esp
-	[FE: E4] MoreHairstyles4Female.esp
-	[FE: E5] MoreHairstyles4Male.esp
-	[FE: E6] 00-Movements101.esp
-	[FE: E7] NACskintonefix.esp
-	[FE: E8] NAC-RemoveMenuItem.esp
-	[FE: E9] NAC-FH.esp
-	[FE: EA] NAC-NW.esp
-	[FE: EB] NAC X Water LOD God Rays Fix.esp
-	[FE: EC] Dank_ArmorOverrides.esp
-	[FE: ED] Dank_ArmorOverrides_DLCCoast.esp
-	[FE: EE] Dank_ArmorOverrides_DLCNukaWorld.esp
-	[FE: EF] Dank_ArmorOverrides_DLCRobot.esp
-	[FE: F0] Dank_INNRoverride.esp
-	[FE: F1] NoAffinityCooldown.esp
-	[FE: F2] NoNegativeAffinityNoFucks.esp
-	[FE: F3] NPC Boss Battles ALL DLC Ultimate 1.1.esp
-	[FE: F4] AKSounds.esp
-	[FE: F5] NukaRadBans.esp
-	[FE: F6] SF OldLongfellow.esp
-	[FE: F7] MojaveImports - Combat Addon.esp
-	[FE: F8] The Deadly Commonwealth Expansion.esp
-	[FE: F9] PRP-Compat-PointLookout.esp
-	[FE: FA] PRP.esp
-	[FE: FB] SF Danse.esp
-	[FE: FC] PRP 69 Waves.esp
-	[FE: FD] Pine Trees Redone.esp
-	[FE: FE] PipBoyFlashlight_Patch.esp
-	[FE: FF] Pip-Boy Flashlight.esp
+	[00]     PAMAP.esp
+	[01]     BE_Enhanced Grenades.esp
+	[02]     Vioxsis_Strap-Ons.esp
+	[03]     rfortaleza2-mk2.esp
+	[04]     6 x XP.esp
+	[FE:000] BusStopLighting.esl
+	[FE:001] StarlightDriveInAndDiner.esl
+	[FE:002] AAFThemes.esl
+	[FE:003] Assaultron Embedded Laser Claws.esl
+	[FE:004] Automatron Special Defense Assembly.esl
+	[FE:005] Automatron Torso Misc Advanced Mod.esl
+	[FE:006] IllumBillboardsAIO.esl
+	[FE:007] RadioactiveSignsAIO.esl
+	[FE:008] JingaBodysuit.esl
+	[FE:009] Automatron Randomized Bots Framework.esm
+	[FE:00A] BakaWaitAnywhere.esm
+	[FE:00B] BakaFramework.esm
+	[FE:00C] Balisong.esl
+	[FE:00D] CROSS_CoA.esl
+	[FE:00E] CROSS_VertibirdFlightsuit.esl
+	[FE:00F] CROSS_Wasteland_Ronin.esl
+	[FE:010] ClassicMeleePack.esl
+	[FE:011] ClassicSuperSledge.esl
+	[FE:012] Cyber Arms.esl
+	[FE:013] DanseHelmet.esl
+	[FE:014] DiamondCityAmbience.esl
+	[FE:015] Dual44.esl
+	[FE:016] EnclavePack.esl
+	[FE:017] Enclave_Robot.esl
+	[FE:018] CWPointLookoutFO4Patch.esl
+	[FE:019] Fireflies.esl
+	[FE:01A] SSTForestFungusDelit.esl
+	[FE:01B] HeavySelectShotgun.esl
+	[FE:01C] HellcatPA.esl
+	[FE:01D] HiPolyFacesCompanionPlugin.esl
+	[FE:01E] Jinga Closet 1.esl
+	[FE:01F] Jinga C Bodysuit.esl
+	[FE:020] DualGun.esl
+	[FE:021] LIF.esl
+	[FE:022] LarannKiarRecruitModsAIOArchivePackESL.esl
+	[FE:023] FOLON_Lewis.esl
+	[FE:024] SSTMinutemanWatchtowers.esl
+	[FE:025] Bighorner.esl
+	[FE:026] Cazadors.esl
+	[FE:027] Geckos.esl
+	[FE:028] Mantis.esl
+	[FE:029] NCRArmourPack.esl
+	[FE:02A] NuclearNaughtiesPaintings_AssEdition.esl
+	[FE:02B] NuclearNaughtiesPaintings_BoobsEdition.esl
+	[FE:02C] NuclearNaughtiesPaintings_NSFW1Edition.esl
+	[FE:02D] NukatronQuantum.esl
+	[FE:02E] PPF.esm
+	[FE:02F] PhotonDisruptor.esl
+	[FE:030] PickaxeWeapon.esl
+	[FE:031] RedRocketsGlareII.esl
+	[FE:032] RedRocket_Robot.esl
+	[FE:033] Reverse Combat Armor.esl
+	[FE:034] RunningWithHandsAnim.esl
+	[FE:035] SelectAssaultRifle.esl
+	[FE:036] SelectPowerArmor.esl
+	[FE:037] Settler Sandbox Overhaul.esl
+	[FE:038] Silent And Immediate Character Creation - Full (No Radio).esl
+	[FE:039] SwimmingAnims.esl
+	[FE:03A] TAAFlickerRemover.esl
+	[FE:03B] VLPad.esl
+	[FE:03C] Working_Aquariums.esl
+	[FE:03D] SelectRevolver.esl
+	[FE:03E] T65PA.esl
+	[FE:03F] TeslaHeavyGun.esl
+	[FE:040] Munitions - An Ammo Expansion.esl
+	[FE:041] Munitions - Vanilla Ammo Addon.esl
+	[FE:042] Atomic Muscle LM Patch.esl
+	[FE:043] Vault-Tec Armor Redux - Modular Expansion & Fixes.esp
+	[FE:044] PRP-DrNicks.esp
+	[FE:045] 4estGimp - SotS AS MMWatchtower.esp
+	[FE:046] Eli_Armour_Compendium_Patch.esp
+	[FE:047] aBitBetterGunnerFaces.esp
+	[FE:048] A Forest-Base Mod Patch.esp
+	[FE:049] A Forest-RynsFallout4.esp
+	[FE:04A] aForestPineTreesRedonePatch.esp
+	[FE:04B] AForest-TrueGrass.esp
+	[FE:04C] PRP-AForestTreeTrim.esp
+	[FE:04D] PRP-AForest.esp
+	[FE:04E] Lil More Hair - Beatnik and Beards.esp
+	[FE:04F] Patch AAF - DiverseBodies.esp
+	[FE:050] PRP-AmericaRising.esp
+	[FE:051] Cyberout77.esp
+	[FE:052] SF Atom Cats.esp
+	[FE:053] AttackSpawnsOutsideSettlement.esp
+	[FE:054] th1nkEyeBot-DLC03DLC04Addon.esp
+	[FE:055] th1nkEyeBot-NukaWorld.esp
+	[FE:056] Automatron Randomized Bots Overrider Unleveled.esp
+	[FE:057] Automatron Randomized Bots Overrider.esp
+	[FE:058] BLD - AI Tweaks.esp
+	[FE:059] SF BOS.esp
+	[FE:05A] Be Exceptional Rebalanced (LVL 78).esp
+	[FE:05B] JSRS__Better Explosives Redux__patch.esp
+	[FE:05C] BLD - Leveled Lists - DLC.esp
+	[FE:05D] Better Locational Damage - DLC_Automatron.esp
+	[FE:05E] Better Locational Damage - DLC_Far_Harbor.esp
+	[FE:05F] Better Locational Damage - DLC_Nuka_World.esp
+	[FE:060] Better Locational Damage - DLC_WWorkshop.esp
+	[FE:061] Better Perks.esp
+	[FE:062] Better Rubble.esp
+	[FE:063] TS BoS Uniform Overhaul Standalone.esp
+	[FE:064] Bullet Impact Overhaul.esp
+	[FE:065] Burst Impact Blast FX.esp
+	[FE:066] COCO Lingerie.esp
+	[FE:067] CROSS_Eyewear_CircularGlasses.esp
+	[FE:068] CROSS_Uni_Scarf.esp
+	[FE:069] CROSS_2077.esp
+	[FE:06A] CROSS_Blades.esp
+	[FE:06B] CROSS_BreakActionLaser.esp
+	[FE:06C] CROSS_BrotherhoodRecon.esp
+	[FE:06D] CROSS_CourserStrigidae.esp
+	[FE:06E] CROSS_CryoLance.esp
+	[FE:06F] CROSS_InstituteExpeditionarySuit.esp
+	[FE:070] CROSS_MojaveManhunter.esp
+	[FE:071] CROSS_Uni_BosUniform.esp
+	[FE:072] PRP-CSEPBIARedux.esp
+	[FE:073] PRP-CSEPBountyMod.esp
+	[FE:074] PRP-CSEPLoadedBases.esp
+	[FE:075] PRP-CSEPHomeSick.esp
+	[FE:076] CBBE.esp
+	[FE:077] Cinematographic fog effect - Heavy.esp
+	[FE:078] ClassicGhoulRace2022.esp
+	[FE:079] Classic Speech Checks.esp
+	[FE:07A] CompanionStatus-Settings.esp
+	[FE:07B] MK_ComponentsRedone.esp
+	[FE:07C] 3rd Person Cam SmallFix.esp
+	[FE:07D] Crimsomrider's Accessories.esp
+	[FE:07E] SF Curie.esp
+	[FE:07F] DLCRobot Sentry Face Light Fix.esp
+	[FE:080] DCRE.esp
+	[FE:081] SF Deacon.esp
+	[FE:082] DiverseBodies.esp
+	[FE:083] DiscreteFemaleSkeleton.esp
+	[FE:084] dD-Enhanced Blood Basic.esp
+	[FE:085] Dank_ECO-INNR.esp
+	[FE:086] Dank_ECO.esp
+	[FE:087] Dank_ECO_DLCCoast.esp
+	[FE:088] Dank_ECO_DLCNukaWorld.esp
+	[FE:089] Dank_ECO_DLCRobot.esp
+	[FE:08A] Nuka Cola Girl Magazine.esp
+	[FE:08B] ButterflyPsBossGlasses.esp
+	[FE:08C] Vault-Tec Armor.esp
+	[FE:08D] NanoSuit.esp
+	[FE:08E] ECM.esp
+	[FE:08F] [ETH]EthnetsMeleeSounds.esp
+	[FE:090] F4llout76 - Mutations.esp
+	[FE:091] FATE Patch - Better Locational Damage.esp
+	[FE:092] FATE Patch - Combat Zone Restored.esp
+	[FE:093] FGEP-Legendary.esp
+	[FE:094] FGEP - Lore-Friendly Patch - Injector Version.esp
+	[FE:095] FO4HHS_AAF.esp
+	[FE:096] Faded Glory - Soundtrack Expansion.esp
+	[FE:097] Dank_FadedGlory_Radium.esp
+	[FE:098] Radium.esp
+	[FE:099] M8rDisablePipboyEffects.esp
+	[FE:09A] LksFaceMaleMerge.esp
+	[FE:09B] LksFaceFemaleMerge.esp
+	[FE:09C] Lazman Female Outfit Replacer.esp
+	[FE:09D] FemsheppingsDiamondSquareLoft_Patch.esp
+	[FE:09E] BetterCoastalWaves.esp
+	[FE:09F] NAC X - FogFilter.esp
+	[FE:0A0] PRP-Vault4.esp
+	[FE:0A1] SF Gage.esp
+	[FE:0A2] SF Goodneighbor.esp
+	[FE:0A3] PRP-Gun4Hire.esp
+	[FE:0A4] Elzee Have a Seat.esp
+	[FE:0A5] PRP-HOD.esp
+	[FE:0A6] HiPolyFaces.esp
+	[FE:0A7] Idiot Slut.esp
+	[FE:0A8] IcebreakerCDO-Settlements.esp
+	[FE:0A9] CityAmbience.esp
+	[FE:0AA] InstituteBotLasers.esp
+	[FE:0AB] DodgeInvincibilityFrames.esp
+	[FE:0AC] JDress.esp
+	[FE:0AD] JNFA.esp
+	[FE:0AE] JSRS_Regions.esp
+	[FE:0AF] Jump Grunt.esp
+	[FE:0B0] Dank_ECO-LEO.esp
+	[FE:0B1] Dank_LEO-Automatron.esp
+	[FE:0B2] Dank_LEO.esp
+	[FE:0B3] Dank_LEO_DLCCoast.esp
+	[FE:0B4] Dank_LEO_DLCNukaWorld.esp
+	[FE:0B5] LKsMagnolia..esp
+	[FE:0B6] LKsCait.esp
+	[FE:0B7] LAT - Diamond City Ambience Patch.esp
+	[FE:0B8] LAT - Inner City Ambience Patch.esp
+	[FE:0B9] LAT - Lush Ambience Patch.esp
+	[FE:0BA] LAT - NAC Patch.esp
+	[FE:0BB] LAT RAO - Atomic Radio Patch.esp
+	[FE:0BC] LAT RAO - DCRE Patch.esp
+	[FE:0BD] LOST Audio Tweaks.esp
+	[FE:0BE] LKsPiperIntense.esp
+	[FE:0BF] Larger Shipments.esp
+	[FE:0C0] Leaf Piles Improved.esp
+	[FE:0C1] LegendaryBosses - PlutoniumRedux.esp
+	[FE:0C2] Dank_LAB.esp
+	[FE:0C3] Dank_LAB_DLCNukaWorld.esp
+	[FE:0C4] Dank_LAB_LEO.esp
+	[FE:0C5] LegendaryAllDifficulties2x.esp
+	[FE:0C6] LegendaryRarity10.esp
+	[FE:0C7] Chainsaw_LL.esp
+	[FE:0C8] Livewire Cyberout77 patch.esp
+	[FE:0C9] Livewire by Shiagur.esp
+	[FE:0CA] LookingStranger.esp
+	[FE:0CB] BLD_LooksMenuPatch.esp
+	[FE:0CC] LooksMenu.esp
+	[FE:0CD] FGEP - Lore-Friendly - A Legendary Addition Patch.esp
+	[FE:0CE] Lots More Facial Hair.esp
+	[FE:0CF] Lots More Male Hairstyles.esp
+	[FE:0D0] LushAmbience.esp
+	[FE:0D1] SF MacCready.esp
+	[FE:0D2] Alex - Perks Overhaul - 3DNPC - Patch.esp
+	[FE:0D3] Alex - Perks Overhaul - Humble Perks - VAFS.esp
+	[FE:0D4] Alex - Perks Overhaul - Optional - All.esp
+	[FE:0D5] Alex - Perks Overhaul - Start Me Up.esp
+	[FE:0D6] Alex - Perks Overhaul - VAFS.esp
+	[FE:0D7] Alex - Perks Overhaul - WI - Humble Perks.esp
+	[FE:0D8] Alex - Perks Overhaul - YAS - VAFS.esp
+	[FE:0D9] Alex - Perks Overhaul - YAS.esp
+	[FE:0DA] Alex - Perks Overhaul.esp
+	[FE:0DB] Makeshiftshotgun.esp
+	[FE:0DC] Maxson's Lootable Legendary Equipment - Face Maxson Patch.esp
+	[FE:0DD] Maxson's Lootable Legendary Equipment .esp
+	[FE:0DE] MaxwellsWorl XDI Patch.esp
+	[FE:0DF] PRP-MaxwellsWorl.esp
+	[FE:0E0] Minigun - Spun Up.esp
+	[FE:0E1] MiscHairstyle.esp
+	[FE:0E2] MoreResourcesX2.esp
+	[FE:0E3] MoreBeards.esp
+	[FE:0E4] MoreHairstyles4Female.esp
+	[FE:0E5] MoreHairstyles4Male.esp
+	[FE:0E6] 00-Movements101.esp
+	[FE:0E7] NACskintonefix.esp
+	[FE:0E8] NAC-RemoveMenuItem.esp
+	[FE:0E9] NAC-FH.esp
+	[FE:0EA] NAC-NW.esp
+	[FE:0EB] NAC X Water LOD God Rays Fix.esp
+	[FE:0EC] Dank_ArmorOverrides.esp
+	[FE:0ED] Dank_ArmorOverrides_DLCCoast.esp
+	[FE:0EE] Dank_ArmorOverrides_DLCNukaWorld.esp
+	[FE:0EF] Dank_ArmorOverrides_DLCRobot.esp
+	[FE:0F0] Dank_INNRoverride.esp
+	[FE:0F1] NoAffinityCooldown.esp
+	[FE:0F2] NoNegativeAffinityNoFucks.esp
+	[FE:0F3] NPC Boss Battles ALL DLC Ultimate 1.1.esp
+	[FE:0F4] AKSounds.esp
+	[FE:0F5] NukaRadBans.esp
+	[FE:0F6] SF OldLongfellow.esp
+	[FE:0F7] MojaveImports - Combat Addon.esp
+	[FE:0F8] The Deadly Commonwealth Expansion.esp
+	[FE:0F9] PRP-Compat-PointLookout.esp
+	[FE:0FA] PRP.esp
+	[FE:0FB] SF Danse.esp
+	[FE:0FC] PRP 69 Waves.esp
+	[FE:0FD] Pine Trees Redone.esp
+	[FE:0FE] PipBoyFlashlight_Patch.esp
+	[FE:0FF] Pip-Boy Flashlight.esp
 	[FE:100] Plutonium and Quantum patch.esp
 	[FE:101] AzarPonytailHairstyles.esp
 	[FE:102] PA-Quick Animations.esp

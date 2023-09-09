@@ -877,22 +877,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     ArmorKeywords.esm
-	[ 9]     HUDFramework.esm
-	[ A]     WorkshopFramework.esm
-	[ B]     XDI.esm
-	[ C]     TortureDevices.esm
-	[ D]     AAF.esm
-	[ E]     Devious Devices.esm
-	[ F]     TrueStormsFO4.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     ArmorKeywords.esm
+	[09]     HUDFramework.esm
+	[0A]     WorkshopFramework.esm
+	[0B]     XDI.esm
+	[0C]     TortureDevices.esm
+	[0D]     AAF.esm
+	[0E]     Devious Devices.esm
+	[0F]     TrueStormsFO4.esm
 	[10]     SlaversCamp.esp
 	[11]     ASA.esp
 	[12]     Armorsmith Extended.esp
@@ -1027,41 +1027,41 @@ PLUGINS:
 	[93]     AAF_CreaturePack02DLC.esp
 	[94]     SKKFastStartNewGame.esp
 	[95]     EnhancedLightsandFX.esp
-	[FE:  0] FATE Core - Tweaks.esl
-	[FE:  1] FATE Core - Fixes.esl
-	[FE:  2] Bememoth Separated Cart.esl
-	[FE:  3] BodyTalk3-RaiderNormalsFix.esl
-	[FE:  4] BetterCoastalWaves.esl
-	[FE:  5] WashOutThatCum.esl
-	[FE:  6] AAFThemes.esl
-	[FE:  7] lnrLMFO4AllInOne-AdditionalPubicHairOverlays.esl
-	[FE:  8] CanarySaveFileMonitor.esl
-	[FE:  9] Loot Detector.esl
-	[FE:  A] CCOCheekyCasualsReplacer.esp
-	[FE:  B] Craftable Bad End Furniture.esp
-	[FE:  C] FATE Module - Less Combat Music.esp
-	[FE:  D] FATE Module - Tesla Free Power.esp
-	[FE:  E] FATE Module - UNL Zones.esp
-	[FE:  F] Institute Suit.esp
-	[FE: 10] TheKite_Railroad_Handmaiden.esp
-	[FE: 11] Vault-Tec Mask.esp
-	[FE: 12] Behemoth No Cart.esp
-	[FE: 13] BraveAnims_Fix.esp
-	[FE: 14] PenPos.esp
-	[FE: 15] Zaz Particle Effects.esp
-	[FE: 16] AAF_Dirty_Sex.esp
-	[FE: 17] FP_FamilyPlanningEnhanced_DLC_Doctors_Addon.esp
-	[FE: 18] FO4HHS.esp
-	[FE: 19] RealHandcuffs_AWKCR_Compatibility.esp
-	[FE: 1A] RealHandcuffs_DD_Compatibility.esp
-	[FE: 1B] DD_Bench_Unlock.esp
-	[FE: 1C] CC_Outfit_Injector.esp
-	[FE: 1D] Alex_Stripper_Pole_2.esp
-	[FE: 1E] Alex_Stripper_Pole_Working_Hours.esp
-	[FE: 1F] Alex_Stripper_Pole.esp
-	[FE: 20] AAF_Violate_DLC_Patch.esp
-	[FE: 21] AAF_Violate_Feral_Animations.esp
-	[FE: 22] SnapdragonAnimations.esp
-	[FE: 23] VividFallout - AiO - BestChoice.esp
-	[FE: 24] M8rDisablePipboyEffects.esp
-	[FE: 25] StopAttacks.esp
+	[FE:000] FATE Core - Tweaks.esl
+	[FE:001] FATE Core - Fixes.esl
+	[FE:002] Bememoth Separated Cart.esl
+	[FE:003] BodyTalk3-RaiderNormalsFix.esl
+	[FE:004] BetterCoastalWaves.esl
+	[FE:005] WashOutThatCum.esl
+	[FE:006] AAFThemes.esl
+	[FE:007] lnrLMFO4AllInOne-AdditionalPubicHairOverlays.esl
+	[FE:008] CanarySaveFileMonitor.esl
+	[FE:009] Loot Detector.esl
+	[FE:00A] CCOCheekyCasualsReplacer.esp
+	[FE:00B] Craftable Bad End Furniture.esp
+	[FE:00C] FATE Module - Less Combat Music.esp
+	[FE:00D] FATE Module - Tesla Free Power.esp
+	[FE:00E] FATE Module - UNL Zones.esp
+	[FE:00F] Institute Suit.esp
+	[FE:010] TheKite_Railroad_Handmaiden.esp
+	[FE:011] Vault-Tec Mask.esp
+	[FE:012] Behemoth No Cart.esp
+	[FE:013] BraveAnims_Fix.esp
+	[FE:014] PenPos.esp
+	[FE:015] Zaz Particle Effects.esp
+	[FE:016] AAF_Dirty_Sex.esp
+	[FE:017] FP_FamilyPlanningEnhanced_DLC_Doctors_Addon.esp
+	[FE:018] FO4HHS.esp
+	[FE:019] RealHandcuffs_AWKCR_Compatibility.esp
+	[FE:01A] RealHandcuffs_DD_Compatibility.esp
+	[FE:01B] DD_Bench_Unlock.esp
+	[FE:01C] CC_Outfit_Injector.esp
+	[FE:01D] Alex_Stripper_Pole_2.esp
+	[FE:01E] Alex_Stripper_Pole_Working_Hours.esp
+	[FE:01F] Alex_Stripper_Pole.esp
+	[FE:020] AAF_Violate_DLC_Patch.esp
+	[FE:021] AAF_Violate_Feral_Animations.esp
+	[FE:022] SnapdragonAnimations.esp
+	[FE:023] VividFallout - AiO - BestChoice.esp
+	[FE:024] M8rDisablePipboyEffects.esp
+	[FE:025] StopAttacks.esp

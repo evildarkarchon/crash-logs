@@ -781,7 +781,7 @@ PLUGINS:
 	[15]     DarleneDLC.esp
 	[16]     SS2Extended.esp
 	[17]     SS2WastelandVenturers.esp
-	[18]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[18]     [SS20Addon] SimSettlements SuperStructures.esp
 	[19]     SS2_FDK_TinyLiving.esp
 	[1A]     SS2-PraRandomAddon.esp
 	[1B]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
@@ -1057,7 +1057,7 @@ PLUGINS:
 	[FE:05D] IDEKsLogisticsStation2_SS2_Patch.esp
 	[FE:05E] SS2Addon_MS_BareEssentials.esp
 	[FE:05F] SS2AOP_VaultTecTools.esp
-	[FE:060] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:060] [SS20Addon] BloodMoonRaiders.esp
 	[FE:061] [SS2] National Park Training Ground.esp
 	[FE:062] NWTransCenLOD.esp
 	[FE:063] Fixed flickering puddles.esp

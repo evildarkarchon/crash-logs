@@ -718,22 +718,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     ArmorKeywords.esm
-	[ 9]     XDI.esm
-	[ A]     HUDFramework.esm
-	[ B]     Companion Infinite Ammo and Unbreakable Power Armour.esm
-	[ C]     InstituteTechnologyOverhaul.esm
-	[ D]     ExtendedWeaponSystem.esm
-	[ E]     WeaponsFramework.esm
-	[ F]     TacticalReload.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     ArmorKeywords.esm
+	[09]     XDI.esm
+	[0A]     HUDFramework.esm
+	[0B]     Companion Infinite Ammo and Unbreakable Power Armour.esm
+	[0C]     InstituteTechnologyOverhaul.esm
+	[0D]     ExtendedWeaponSystem.esm
+	[0E]     WeaponsFramework.esm
+	[0F]     TacticalReload.esm
 	[10]     CROSS_GoreCrits.esp
 	[11]     Armorsmith Extended.esp
 	[12]     CombinedArmsNV.esp
@@ -960,262 +960,262 @@ PLUGINS:
 	[EF]     GhoulBlood.esp
 	[F0]     [ARRETH] FGEP.esp
 	[F1]     EnhancedLightsandFX.esp
-	[FE:  0] GTFOB.esl
-	[FE:  1] HiPolyFacesCompanionPlugin.esl
-	[FE:  2] Munitions - An Ammo Expansion.esl
-	[FE:  3] Quick_Modification_Weapon_by_tooun.esl
-	[FE:  4] LIF.esl
-	[FE:  5] EG7.esl
-	[FE:  6] CAPA.esl
-	[FE:  7] ClassicMeleePack.esl
-	[FE:  8] Quad_Fusillade.esl
-	[FE:  9] Skb_MachinegunsRebirth.esl
-	[FE:  A] Skb-MinigunsRebirth.esl
-	[FE:  B] Zapgun.esl
-	[FE:  C] SelectRevolver.esl
-	[FE:  D] SelectAssaultRifle.esl
-	[FE:  E] SelectPowerArmor.esl
-	[FE:  F] ClassicSuperSledge.esl
-	[FE: 10] EnclavePack.esl
-	[FE: 11] IceStormsFNF2000.esl
-	[FE: 12] HeavySelectShotgun.esl
-	[FE: 13] HellcatPA.esl
-	[FE: 14] FOLON_Lewis.esl
-	[FE: 15] Munitions - Vanilla Ammo Addon.esl
-	[FE: 16] NCRArmourPack.esl
-	[FE: 17] PhotonDisruptor.esl
-	[FE: 18] SelectShotgun.esl
-	[FE: 19] SettlerGearPack.esl
-	[FE: 1A] Small blur Crafting screen background.esl
-	[FE: 1B] TeslaHeavyGun.esl
-	[FE: 1C] IceStormsFNF2000_TacticalReloadPatch.esl
-	[FE: 1D] FOLON_Lewis_TacticalReloadPatch.esl
-	[FE: 1E] PPF.esm
-	[FE: 1F] WorldwideGhoulsV400.esl
-	[FE: 20] CROSS_GoreCrits_FarHarborPatch.esp
-	[FE: 21] More Power Armour Mods.esp
-	[FE: 22] FAR.esp
-	[FE: 23] Nuclear Reloaded.esp
-	[FE: 24] The Deadly Commonwealth Expansion.esp
-	[FE: 25] NZ41.esp
-	[FE: 26] G11.esp
-	[FE: 27] T6M-EMD_Construction-PA.esp
-	[FE: 28] Livewire by Shiagur.esp
-	[FE: 29] SynthPA.esp
-	[FE: 2A] Maxim9.esp
-	[FE: 2B] CagebreakerPowerArmor.esp
-	[FE: 2C] FN-FAL.esp
-	[FE: 2D] Cyberout77.esp
-	[FE: 2E] T65PA.esp
-	[FE: 2F] SKSType56.esp
-	[FE: 30] G3A3_AnimationUpdate.esp
-	[FE: 31] HiPolyFaces.esp
-	[FE: 32] GT_pipboy.esp
-	[FE: 33] TacticalCourser_Standalone.esp
-	[FE: 34] NPCGreetingTweak90.esp
-	[FE: 35] QBZ191_TR_patch.esp
-	[FE: 36] 4estGimp - 7.62x25mm_Framework.esp
-	[FE: 37] Kar98k.esp
-	[FE: 38] M4k4rov - PPSh.esp
-	[FE: 39] PPSh_Addon.esp
-	[FE: 3A] 4estGimp - M4k4rovPPShRA_Edit.esp
-	[FE: 3B] Eli Armor Compendium AE Patch.esp
-	[FE: 3C] NukaRadBans.esp
-	[FE: 3D] AK5CSkinPackAll.esp
-	[FE: 3E] AKeVolk_TacticalReloadPatch.esp
-	[FE: 3F] 4estGimp - F3_10mmSMG_Edit.esp
-	[FE: 40] SBR_Ak5C_Extended.esp
-	[FE: 41] CROSS_BreakActionLaser.esp
-	[FE: 42] CoAPowerArmor.esp
-	[FE: 43] RedShiftPowerArmor.esp
-	[FE: 44] Huot.esp
-	[FE: 45] Sten.esp
-	[FE: 46] ThompsonSMGReplacer.esp
-	[FE: 47] NDR.esp
-	[FE: 48] TEC9.esp
-	[FE: 49] Vz52.esp
-	[FE: 4A] Remington870.esp
-	[FE: 4B] USP .45_by_tooun.esp
-	[FE: 4C] BC93.esp
-	[FE: 4D] [BFV]M1918BAR.esp
-	[FE: 4E] BC93_TacReload.esp
-	[FE: 4F] FOLON_Bren_Addon.esp
-	[FE: 50] Huot_TacReload.esp
-	[FE: 51] ODW - Winchester Model 1873.esp
-	[FE: 52] RGM40.esp
-	[FE: 53] M1928A1_AnotherOneAddon.esp
-	[FE: 54] SKSType56_TR.esp
-	[FE: 55] StenMK2Redux_TacReload.esp
-	[FE: 56] Vz52_TR.esp
-	[FE: 57] MPAM_PAMAP.esp
-	[FE: 58] More Power Armour Mods - Automatron.esp
-	[FE: 59] BH_MCX_Spear_SA.esp
-	[FE: 5A] BH_MCX_Spear_STS_Patch.esp
-	[FE: 5B] BH_MCX_Spear_LowRecoilPatch.esp
-	[FE: 5C] BH_StG44_LowerSounds.esp
-	[FE: 5D] BH_StG44_TR.esp
-	[FE: 5E] BH_MCX_Spear_LvlListPatch.esp
-	[FE: 5F] BH_MCX_Spear_TR.esp
-	[FE: 60] Glock Pack.esp
-	[FE: 61] jDS__HP_Skull_Mask.esp
-	[FE: 62] BullpupBozar_BugFixes.esp
-	[FE: 63] CROSS_2077.esp
-	[FE: 64] CROSS_Blades.esp
-	[FE: 65] CROSS_CourserStrigidae.esp
-	[FE: 66] CROSS_CryoLance.esp
-	[FE: 67] CBBE.esp
-	[FE: 68] Holorifle_1.5xDamage.esp
-	[FE: 69] CAPA Fixes.esp
-	[FE: 6A] fo3friedghouls.esp
-	[FE: 6B] combat_PA.esp
-	[FE: 6C] combat_PA - AWKCR.esp
-	[FE: 6D] CVSNWA.esp
-	[FE: 6E] Crimsomrider's Accessories.esp
-	[FE: 6F] Cyber Beam Katana.esp
-	[FE: 70] CyberOut Cross Blade Patch.esp
-	[FE: 71] FNFAL_TacReload.esp
-	[FE: 72] DiscreteFemaleSkeleton.esp
-	[FE: 73] CrudeBlowback - AWKCR.esp
-	[FE: 74] CrudeBlowback-2xDMG.esp
-	[FE: 75] ShotgunCoilAddon.esp
-	[FE: 76] EraserLL.esp
-	[FE: 77] EyesoftheUniverse.esp
-	[FE: 78] F4NV-AMR_TacticalReloadPatch.esp
-	[FE: 79] FIS-Naming-Weap-Armo-EN.esp
-	[FE: 7A] ISO-Hemlock_FTS_Patch.esp
-	[FE: 7B] Factor_TacReload.esp
-	[FE: 7C] FTS.esp
-	[FE: 7D] Groza_FTSPacth.esp
-	[FE: 7E] M8rDisablePipboyEffects.esp
-	[FE: 7F] 10mmSMG_TacReload.esp
-	[FE: 80] FOLON_Bren_Addon_TacticalReloadPatch.esp
-	[FE: 81] fastcorpseclear.esp
-	[FE: 82] Famas_Addon.esp
-	[FE: 83] Faster Stations.esp
-	[FE: 84] FemsheppingsPorts_LeahLilithAndKalilies_AWKCR_AE.esp
-	[FE: 85] Fennec_addons.esp
-	[FE: 86] Feral Ghoul Bite Skills.esp
-	[FE: 87] Makeshiftshotgun.esp
-	[FE: 88] ImiGalilLvlListPatch.esp
-	[FE: 89] GITS_suit_by_OniNigma.esp
-	[FE: 8A] GIAT_FAMAS_TacticalReloadPatch.esp
-	[FE: 8B] Glowing_X-01_Quantum.esp
-	[FE: 8C] GalactSpas-12_TR_Patch 1.1.esp
-	[FE: 8D] Glock Pack - TR Patch.esp
-	[FE: 8E] Glowing Animals Emit Light.esp
-	[FE: 8F] GrenadeExpansionPackAWKCRPatch.esp
-	[FE: 90] MiscHairstyle.esp
-	[FE: 91] AzarPonytailHairstyles.esp
-	[FE: 92] GrimGamerTrio.esp
-	[FE: 93] HHrailwayRifle.esp
-	[FE: 94] USP .45_by_tooun_TR_patch.esp
-	[FE: 95] Power Armor HUD Switcher.esp
-	[FE: 96] IWGlory.esp
-	[FE: 97] IWMagnolia.esp
-	[FE: 98] IWMamaMurphy.esp
-	[FE: 99] IWTinaDeLuca.esp
-	[FE: 9A] Insignificant Object Remover.esp
-	[FE: 9B] AAlpha12_TR.esp
-	[FE: 9C] LAER-Armorsmith_Patch.esp
-	[FE: 9D] LAER Automatron Weapons.esp
-	[FE: 9E] LaserGarand.esp
-	[FE: 9F] LeeEnfieldNo4MkI - VIS&AWKCR.esp
-	[FE: A0] LeeEnfieldNo4MkI_TR.esp
-	[FE: A1] CraftingLegendaryFix.esp
-	[FE: A2] LegendaryModification.esp
-	[FE: A3] LegendaryModification Enhanced.esp
-	[FE: A4] LegendaryModification - DLC Far Harbor.esp
-	[FE: A5] ISO-Hemlock_LL.esp
-	[FE: A6] Winters_FJX-Imperium_LL.esp
-	[FE: A7] LegendaryModificationMisc.esp
-	[FE: A8] Livewire Cyberout77 patch.esp
-	[FE: A9] LMBTOverlays.esp
-	[FE: AA] LooksMenu.esp
-	[FE: AB] M1GarandSkinPacksVol1.esp
-	[FE: AC] M1Garand_TacticalReloadPatch.esp
-	[FE: AD] M1Garand-2xDMG.esp
-	[FE: AE] M1928A1_AnotherOneAddon_TacticalReloadPatch.esp
-	[FE: AF] M2AgencyLvlListPatch.esp
-	[FE: B0] M2AgencyTacticalReloadPatch.esp
-	[FE: B1] MAID_EXT.esp
-	[FE: B2] MG42_TacticalReloadPatch.esp
-	[FE: B3] MKIIGrenadeStandalone.esp
-	[FE: B4] Striker_TacReload.esp
-	[FE: B5] MW2RWA2000_TacReload.esp
-	[FE: B6] MP40_TacticalReloadPatch.esp
-	[FE: B7] Maxim9_Munitions.esp
-	[FE: B8] Maxim9_TacReload.esp
-	[FE: B9] MK14GyrojectHMG_TacReload.esp
-	[FE: BA] mjp_PTRS41ATR-MagFix.esp
-	[FE: BB] MogomraPAMs.esp
-	[FE: BC] MogomraPAMs_MPAM.esp
-	[FE: BD] MogomraPAMs_MPAM_AWKCR Patch.esp
-	[FE: BE] MoreCustomEyes.esp
-	[FE: BF] MoreCustomEyes2.esp
-	[FE: C0] NDR_TacticalReload.esp
-	[FE: C1] NZ41SA.esp
-	[FE: C2] NZ41STS.esp
-	[FE: C3] NZ41SA_STS.esp
-	[FE: C4] NZ41TR.esp
-	[FE: C5] Nexus_PMC.esp
-	[FE: C6] Noble Team companions - Mark V[B] Armory Patch.esp
-	[FE: C7] AEWS_NukaWorldPatch.esp
-	[FE: C8] PA increases your speed.esp
-	[FE: C9] PPSHRedArmy_TacReload.esp
-	[FE: CA] PlasmaCycler_1.5xDamage.esp
-	[FE: CB] PiP-Boy2000_LMCC.esp
-	[FE: CC] PA-Quick Animations.esp
-	[FE: CD] lasergarandSKSfix.esp
-	[FE: CE] PredatorKnife.esp
-	[FE: CF] PMC_extended.esp
-	[FE: D0] RU556_TacReload.esp
-	[FE: D1] RailwayOverhaul.esp
-	[FE: D2] RWOAWKCR.esp
-	[FE: D3] Remington700_TR.esp
-	[FE: D4] SigMCX_MaterialPack.esp
-	[FE: D5] SigMCX_TacticalReload.esp
-	[FE: D6] SelectMarkSTS.esp
-	[FE: D7] SVT40SkinPacksAll.esp
-	[FE: D8] SVT40-2xDMG.esp
-	[FE: D9] SVT40-AWKCR.esp
-	[FE: DA] SelectMarksman_TacReload.esp
-	[FE: DB] SelectRapidMG_TacReload.esp
-	[FE: DC] Signal.50 STS.esp
-	[FE: DD] SimpleImpact.esp
-	[FE: DE] AlexSleevePatcher.esp
-	[FE: DF] HeavySupportWeapons.esp
-	[FE: E0] ISO-Hemlock_TRPatch.esp
-	[FE: E1] Winters_FJX-Imperium_TR_1.3.esp
-	[FE: E2] G11_TR.esp
-	[FE: E3] T6M_MagnumRifle_3D-Scope.esp
-	[FE: E4] TacticalReload_IngameSwitch.esp
-	[FE: E5] American180nv_TacticalReloadPatch.esp
-	[FE: E6] EFB - Springfield M14 TR Patch.esp
-	[FE: E7] MA37_TacticalReloadPatch.esp
-	[FE: E8] MisriahArmory_TacticalReloadPatch.esp
-	[FE: E9] Ak5C_TacticalReloadPatch.esp
-	[FE: EA] BullpupBozar_TacticalReloadPatch.esp
-	[FE: EB] CombinedArmsNV_TacticalReloadPatch.esp
-	[FE: EC] CrudeBlowback_TacticalReloadPatch.esp
-	[FE: ED] DP_CaravanShotgun_TacticalReloadPatch.esp
-	[FE: EE] G43_TacticalReloadPatch.esp
-	[FE: EF] Glock19x_TacticalReloadPatch.esp
-	[FE: F0] GreaseGunSMG_TacticalReloadPatch.esp
-	[FE: F1] ImiGalil_TacticalReloadPatch.esp
-	[FE: F2] M1A_TacticalReloadPatch.esp
-	[FE: F3] MP7_TacticalReloadPatch.esp
-	[FE: F4] ReconPack_TacticalReloadPatch.esp
-	[FE: F5] SVT40_TacticalReloadPatch.esp
-	[FE: F6] SelectAssaultRifle_TacticalReloadPatch.esp
-	[FE: F7] SigSauer127_TacticalReloadPatch.esp
-	[FE: F8] TEC9_TacticalReloadPatch.esp
-	[FE: F9] Groza_TR.esp
-	[FE: FA] Terminal Color Separator - Full.esp
-	[FE: FB] TDCE + AE Patch.esp
-	[FE: FC] WARSSMG_TacReload.esp
-	[FE: FD] Tomacuzi9_TacReload.esp
-	[FE: FE] TrueReporter.esp
-	[FE: FF] VGType11SA.esp
+	[FE:000] GTFOB.esl
+	[FE:001] HiPolyFacesCompanionPlugin.esl
+	[FE:002] Munitions - An Ammo Expansion.esl
+	[FE:003] Quick_Modification_Weapon_by_tooun.esl
+	[FE:004] LIF.esl
+	[FE:005] EG7.esl
+	[FE:006] CAPA.esl
+	[FE:007] ClassicMeleePack.esl
+	[FE:008] Quad_Fusillade.esl
+	[FE:009] Skb_MachinegunsRebirth.esl
+	[FE:00A] Skb-MinigunsRebirth.esl
+	[FE:00B] Zapgun.esl
+	[FE:00C] SelectRevolver.esl
+	[FE:00D] SelectAssaultRifle.esl
+	[FE:00E] SelectPowerArmor.esl
+	[FE:00F] ClassicSuperSledge.esl
+	[FE:010] EnclavePack.esl
+	[FE:011] IceStormsFNF2000.esl
+	[FE:012] HeavySelectShotgun.esl
+	[FE:013] HellcatPA.esl
+	[FE:014] FOLON_Lewis.esl
+	[FE:015] Munitions - Vanilla Ammo Addon.esl
+	[FE:016] NCRArmourPack.esl
+	[FE:017] PhotonDisruptor.esl
+	[FE:018] SelectShotgun.esl
+	[FE:019] SettlerGearPack.esl
+	[FE:01A] Small blur Crafting screen background.esl
+	[FE:01B] TeslaHeavyGun.esl
+	[FE:01C] IceStormsFNF2000_TacticalReloadPatch.esl
+	[FE:01D] FOLON_Lewis_TacticalReloadPatch.esl
+	[FE:01E] PPF.esm
+	[FE:01F] WorldwideGhoulsV400.esl
+	[FE:020] CROSS_GoreCrits_FarHarborPatch.esp
+	[FE:021] More Power Armour Mods.esp
+	[FE:022] FAR.esp
+	[FE:023] Nuclear Reloaded.esp
+	[FE:024] The Deadly Commonwealth Expansion.esp
+	[FE:025] NZ41.esp
+	[FE:026] G11.esp
+	[FE:027] T6M-EMD_Construction-PA.esp
+	[FE:028] Livewire by Shiagur.esp
+	[FE:029] SynthPA.esp
+	[FE:02A] Maxim9.esp
+	[FE:02B] CagebreakerPowerArmor.esp
+	[FE:02C] FN-FAL.esp
+	[FE:02D] Cyberout77.esp
+	[FE:02E] T65PA.esp
+	[FE:02F] SKSType56.esp
+	[FE:030] G3A3_AnimationUpdate.esp
+	[FE:031] HiPolyFaces.esp
+	[FE:032] GT_pipboy.esp
+	[FE:033] TacticalCourser_Standalone.esp
+	[FE:034] NPCGreetingTweak90.esp
+	[FE:035] QBZ191_TR_patch.esp
+	[FE:036] 4estGimp - 7.62x25mm_Framework.esp
+	[FE:037] Kar98k.esp
+	[FE:038] M4k4rov - PPSh.esp
+	[FE:039] PPSh_Addon.esp
+	[FE:03A] 4estGimp - M4k4rovPPShRA_Edit.esp
+	[FE:03B] Eli Armor Compendium AE Patch.esp
+	[FE:03C] NukaRadBans.esp
+	[FE:03D] AK5CSkinPackAll.esp
+	[FE:03E] AKeVolk_TacticalReloadPatch.esp
+	[FE:03F] 4estGimp - F3_10mmSMG_Edit.esp
+	[FE:040] SBR_Ak5C_Extended.esp
+	[FE:041] CROSS_BreakActionLaser.esp
+	[FE:042] CoAPowerArmor.esp
+	[FE:043] RedShiftPowerArmor.esp
+	[FE:044] Huot.esp
+	[FE:045] Sten.esp
+	[FE:046] ThompsonSMGReplacer.esp
+	[FE:047] NDR.esp
+	[FE:048] TEC9.esp
+	[FE:049] Vz52.esp
+	[FE:04A] Remington870.esp
+	[FE:04B] USP .45_by_tooun.esp
+	[FE:04C] BC93.esp
+	[FE:04D] [BFV]M1918BAR.esp
+	[FE:04E] BC93_TacReload.esp
+	[FE:04F] FOLON_Bren_Addon.esp
+	[FE:050] Huot_TacReload.esp
+	[FE:051] ODW - Winchester Model 1873.esp
+	[FE:052] RGM40.esp
+	[FE:053] M1928A1_AnotherOneAddon.esp
+	[FE:054] SKSType56_TR.esp
+	[FE:055] StenMK2Redux_TacReload.esp
+	[FE:056] Vz52_TR.esp
+	[FE:057] MPAM_PAMAP.esp
+	[FE:058] More Power Armour Mods - Automatron.esp
+	[FE:059] BH_MCX_Spear_SA.esp
+	[FE:05A] BH_MCX_Spear_STS_Patch.esp
+	[FE:05B] BH_MCX_Spear_LowRecoilPatch.esp
+	[FE:05C] BH_StG44_LowerSounds.esp
+	[FE:05D] BH_StG44_TR.esp
+	[FE:05E] BH_MCX_Spear_LvlListPatch.esp
+	[FE:05F] BH_MCX_Spear_TR.esp
+	[FE:060] Glock Pack.esp
+	[FE:061] jDS__HP_Skull_Mask.esp
+	[FE:062] BullpupBozar_BugFixes.esp
+	[FE:063] CROSS_2077.esp
+	[FE:064] CROSS_Blades.esp
+	[FE:065] CROSS_CourserStrigidae.esp
+	[FE:066] CROSS_CryoLance.esp
+	[FE:067] CBBE.esp
+	[FE:068] Holorifle_1.5xDamage.esp
+	[FE:069] CAPA Fixes.esp
+	[FE:06A] fo3friedghouls.esp
+	[FE:06B] combat_PA.esp
+	[FE:06C] combat_PA - AWKCR.esp
+	[FE:06D] CVSNWA.esp
+	[FE:06E] Crimsomrider's Accessories.esp
+	[FE:06F] Cyber Beam Katana.esp
+	[FE:070] CyberOut Cross Blade Patch.esp
+	[FE:071] FNFAL_TacReload.esp
+	[FE:072] DiscreteFemaleSkeleton.esp
+	[FE:073] CrudeBlowback - AWKCR.esp
+	[FE:074] CrudeBlowback-2xDMG.esp
+	[FE:075] ShotgunCoilAddon.esp
+	[FE:076] EraserLL.esp
+	[FE:077] EyesoftheUniverse.esp
+	[FE:078] F4NV-AMR_TacticalReloadPatch.esp
+	[FE:079] FIS-Naming-Weap-Armo-EN.esp
+	[FE:07A] ISO-Hemlock_FTS_Patch.esp
+	[FE:07B] Factor_TacReload.esp
+	[FE:07C] FTS.esp
+	[FE:07D] Groza_FTSPacth.esp
+	[FE:07E] M8rDisablePipboyEffects.esp
+	[FE:07F] 10mmSMG_TacReload.esp
+	[FE:080] FOLON_Bren_Addon_TacticalReloadPatch.esp
+	[FE:081] fastcorpseclear.esp
+	[FE:082] Famas_Addon.esp
+	[FE:083] Faster Stations.esp
+	[FE:084] FemsheppingsPorts_LeahLilithAndKalilies_AWKCR_AE.esp
+	[FE:085] Fennec_addons.esp
+	[FE:086] Feral Ghoul Bite Skills.esp
+	[FE:087] Makeshiftshotgun.esp
+	[FE:088] ImiGalilLvlListPatch.esp
+	[FE:089] GITS_suit_by_OniNigma.esp
+	[FE:08A] GIAT_FAMAS_TacticalReloadPatch.esp
+	[FE:08B] Glowing_X-01_Quantum.esp
+	[FE:08C] GalactSpas-12_TR_Patch 1.1.esp
+	[FE:08D] Glock Pack - TR Patch.esp
+	[FE:08E] Glowing Animals Emit Light.esp
+	[FE:08F] GrenadeExpansionPackAWKCRPatch.esp
+	[FE:090] MiscHairstyle.esp
+	[FE:091] AzarPonytailHairstyles.esp
+	[FE:092] GrimGamerTrio.esp
+	[FE:093] HHrailwayRifle.esp
+	[FE:094] USP .45_by_tooun_TR_patch.esp
+	[FE:095] Power Armor HUD Switcher.esp
+	[FE:096] IWGlory.esp
+	[FE:097] IWMagnolia.esp
+	[FE:098] IWMamaMurphy.esp
+	[FE:099] IWTinaDeLuca.esp
+	[FE:09A] Insignificant Object Remover.esp
+	[FE:09B] AAlpha12_TR.esp
+	[FE:09C] LAER-Armorsmith_Patch.esp
+	[FE:09D] LAER Automatron Weapons.esp
+	[FE:09E] LaserGarand.esp
+	[FE:09F] LeeEnfieldNo4MkI - VIS&AWKCR.esp
+	[FE:0A0] LeeEnfieldNo4MkI_TR.esp
+	[FE:0A1] CraftingLegendaryFix.esp
+	[FE:0A2] LegendaryModification.esp
+	[FE:0A3] LegendaryModification Enhanced.esp
+	[FE:0A4] LegendaryModification - DLC Far Harbor.esp
+	[FE:0A5] ISO-Hemlock_LL.esp
+	[FE:0A6] Winters_FJX-Imperium_LL.esp
+	[FE:0A7] LegendaryModificationMisc.esp
+	[FE:0A8] Livewire Cyberout77 patch.esp
+	[FE:0A9] LMBTOverlays.esp
+	[FE:0AA] LooksMenu.esp
+	[FE:0AB] M1GarandSkinPacksVol1.esp
+	[FE:0AC] M1Garand_TacticalReloadPatch.esp
+	[FE:0AD] M1Garand-2xDMG.esp
+	[FE:0AE] M1928A1_AnotherOneAddon_TacticalReloadPatch.esp
+	[FE:0AF] M2AgencyLvlListPatch.esp
+	[FE:0B0] M2AgencyTacticalReloadPatch.esp
+	[FE:0B1] MAID_EXT.esp
+	[FE:0B2] MG42_TacticalReloadPatch.esp
+	[FE:0B3] MKIIGrenadeStandalone.esp
+	[FE:0B4] Striker_TacReload.esp
+	[FE:0B5] MW2RWA2000_TacReload.esp
+	[FE:0B6] MP40_TacticalReloadPatch.esp
+	[FE:0B7] Maxim9_Munitions.esp
+	[FE:0B8] Maxim9_TacReload.esp
+	[FE:0B9] MK14GyrojectHMG_TacReload.esp
+	[FE:0BA] mjp_PTRS41ATR-MagFix.esp
+	[FE:0BB] MogomraPAMs.esp
+	[FE:0BC] MogomraPAMs_MPAM.esp
+	[FE:0BD] MogomraPAMs_MPAM_AWKCR Patch.esp
+	[FE:0BE] MoreCustomEyes.esp
+	[FE:0BF] MoreCustomEyes2.esp
+	[FE:0C0] NDR_TacticalReload.esp
+	[FE:0C1] NZ41SA.esp
+	[FE:0C2] NZ41STS.esp
+	[FE:0C3] NZ41SA_STS.esp
+	[FE:0C4] NZ41TR.esp
+	[FE:0C5] Nexus_PMC.esp
+	[FE:0C6] Noble Team companions - Mark V[B] Armory Patch.esp
+	[FE:0C7] AEWS_NukaWorldPatch.esp
+	[FE:0C8] PA increases your speed.esp
+	[FE:0C9] PPSHRedArmy_TacReload.esp
+	[FE:0CA] PlasmaCycler_1.5xDamage.esp
+	[FE:0CB] PiP-Boy2000_LMCC.esp
+	[FE:0CC] PA-Quick Animations.esp
+	[FE:0CD] lasergarandSKSfix.esp
+	[FE:0CE] PredatorKnife.esp
+	[FE:0CF] PMC_extended.esp
+	[FE:0D0] RU556_TacReload.esp
+	[FE:0D1] RailwayOverhaul.esp
+	[FE:0D2] RWOAWKCR.esp
+	[FE:0D3] Remington700_TR.esp
+	[FE:0D4] SigMCX_MaterialPack.esp
+	[FE:0D5] SigMCX_TacticalReload.esp
+	[FE:0D6] SelectMarkSTS.esp
+	[FE:0D7] SVT40SkinPacksAll.esp
+	[FE:0D8] SVT40-2xDMG.esp
+	[FE:0D9] SVT40-AWKCR.esp
+	[FE:0DA] SelectMarksman_TacReload.esp
+	[FE:0DB] SelectRapidMG_TacReload.esp
+	[FE:0DC] Signal.50 STS.esp
+	[FE:0DD] SimpleImpact.esp
+	[FE:0DE] AlexSleevePatcher.esp
+	[FE:0DF] HeavySupportWeapons.esp
+	[FE:0E0] ISO-Hemlock_TRPatch.esp
+	[FE:0E1] Winters_FJX-Imperium_TR_1.3.esp
+	[FE:0E2] G11_TR.esp
+	[FE:0E3] T6M_MagnumRifle_3D-Scope.esp
+	[FE:0E4] TacticalReload_IngameSwitch.esp
+	[FE:0E5] American180nv_TacticalReloadPatch.esp
+	[FE:0E6] EFB - Springfield M14 TR Patch.esp
+	[FE:0E7] MA37_TacticalReloadPatch.esp
+	[FE:0E8] MisriahArmory_TacticalReloadPatch.esp
+	[FE:0E9] Ak5C_TacticalReloadPatch.esp
+	[FE:0EA] BullpupBozar_TacticalReloadPatch.esp
+	[FE:0EB] CombinedArmsNV_TacticalReloadPatch.esp
+	[FE:0EC] CrudeBlowback_TacticalReloadPatch.esp
+	[FE:0ED] DP_CaravanShotgun_TacticalReloadPatch.esp
+	[FE:0EE] G43_TacticalReloadPatch.esp
+	[FE:0EF] Glock19x_TacticalReloadPatch.esp
+	[FE:0F0] GreaseGunSMG_TacticalReloadPatch.esp
+	[FE:0F1] ImiGalil_TacticalReloadPatch.esp
+	[FE:0F2] M1A_TacticalReloadPatch.esp
+	[FE:0F3] MP7_TacticalReloadPatch.esp
+	[FE:0F4] ReconPack_TacticalReloadPatch.esp
+	[FE:0F5] SVT40_TacticalReloadPatch.esp
+	[FE:0F6] SelectAssaultRifle_TacticalReloadPatch.esp
+	[FE:0F7] SigSauer127_TacticalReloadPatch.esp
+	[FE:0F8] TEC9_TacticalReloadPatch.esp
+	[FE:0F9] Groza_TR.esp
+	[FE:0FA] Terminal Color Separator - Full.esp
+	[FE:0FB] TDCE + AE Patch.esp
+	[FE:0FC] WARSSMG_TacReload.esp
+	[FE:0FD] Tomacuzi9_TacReload.esp
+	[FE:0FE] TrueReporter.esp
+	[FE:0FF] VGType11SA.esp
 	[FE:100] Truly Unique Nick - VR.esp
 	[FE:101] Uzi_TacReload.esp
 	[FE:102] VaultTecMPL_TacReload.esp

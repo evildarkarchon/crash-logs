@@ -762,7 +762,7 @@ PLUGINS:
 	[5B]     AtomsGloryThreads.esp
 	[5C]     llamaCompanionHeatherv2.esp
 	[5D]     0_Vault120.esp
-	[5E]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[5E]     [SS20Addon] SimSettlements SuperStructures.esp
 	[5F]     SS2_SIMPDDDD.esp
 	[60]     SS2-Jampads2.esp
 	[61]     SS2_ruined_simsettlement_addonpack.esp
@@ -925,7 +925,7 @@ PLUGINS:
 	[FE:039] OutcastsAndRemnants-Locations.esp
 	[FE:03A] PRP-SS2.esp
 	[FE:03B] RadRifleReload.esp
-	[FE:03C] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:03C] [SS20Addon] BloodMoonRaiders.esp
 	[FE:03D] T51_TigerClaw_Paint.esp
 	[FE:03E] Tactical Flashlights - Settings.esp
 	[FE:03F] Thaylar's Clothing & Armor 4k Repacked BA2.esp

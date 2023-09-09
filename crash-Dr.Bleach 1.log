@@ -741,10 +741,10 @@ Checking for Particle Effects Crash.......All Clear
 Checking for Animation / Physics Crash....All Clear
 Checking for Archive Invalidation Crash...All Clear
 ---------- Unsolved Crash Messages Below ----------
-Checking for *[Save Crash]................All Clear
-Checking for *[Precombines Crash].........All Clear
-Checking for *[Ammo Counter Crash]........All Clear
-Checking for *[Player Character Crash]....All Clear
+Checking for *[Save0Crash]................All Clear
+Checking for *[Precombines0Crash].........All Clear
+Checking for *[Ammo0Counter0Crash]........All Clear
+Checking for *[Player0Character0Crash]....All Clear
 -----
 FOR DETAILED DESCRIPTIONS AND POSSIBLE SOLUTIONS TO ANY ABOVE DETECTED CULPRITS,
 CHECK THE 'HOW TO READ CRASH LOGS' PDF DOCUMENT INCLUDED WITH THE AUTO-SCANNER!

@@ -646,22 +646,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     XDI.esm
-	[ 9]     HUDFramework.esm
-	[ A]     WorkshopFramework.esm
-	[ B]     MutantMenagerie.esm
-	[ C]     MutantMenagerie_FarHarbor.esm
-	[ D]     SouthOfTheSea.esm
-	[ E]     SS2.esm
-	[ F]     SS2_XPAC_Chapter2.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     XDI.esm
+	[09]     HUDFramework.esm
+	[0A]     WorkshopFramework.esm
+	[0B]     MutantMenagerie.esm
+	[0C]     MutantMenagerie_FarHarbor.esm
+	[0D]     SouthOfTheSea.esm
+	[0E]     SS2.esm
+	[0F]     SS2_XPAC_Chapter2.esm
 	[10]     SS2_XPAC_Chapter3.esm
 	[11]     AmmoTweaks_Core.esp
 	[12]     TrueStormsFO4.esm
@@ -863,143 +863,143 @@ PLUGINS:
 	[D6]     StartMeUpNukaWorldPatch.esp
 	[D7]     RED-StartMeUp.esp
 	[D8]     BostonFPSFixAIO.esp
-	[FE:  0] BakaFramework.esm
-	[FE:  1] Munitions - An Ammo Expansion.esl
-	[FE:  2] FATE Core - Fixes.esl
-	[FE:  3] Munitions - Vanilla Ammo Addon.esl
-	[FE:  4] SSTMinutemanWatchtowers.esl
-	[FE:  5] PIMS_BM_Addons.esl
-	[FE:  6] BakaWaitAnywhere.esm
-	[FE:  7] GTFOB.esl
-	[FE:  8] Quick_Modification_Weapon_by_tooun.esl
-	[FE:  9] CWPointLookoutFO4Patch.esl
-	[FE:  A] Geckos.esl
-	[FE:  B] Skb_MachinegunsRebirth.esl
-	[FE:  C] Skb-MinigunsRebirth.esl
-	[FE:  D] M84FlashBang.esl
-	[FE:  E] M84FlashBang Advanced.esl
-	[FE:  F] PMWorkshopPack.esl
-	[FE: 10] Bighorner.esl
-	[FE: 11] Cazadors.esl
-	[FE: 12] CWGaussRifle.esl
-	[FE: 13] Centaur.esl
-	[FE: 14] Mantis.esl
-	[FE: 15] BetterCapsStashesRedux.esl
-	[FE: 16] ImmersiveDogmeat.esl
-	[FE: 17] IngameLoadingCrashFix.esl
-	[FE: 18] TeslaHeavyGun.esl
-	[FE: 19] UNSCCrewpack.esl
-	[FE: 1A] CanarySaveFileMonitor.esl
-	[FE: 1B] LIF.esl
-	[FE: 1C] FO4ParticlePatch.esp
-	[FE: 1D] Luxor's Summer - All DLCs.esp
-	[FE: 1E] Region Names on Save Files.esp
-	[FE: 1F] WARS-PEACE-WarAndPeacePatch.esp
-	[FE: 20] SouthOfTheSea[Previs].esp
-	[FE: 21] G11 - Unofficial Update.esp
-	[FE: 22] CombinedArmsIntegrationProject - Armament.esp
-	[FE: 23] FATE Module - Tesla Free Power.esp
-	[FE: 24] Munitions-Additional Ammo.esp
-	[FE: 25] CombinedArmsEX_MAA.esp
-	[FE: 26] JSRS_Regions.esp
-	[FE: 27] Dank_ECO.esp
-	[FE: 28] Dank_WOP-CombinedArms.esp
-	[FE: 29] SRO - Syringer Overhaul.esp
-	[FE: 2A] Miniguns Rebirth ESL - Munitions Patch.esp
-	[FE: 2B] SouthOfTheSea[PatchWZWildWasteland].esp
-	[FE: 2C] A Taste of Blues - Munitions Patch.esp
-	[FE: 2D] American 180 - Munitions Patch.esp
-	[FE: 2E] Machineguns Rebirth - Munitions Patch.esp
-	[FE: 2F] Point Lookout - Munitions Patch.esp
-	[FE: 30] Dank_ECO-INNR.esp
-	[FE: 31] WARS-TacticalReload.esp
-	[FE: 32] PEACE-MilitarizedMinutemen.esp
-	[FE: 33] Combat AI Empowered - Game Settings Upgrade.esp
-	[FE: 34] SS2AOP_VaultTecTools.esp
-	[FE: 35] GT_pipboy.esp
-	[FE: 36] GalactSpas-12_TR_Patch 1.1.esp
-	[FE: 37] WARS-Subversion-InstituteReformation.esp
-	[FE: 38] PEACE-Subversion-InstituteReformation.esp
-	[FE: 39] WARS-MilitarizedMinutemen.esp
-	[FE: 3A] BAM-BetterArmoryMod.esp
-	[FE: 3B] Dank_WOP-CombinedArms_Inject.esp
-	[FE: 3C] Dank_ECO_DLCCoast.esp
-	[FE: 3D] Dank_ECO_DLCNukaWorld.esp
-	[FE: 3E] Dank_ECO-WestTek.esp
-	[FE: 3F] Dank_ECO_DLCRobot.esp
-	[FE: 40] FATE Module - Basketball Crash Fix.esp
-	[FE: 41] FATE Module - Original DiMa Face.esp
-	[FE: 42] FATE Module - PA Helmet Normal Voice.esp
-	[FE: 43] FATE Module - PipBoy Ambient Sounds.esp
-	[FE: 44] FATE Module - UNL + DCB Zones.esp
-	[FE: 45] G11 - Burst Fire Patch.esp
-	[FE: 46] Ak5C_JSRS.esp
-	[FE: 47] FO4DLC_JSRS.esp
-	[FE: 48] ImiUzi_JSRS.esp
-	[FE: 49] Mark V[B] Armory - Institute Coursers.esp
-	[FE: 4A] HitmanHuntingRifle_TacticalReloadPatch.esp
-	[FE: 4B] Jed's MCX Rattler.esp
-	[FE: 4C] SigMCX_TacticalReload.esp
-	[FE: 4D] SS2_DLCSettlerPatch.esp
-	[FE: 4E] StartMeUpShaunDefaultAppearance.esp
-	[FE: 4F] Dank_ECO_TacticalReload.esp
-	[FE: 50] 9mmPistol_TacticalReloadPatch.esp
-	[FE: 51] Ak5C_TacticalReloadPatch.esp
-	[FE: 52] CombinedArmsNV_TacticalReloadPatch.esp
-	[FE: 53] HitmanNukaworldAK_TacticalReloadPatch.esp
-	[FE: 54] ImiUzi_TacticalReloadPatch.esp
-	[FE: 55] MK18_Deluxe.esp
-	[FE: 56] MK18_TacticalReloadPatch.esp
-	[FE: 57] WD10mm_TacticalReloadPatch.esp
-	[FE: 58] SigSauer127_TacticalReloadPatch.esp
-	[FE: 59] Combined Arms EX_LLI.esp
-	[FE: 5A] Combined Arms_LLI.esp
-	[FE: 5B] ExpansiveM4_LLI.esp
-	[FE: 5C] G11_LLI.esp
-	[FE: 5D] JOKR_LLI.esp
-	[FE: 5E] MA37 - BR55_LLInjector.esp
-	[FE: 5F] MCXRedacted_LLInjector.esp
-	[FE: 60] MWM19_LLI.esp
-	[FE: 61] MWM91_LLInjector.esp
-	[FE: 62] MisriahArmory_LLInjector.esp
-	[FE: 63] Schotel22_SCAR FAMILY_LLI.esp
-	[FE: 64] TeslaHeavyAuto_LLInjector.esp
-	[FE: 65] Ultimate M4 Pack_LLInjector.esp
-	[FE: 66] OMEGA - MutantMenagerieFH IAF Patch.esp
-	[FE: 67] OMEGA - MutantMenagerie IAF Patch.esp
-	[FE: 68] No More Fake Puddles - Nuka World 1-0.esp
-	[FE: 69] Infinite Armory - Brotherhood of Steel BoS.esp
-	[FE: 6A] Rakshasa Armory Camo.esp
-	[FE: 6B] Mark V[B] Redux Camo.esp
-	[FE: 6C] Rakshasa Armory - Children of Atom.esp
-	[FE: 6D] IAF - Far Harbor & Nuka World.esp
-	[FE: 6E] CombinedArmsIntegrationProject - Armament_TR.esp
-	[FE: 6F] AER15_DamageModifiers.esp
-	[FE: 70] Rakshasa Armory - Coursers.esp
-	[FE: 71] Infinite Armory - RR.esp
-	[FE: 72] SBR_Ak5C_Extended.esp
-	[FE: 73] Bullet Impact Overhaul test.esp
-	[FE: 74] DiscreteFemaleSkeleton.esp
-	[FE: 75] DynamicGlowingBeveragePack.esp
-	[FE: 76] M8rDisablePipboyEffects.esp
-	[FE: 77] OMEGA - IAF MRE Patch.esp
-	[FE: 78] Nability - IAF Tales from the Commonwealth Patch.esp
-	[FE: 79] OMEGA - IAF Wasteland Imports Patch.esp
-	[FE: 7A] ImmersiveLegendaryMutations.esp
-	[FE: 7B] Infinite Armory LL fix.esp
-	[FE: 7C] MK18 Armory Project 2.esp
-	[FE: 7D] PMC Operators - Institute.esp
-	[FE: 7E] Physics Sound Overhaul.esp
-	[FE: 7F] Rakshasa Armory - Rust Devils.esp
-	[FE: 80] RussianStimpack.esp
-	[FE: 81] SigMCX_LvlListPatch.esp
-	[FE: 82] SigMCX_MaterialPack.esp
-	[FE: 83] CombinedArms_SmAnims_ExPack.esp
-	[FE: 84] CombinedArms_SMAnims.esp
-	[FE: 85] Task Force Helm Pack 1.esp
-	[FE: 86] WeaponWallRacks.esp
-	[FE: 87] Worms FCPC Vest Pack.esp
-	[FE: 88] PMC_extended_lore.esp
-	[FE: 89] There It Is x Perfectionist.esp
-	[FE: 8A] VeryZen_MutantMenagerie.esp
-	[FE: 8B] FATE Patch - Start Me Up Redux.esp
+	[FE:000] BakaFramework.esm
+	[FE:001] Munitions - An Ammo Expansion.esl
+	[FE:002] FATE Core - Fixes.esl
+	[FE:003] Munitions - Vanilla Ammo Addon.esl
+	[FE:004] SSTMinutemanWatchtowers.esl
+	[FE:005] PIMS_BM_Addons.esl
+	[FE:006] BakaWaitAnywhere.esm
+	[FE:007] GTFOB.esl
+	[FE:008] Quick_Modification_Weapon_by_tooun.esl
+	[FE:009] CWPointLookoutFO4Patch.esl
+	[FE:00A] Geckos.esl
+	[FE:00B] Skb_MachinegunsRebirth.esl
+	[FE:00C] Skb-MinigunsRebirth.esl
+	[FE:00D] M84FlashBang.esl
+	[FE:00E] M84FlashBang Advanced.esl
+	[FE:00F] PMWorkshopPack.esl
+	[FE:010] Bighorner.esl
+	[FE:011] Cazadors.esl
+	[FE:012] CWGaussRifle.esl
+	[FE:013] Centaur.esl
+	[FE:014] Mantis.esl
+	[FE:015] BetterCapsStashesRedux.esl
+	[FE:016] ImmersiveDogmeat.esl
+	[FE:017] IngameLoadingCrashFix.esl
+	[FE:018] TeslaHeavyGun.esl
+	[FE:019] UNSCCrewpack.esl
+	[FE:01A] CanarySaveFileMonitor.esl
+	[FE:01B] LIF.esl
+	[FE:01C] FO4ParticlePatch.esp
+	[FE:01D] Luxor's Summer - All DLCs.esp
+	[FE:01E] Region Names on Save Files.esp
+	[FE:01F] WARS-PEACE-WarAndPeacePatch.esp
+	[FE:020] SouthOfTheSea[Previs].esp
+	[FE:021] G11 - Unofficial Update.esp
+	[FE:022] CombinedArmsIntegrationProject - Armament.esp
+	[FE:023] FATE Module - Tesla Free Power.esp
+	[FE:024] Munitions-Additional Ammo.esp
+	[FE:025] CombinedArmsEX_MAA.esp
+	[FE:026] JSRS_Regions.esp
+	[FE:027] Dank_ECO.esp
+	[FE:028] Dank_WOP-CombinedArms.esp
+	[FE:029] SRO - Syringer Overhaul.esp
+	[FE:02A] Miniguns Rebirth ESL - Munitions Patch.esp
+	[FE:02B] SouthOfTheSea[PatchWZWildWasteland].esp
+	[FE:02C] A Taste of Blues - Munitions Patch.esp
+	[FE:02D] American 180 - Munitions Patch.esp
+	[FE:02E] Machineguns Rebirth - Munitions Patch.esp
+	[FE:02F] Point Lookout - Munitions Patch.esp
+	[FE:030] Dank_ECO-INNR.esp
+	[FE:031] WARS-TacticalReload.esp
+	[FE:032] PEACE-MilitarizedMinutemen.esp
+	[FE:033] Combat AI Empowered - Game Settings Upgrade.esp
+	[FE:034] SS2AOP_VaultTecTools.esp
+	[FE:035] GT_pipboy.esp
+	[FE:036] GalactSpas-12_TR_Patch 1.1.esp
+	[FE:037] WARS-Subversion-InstituteReformation.esp
+	[FE:038] PEACE-Subversion-InstituteReformation.esp
+	[FE:039] WARS-MilitarizedMinutemen.esp
+	[FE:03A] BAM-BetterArmoryMod.esp
+	[FE:03B] Dank_WOP-CombinedArms_Inject.esp
+	[FE:03C] Dank_ECO_DLCCoast.esp
+	[FE:03D] Dank_ECO_DLCNukaWorld.esp
+	[FE:03E] Dank_ECO-WestTek.esp
+	[FE:03F] Dank_ECO_DLCRobot.esp
+	[FE:040] FATE Module - Basketball Crash Fix.esp
+	[FE:041] FATE Module - Original DiMa Face.esp
+	[FE:042] FATE Module - PA Helmet Normal Voice.esp
+	[FE:043] FATE Module - PipBoy Ambient Sounds.esp
+	[FE:044] FATE Module - UNL + DCB Zones.esp
+	[FE:045] G11 - Burst Fire Patch.esp
+	[FE:046] Ak5C_JSRS.esp
+	[FE:047] FO4DLC_JSRS.esp
+	[FE:048] ImiUzi_JSRS.esp
+	[FE:049] Mark V[B] Armory - Institute Coursers.esp
+	[FE:04A] HitmanHuntingRifle_TacticalReloadPatch.esp
+	[FE:04B] Jed's MCX Rattler.esp
+	[FE:04C] SigMCX_TacticalReload.esp
+	[FE:04D] SS2_DLCSettlerPatch.esp
+	[FE:04E] StartMeUpShaunDefaultAppearance.esp
+	[FE:04F] Dank_ECO_TacticalReload.esp
+	[FE:050] 9mmPistol_TacticalReloadPatch.esp
+	[FE:051] Ak5C_TacticalReloadPatch.esp
+	[FE:052] CombinedArmsNV_TacticalReloadPatch.esp
+	[FE:053] HitmanNukaworldAK_TacticalReloadPatch.esp
+	[FE:054] ImiUzi_TacticalReloadPatch.esp
+	[FE:055] MK18_Deluxe.esp
+	[FE:056] MK18_TacticalReloadPatch.esp
+	[FE:057] WD10mm_TacticalReloadPatch.esp
+	[FE:058] SigSauer127_TacticalReloadPatch.esp
+	[FE:059] Combined Arms EX_LLI.esp
+	[FE:05A] Combined Arms_LLI.esp
+	[FE:05B] ExpansiveM4_LLI.esp
+	[FE:05C] G11_LLI.esp
+	[FE:05D] JOKR_LLI.esp
+	[FE:05E] MA37 - BR55_LLInjector.esp
+	[FE:05F] MCXRedacted_LLInjector.esp
+	[FE:060] MWM19_LLI.esp
+	[FE:061] MWM91_LLInjector.esp
+	[FE:062] MisriahArmory_LLInjector.esp
+	[FE:063] Schotel22_SCAR FAMILY_LLI.esp
+	[FE:064] TeslaHeavyAuto_LLInjector.esp
+	[FE:065] Ultimate M4 Pack_LLInjector.esp
+	[FE:066] OMEGA - MutantMenagerieFH IAF Patch.esp
+	[FE:067] OMEGA - MutantMenagerie IAF Patch.esp
+	[FE:068] No More Fake Puddles - Nuka World 1-0.esp
+	[FE:069] Infinite Armory - Brotherhood of Steel BoS.esp
+	[FE:06A] Rakshasa Armory Camo.esp
+	[FE:06B] Mark V[B] Redux Camo.esp
+	[FE:06C] Rakshasa Armory - Children of Atom.esp
+	[FE:06D] IAF - Far Harbor & Nuka World.esp
+	[FE:06E] CombinedArmsIntegrationProject - Armament_TR.esp
+	[FE:06F] AER15_DamageModifiers.esp
+	[FE:070] Rakshasa Armory - Coursers.esp
+	[FE:071] Infinite Armory - RR.esp
+	[FE:072] SBR_Ak5C_Extended.esp
+	[FE:073] Bullet Impact Overhaul test.esp
+	[FE:074] DiscreteFemaleSkeleton.esp
+	[FE:075] DynamicGlowingBeveragePack.esp
+	[FE:076] M8rDisablePipboyEffects.esp
+	[FE:077] OMEGA - IAF MRE Patch.esp
+	[FE:078] Nability - IAF Tales from the Commonwealth Patch.esp
+	[FE:079] OMEGA - IAF Wasteland Imports Patch.esp
+	[FE:07A] ImmersiveLegendaryMutations.esp
+	[FE:07B] Infinite Armory LL fix.esp
+	[FE:07C] MK18 Armory Project 2.esp
+	[FE:07D] PMC Operators - Institute.esp
+	[FE:07E] Physics Sound Overhaul.esp
+	[FE:07F] Rakshasa Armory - Rust Devils.esp
+	[FE:080] RussianStimpack.esp
+	[FE:081] SigMCX_LvlListPatch.esp
+	[FE:082] SigMCX_MaterialPack.esp
+	[FE:083] CombinedArms_SmAnims_ExPack.esp
+	[FE:084] CombinedArms_SMAnims.esp
+	[FE:085] Task Force Helm Pack 1.esp
+	[FE:086] WeaponWallRacks.esp
+	[FE:087] Worms FCPC Vest Pack.esp
+	[FE:088] PMC_extended_lore.esp
+	[FE:089] There It Is x Perfectionist.esp
+	[FE:08A] VeryZen_MutantMenagerie.esp
+	[FE:08B] FATE Patch - Start Me Up Redux.esp

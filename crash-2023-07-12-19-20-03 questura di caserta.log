@@ -752,22 +752,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     WorkshopFramework.esm
-	[ 9]     HUDFramework.esm
-	[ A]     MutantMenagerie.esm
-	[ B]     CWPointLookoutFO4.esm
-	[ C]     TacticalReload.esm
-	[ D]     CALIBER-COMPLEX.esm
-	[ E]     XDI.esm
-	[ F]     HuntingRifleSounds.esp
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     WorkshopFramework.esm
+	[09]     HUDFramework.esm
+	[0A]     MutantMenagerie.esm
+	[0B]     CWPointLookoutFO4.esm
+	[0C]     TacticalReload.esm
+	[0D]     CALIBER-COMPLEX.esm
+	[0E]     XDI.esm
+	[0F]     HuntingRifleSounds.esp
 	[10]     console.esp
 	[11]     No more monochrome - Color setting for the Pipboy!.esp
 	[12]     SlowTime.esp
@@ -978,55 +978,55 @@ PLUGINS:
 	[DF]     OutcastsAndRemnants.esp
 	[E0]     ProjectValkyrie.esp
 	[E1]     CHAOTIC SUN.esp
-	[FE:  0] SREP.esl
-	[FE:  1] CWRaiders.esl
-	[FE:  2] wastelandwoundcare.esl
-	[FE:  3] Derringer_by_Flarescale.esl
-	[FE:  4] CW32Pistol.esl
-	[FE:  5] BerettaM9FS.esl
-	[FE:  6] Revolver_by_Flarescale.esl
-	[FE:  7] CWHuntingRifle.esl
-	[FE:  8] PAHeavyImpact.esl
-	[FE:  9] M84FlashBang.esl
-	[FE:  A] Bricks Concrete and Wood sidings HD.esl
-	[FE:  B] Natural Bundle Masonry Set.esl
-	[FE:  C] Indubitable Ivy.esl
-	[FE:  D] Fog Remover II (AIO) Combo 1.4.esp
-	[FE:  E] ExplosionKnockdown.esp
-	[FE:  F] NPC Height- Vanilla.esp
-	[FE: 10] FuckGrenadesAlready.esp
-	[FE: 11] AR10Extension.esp
-	[FE: 12] Modern Weapon Replacer - SREP Redux - Combat Rifles.esp
-	[FE: 13] Modern Weapon Replacer - MK18 CQBR - Assault Rifles.esp
-	[FE: 14] Vz52.esp
-	[FE: 15] DoubleBarrelRifle.esp
-	[FE: 16] QuickGunModification.esp
-	[FE: 17] JunkFood.esp
-	[FE: 18] Makeshiftshotgun.esp
-	[FE: 19] BowieKnife_by_Flarescale.esp
-	[FE: 1A] BZW_Apocalypse.esp
-	[FE: 1B] EK - RPG7.esp
-	[FE: 1C] PersonalSleepingBag.esp
-	[FE: 1D] SFE.esp
-	[FE: 1E] carnukenukaG.esp
-	[FE: 1F] StartMeUpWorkaround.esp
-	[FE: 20] Local_Leader_remover.esp
-	[FE: 21] 44RevolverRetexture.esp
-	[FE: 22] novats.esp
-	[FE: 23] Remington700_Addon.esp
-	[FE: 24] VGDoubleBarrelLLPatch.esp
-	[FE: 25] MirelurkRepTrapper.esp
-	[FE: 26] Bullet Impact Overhaul.esp
-	[FE: 27] M9 Leveled Lists.esp
-	[FE: 28] DP_CaravanShotgun_TacticalReloadPatch.esp
-	[FE: 29] SimpleImpact.esp
-	[FE: 2A] Elzee Recoil Shake.esp
-	[FE: 2B] FN502_TR.esp
-	[FE: 2C] 45autoPistol_TacticalReloadPatch.esp
-	[FE: 2D] HandmadeMac - TR Patch.esp
-	[FE: 2E] AK74M_TacticalReloadPatch.esp
-	[FE: 2F] G3A3LvlListPatch.esp
-	[FE: 30] RemingtonM11_LvlListPatch.esp
-	[FE: 31] Combat Shotgun multiple weapon Replacer.esp
-	[FE: 32] RemingtonM11_TacticalReloadPatch.esp
-	[FE: 33] Sjogren_TR.esp
+	[FE:000] SREP.esl
+	[FE:001] CWRaiders.esl
+	[FE:002] wastelandwoundcare.esl
+	[FE:003] Derringer_by_Flarescale.esl
+	[FE:004] CW32Pistol.esl
+	[FE:005] BerettaM9FS.esl
+	[FE:006] Revolver_by_Flarescale.esl
+	[FE:007] CWHuntingRifle.esl
+	[FE:008] PAHeavyImpact.esl
+	[FE:009] M84FlashBang.esl
+	[FE:00A] Bricks Concrete and Wood sidings HD.esl
+	[FE:00B] Natural Bundle Masonry Set.esl
+	[FE:00C] Indubitable Ivy.esl
+	[FE:00D] Fog Remover II (AIO) Combo 1.4.esp
+	[FE:00E] ExplosionKnockdown.esp
+	[FE:00F] NPC Height- Vanilla.esp
+	[FE:010] FuckGrenadesAlready.esp
+	[FE:011] AR10Extension.esp
+	[FE:012] Modern Weapon Replacer - SREP Redux - Combat Rifles.esp
+	[FE:013] Modern Weapon Replacer - MK18 CQBR - Assault Rifles.esp
+	[FE:014] Vz52.esp
+	[FE:015] DoubleBarrelRifle.esp
+	[FE:016] QuickGunModification.esp
+	[FE:017] JunkFood.esp
+	[FE:018] Makeshiftshotgun.esp
+	[FE:019] BowieKnife_by_Flarescale.esp
+	[FE:01A] BZW_Apocalypse.esp
+	[FE:01B] EK - RPG7.esp
+	[FE:01C] PersonalSleepingBag.esp
+	[FE:01D] SFE.esp
+	[FE:01E] carnukenukaG.esp
+	[FE:01F] StartMeUpWorkaround.esp
+	[FE:020] Local_Leader_remover.esp
+	[FE:021] 44RevolverRetexture.esp
+	[FE:022] novats.esp
+	[FE:023] Remington700_Addon.esp
+	[FE:024] VGDoubleBarrelLLPatch.esp
+	[FE:025] MirelurkRepTrapper.esp
+	[FE:026] Bullet Impact Overhaul.esp
+	[FE:027] M9 Leveled Lists.esp
+	[FE:028] DP_CaravanShotgun_TacticalReloadPatch.esp
+	[FE:029] SimpleImpact.esp
+	[FE:02A] Elzee Recoil Shake.esp
+	[FE:02B] FN502_TR.esp
+	[FE:02C] 45autoPistol_TacticalReloadPatch.esp
+	[FE:02D] HandmadeMac - TR Patch.esp
+	[FE:02E] AK74M_TacticalReloadPatch.esp
+	[FE:02F] G3A3LvlListPatch.esp
+	[FE:030] RemingtonM11_LvlListPatch.esp
+	[FE:031] Combat Shotgun multiple weapon Replacer.esp
+	[FE:032] RemingtonM11_TacticalReloadPatch.esp
+	[FE:033] Sjogren_TR.esp

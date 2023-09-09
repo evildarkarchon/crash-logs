@@ -1559,22 +1559,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     WorkshopFramework.esm
-	[ 9]     ArmorKeywords.esm
-	[ A]     HUDFramework.esm
-	[ B]     XDI.esm
-	[ C]     TortureDevices.esm
-	[ D]     TrueStormsFO4.esm
-	[ E]     Homemaker.esm
-	[ F]     Homemaker_spanish_v1.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     WorkshopFramework.esm
+	[09]     ArmorKeywords.esm
+	[0A]     HUDFramework.esm
+	[0B]     XDI.esm
+	[0C]     TortureDevices.esm
+	[0D]     TrueStormsFO4.esm
+	[0E]     Homemaker.esm
+	[0F]     Homemaker_spanish_v1.esm
 	[10]     SkimpyArmorKeywordResource.esm
 	[11]     AAF.esm
 	[12]     MaleBodies_AMPatch.esm
@@ -1714,182 +1714,182 @@ PLUGINS:
 	[98]     ZaZOut4.esp
 	[99]     WrappedOutfit.esp
 	[9A]     BostonFPSFixAIO.esp
-	[FE:  0] BakaFramework.esm
-	[FE:  1] CROSS_CoA.esl
-	[FE:  2] CROSS_VertibirdFlightsuit.esl
-	[FE:  3] UlfEquip.esm
-	[FE:  4] Reverse Combat Armor.esl
-	[FE:  5] SIT-VB-ConditionMan.esl
-	[FE:  6] PMOutfitPack.esl
-	[FE:  7] NCRArmourPack.esl
-	[FE:  8] Quick_Change_Armor_by_tooun.esl
-	[FE:  9] AAFThemes.esl
-	[FE:  A] C.O.A.T.S - Core.esp
-	[FE:  B] SavrenX Matrix Hunter.esl
-	[FE:  C] CROSS_Wasteland_Ronin.esl
-	[FE:  D] CoAFanaticsGirl.esl
-	[FE:  E] VIS-G Item Sorting Vanilla Weight Patch.esp
-	[FE:  F] Dank_ECO.esp
-	[FE: 10] Outfit Leveled Lists Expansion Framework.esp
-	[FE: 11] UlfSkinOverlay.esp
-	[FE: 12] CROSS_2077.esp
-	[FE: 13] CROSS_MojaveManhunter.esp
-	[FE: 14] StealthSuitDrk.esp
-	[FE: 15] Summers - Outfit Pack 1.esp
-	[FE: 16] Crimsomrider's Hour Of The Reaper.esp
-	[FE: 17] TheKite_Railroad_Handmaiden.esp
-	[FE: 18] (AM) CROSSVertibirdFlightsuit Expansion.esp
-	[FE: 19] CROSSVertibirdFlightsuit - ImprovedINNR.esp
-	[FE: 1A] (AM) CoA Fanatics Outfits.esp
-	[FE: 1B] (AM) CoA Fanatics Outfits - Improved INNR.esp
-	[FE: 1C] (AM) CoA Fanatics Outfits - Leveled List Injection.esp
-	[FE: 1D] (AM) G12 Vanilla Skimpy Clothings (Replacer).esp
-	[FE: 1E] Patch - CoAFanatics_GunmetalClothingVariety.esp
-	[FE: 1F] Patch - GunmetalClothingVariety_G12VanillaSkimpyClothingsREP.esp
-	[FE: 20] (AM) Skimpy Harness.esp
-	[FE: 21] Desert Punk Raiders.esp
-	[FE: 22] (AM) Desert Punk Raiders Expansion.esp
-	[FE: 23] (AM) Desert Punk Raiders Expansion - Leveled List Injection.esp
-	[FE: 24] Desert Punk Raiders - Leveled List Injection.esp
-	[FE: 25] Enclave_Operator.esp
-	[FE: 26] Enclave_Operator - Improved INNR.esp
-	[FE: 27] Enclave_Operator - Leveled List Injection (BoS).esp
-	[FE: 28] Enclave_Operator - Leveled List Injection (Gunner).esp
-	[FE: 29] (AM) G12 Automatron Skimpy Outfits (Replacer).esp
-	[FE: 2A] (AM) G12 Automatron Skimpy Outfits (Standalone).esp
-	[FE: 2B] (AM) G12 Automatron Skimpy Outfits (Standalone) - Leveled List Injection.esp
-	[FE: 2C] (AM) Wasteland Muscle Armor.esp
-	[FE: 2D] (AM) Wasteland Muscle Armor - Improved INNR.esp
-	[FE: 2E] (AM) Wasteland Muscle Armor - Leveled List Injection.esp
-	[FE: 2F] AM Skingen - Automatron.esp
-	[FE: 30] AM Skingen - Far Harbour.esp
-	[FE: 31] AM Skingen - Nuka World.esp
-	[FE: 32] Atomic Muscle.esp
-	[FE: 33] RealHandcuffs_AWKCR_Compatibility.esp
-	[FE: 34] RealHandcuffs_JB_Compatibility.esp
-	[FE: 35] Obi's Cowboy Hat.esp
-	[FE: 36] ObiJewelry.esp
-	[FE: 37] N7-Armor-Standalone_by_Ruddy88.esp
-	[FE: 38] Gunner_Operator.esp
-	[FE: 39] GoodneighborExpanded_AM_Patch.esp
-	[FE: 3A] CourierDuster.esp
-	[FE: 3B] (AM) The Handmaiden's.esp
-	[FE: 3C] Dank_ECO-INNR.esp
-	[FE: 3D] Dank_ECO_DLCCoast.esp
-	[FE: 3E] Dank_ECO_DLCNukaWorld.esp
-	[FE: 3F] Dank_ECO_DLCRobot.esp
-	[FE: 40] Nexus_PMC.esp
-	[FE: 41] PMC_extended.esp
-	[FE: 42] (AM) G12 Vanilla Skimpy Armors (Replacer).esp
-	[FE: 43] (AM) G12 Vanilla Skimpy Armors (Standalone).esp
-	[FE: 44] (AM) G12 Vanilla Skimpy Armors (Standalone) - Leveled List Injection.esp
-	[FE: 45] (AM) G12 Vanilla Skimpy Armors Expansion.esp
-	[FE: 46] (AM) G12 Vanilla Skimpy Armors Expansion - Leveled List Injection.esp
-	[FE: 47] (AM) G12 Vanilla Skimpy Dress (Replacer).esp
-	[FE: 48] (AM) G12 Vanilla Skimpy Dress (Replacer) - Leveled List Injection.esp
-	[FE: 49] Patch - GunmetalClothingVariety_G12VanillaSkimpyDressREP.esp
-	[FE: 4A] (AM) G12 Far Harbor Skimpy Outfits (Replacer).esp
-	[FE: 4B] (AM) GITS Motoko Outfit.esp
-	[FE: 4C] (AM) GITS.esp
-	[FE: 4D] (AM) Grease Rat Garbs Expansion.esp
-	[FE: 4E] (AM) Grease Rat Garbs Expansion - Leveled List Injection.esp
-	[FE: 4F] GreaseRatGarbs - Leveled List Injection.esp
-	[FE: 50] GreaseRatGarbs_Tweak.esp
-	[FE: 51] Gunner_Operator - Improved INNR.esp
-	[FE: 52] Gunner_Operator - Leveled List Injection.esp
-	[FE: 53] (AM) M-Skin Oil Overlay.esp
-	[FE: 54] (AM) M-Skin Sweat Overlay.esp
-	[FE: 55] MWR_SAS.esp
-	[FE: 56] MWR_SAS - Leveled List Injection.esp
-	[FE: 57] NCRArmourPack_LeveledListInjection.esp
-	[FE: 58] NCRArmourPack_Tweak.esp
-	[FE: 59] (AM) NCR Armour Pack Expansion.esp
-	[FE: 5A] (AM) NCR Armour Pack Expansion - Leveled List Injection.esp
-	[FE: 5B] (AM) Stealth Suit Drk Expansion.esp
-	[FE: 5C] (AM) Stealth Suit Drk Expansion - Leveled List Injection.esp
-	[FE: 5D] StealthSuitDrk_ImprovedINNR.esp
-	[FE: 5E] StealthSuitDrk_Tweak.esp
-	[FE: 5F] (AM) Bunny Muscle.esp
-	[FE: 60] (AM) Obi Kinky Outfit.esp
-	[FE: 61] (AM) Obi Kinky Outfit - Leveled List Injection.esp
-	[FE: 62] (AM) Oil Overlay.esp
-	[FE: 63] Nexus_PMC - Leveled List Injection.esp
-	[FE: 64] PMC_Extended - Improved INNR.esp
-	[FE: 65] (AM) PMC Expansion.esp
-	[FE: 66] (AM) PMC Expansion - Leveled List Injection.esp
-	[FE: 67] (AM) Project Mojave Outfit Expansion.esp
-	[FE: 68] (AM) Project Mojave Outfit Expansion - Leveled List Injection.esp
-	[FE: 69] PMOutfitPack_LeveledListRedux.esp
-	[FE: 6A] PMOutfitPack_Tweak.esp
-	[FE: 6B] (AM) Reverse Combat Armor.esp
-	[FE: 6C] (AM) Reverse Combat Armor - Improved INNR.esp
-	[FE: 6D] (AM) Reverse Combat Armor - Leveled List Injection.esp
-	[FE: 6E] (AM) Riot Armor.esp
-	[FE: 6F] (AM) Riot Armor - Improved Naming Rules.esp
-	[FE: 70] (AM) HN66 Sirius 12.esp
-	[FE: 71] (AM) HN66 Sirius 16.esp
-	[FE: 72] (AM) HN66 Sirius 16 - Improved INNR.esp
-	[FE: 73] (AM) HN66 Sirius 16 - Leveled List Injection.esp
-	[FE: 74] (AM) Skeleton Armor.esp
-	[FE: 75] (AM) Skeleton Armor - Improved INNR.esp
-	[FE: 76] (AM) Skeleton Armor - Leveled List Injection.esp
-	[FE: 77] (AM) Spartan Sniper Accessories.esp
-	[FE: 78] (AM) Sporty Sweat Overlay.esp
-	[FE: 79] (AM) Sporty Sweat Shiny Overlay.esp
-	[FE: 7A] (AM) Tone OverBoss.esp
-	[FE: 7B] (AM) Tone OverBoss - Leveled List Injection.esp
-	[FE: 7C] (AM) True Wasteland Muscle.esp
-	[FE: 7D] (AM) True Wasteland Muscle - Leveled List Injection.esp
-	[FE: 7E] (AM) Vault Explorer.esp
-	[FE: 7F] (AM) Wrapped Outfit.esp
-	[FE: 80] (AM) Fortaleza Armor.esp
-	[FE: 81] (AM) G12 Vanilla Skimpy Clothings (Standalone).esp
-	[FE: 82] (AM) G12 Vanilla Skimpy Clothings (Standalone) - Leveled List Injection.esp
-	[FE: 83] Patch - GunmetalClothingVariety_G12VanillaSkimpyClothingsSTD.esp
-	[FE: 84] Cockcage for Atomic Muscle.esp
-	[FE: 85] Cockcage for Atomic Muscle - Cut.esp
-	[FE: 86] (AM) BoS Medic Battle Suit.esp
-	[FE: 87] (AM) BoS Medic Battle Suit - Skimpy Leveled List Injection.esp
-	[FE: 88] (AM) BoS Medic Battle Suit - Non-Skimpy Leveled List Injection.esp
-	[FE: 89] (AM) Black Widow Armor.esp
-	[FE: 8A] RLG.esp
-	[FE: 8B] Fabulous Silver Shroud.esp
-	[FE: 8C] CROSS_InstituteExpeditionarySuit.esp
-	[FE: 8D] CROSS_CourserStrigidae.esp
-	[FE: 8E] CROSS_CoA.esp
-	[FE: 8F] CROSS_BrotherhoodRecon.esp
-	[FE: 90] Few More Male Hairstyles.esp
-	[FE: 91] FAR.esp
-	[FE: 92] AAF_SCRS.esp
-	[FE: 93] AAF_Violate_Feral_Animations.esp
-	[FE: 94] SnapdragonAnimations.esp
-	[FE: 95] DiscreteFemaleSkeleton.esp
-	[FE: 96] ScreenArcherMenu.esp
-	[FE: 97] C.O.A.T.S - Patch - LooksMenu Customization Compendium.esp
-	[FE: 98] C.O.A.T.S - Patch - LooksMenu.esp
-	[FE: 99] RBBrotherhoodPinup_Craftable.esp
-	[FE: 9A] ColonialAttire.esp
-	[FE: 9B] (AM) G12 Nuka World Skimpy Outfits (Replacer).esp
-	[FE: 9C] (AM) G12 Nuka World Skimpy Outfits (Standalone).esp
-	[FE: 9D] (AM) G12 Nuka World Skimpy Outfits (Standalone) - Leveled List Inejction.esp
-	[FE: 9E] Jake Asia for Atomic Muscle.esp
-	[FE: 9F] Male Tomb Raider.esp
-	[FE: A0] MLU.esp
-	[FE: A1] Crimsomrider's Prostitute Outfit.esp
-	[FE: A2] Prostitute Oufit Replacer.esp
-	[FE: A3] Prostitute Outfit Replacer - Equip Gloves.esp
-	[FE: A4] AM SOS Drifter Mashup.esp
-	[FE: A5] SavrenX El Cazador - Replacer.esp
-	[FE: A6] VaultSuit Separated Boots and Bracers.esp
-	[FE: A7] (AM) Skimpy Attires.esp
-	[FE: A8] (AM) Tachanka Elite Set.esp
-	[FE: A9] Freebooter Leash Fix.esp
-	[FE: AA] Prokoh - Tough Traveller VIS-G Patch.esp
-	[FE: AB] (AM) Toxic Raider.esp
-	[FE: AC] Wasteland Ranger Shirtless Addon.esp
-	[FE: AD] (AM) Wintersday Frock.esp
-	[FE: AE] Scrap Everything - Core.esp
-	[FE: AF] Scrap Everything - Automatron.esp
-	[FE: B0] Scrap Everything - Far Harbor.esp
-	[FE: B1] Scrap Everything - Nuka World.esp
-	[FE: B2] Scrap Everything - Vault-Tec Workshop.esp
+	[FE:000] BakaFramework.esm
+	[FE:001] CROSS_CoA.esl
+	[FE:002] CROSS_VertibirdFlightsuit.esl
+	[FE:003] UlfEquip.esm
+	[FE:004] Reverse Combat Armor.esl
+	[FE:005] SIT-VB-ConditionMan.esl
+	[FE:006] PMOutfitPack.esl
+	[FE:007] NCRArmourPack.esl
+	[FE:008] Quick_Change_Armor_by_tooun.esl
+	[FE:009] AAFThemes.esl
+	[FE:00A] C.O.A.T.S - Core.esp
+	[FE:00B] SavrenX Matrix Hunter.esl
+	[FE:00C] CROSS_Wasteland_Ronin.esl
+	[FE:00D] CoAFanaticsGirl.esl
+	[FE:00E] VIS-G Item Sorting Vanilla Weight Patch.esp
+	[FE:00F] Dank_ECO.esp
+	[FE:010] Outfit Leveled Lists Expansion Framework.esp
+	[FE:011] UlfSkinOverlay.esp
+	[FE:012] CROSS_2077.esp
+	[FE:013] CROSS_MojaveManhunter.esp
+	[FE:014] StealthSuitDrk.esp
+	[FE:015] Summers - Outfit Pack 1.esp
+	[FE:016] Crimsomrider's Hour Of The Reaper.esp
+	[FE:017] TheKite_Railroad_Handmaiden.esp
+	[FE:018] (AM) CROSSVertibirdFlightsuit Expansion.esp
+	[FE:019] CROSSVertibirdFlightsuit - ImprovedINNR.esp
+	[FE:01A] (AM) CoA Fanatics Outfits.esp
+	[FE:01B] (AM) CoA Fanatics Outfits - Improved INNR.esp
+	[FE:01C] (AM) CoA Fanatics Outfits - Leveled List Injection.esp
+	[FE:01D] (AM) G12 Vanilla Skimpy Clothings (Replacer).esp
+	[FE:01E] Patch - CoAFanatics_GunmetalClothingVariety.esp
+	[FE:01F] Patch - GunmetalClothingVariety_G12VanillaSkimpyClothingsREP.esp
+	[FE:020] (AM) Skimpy Harness.esp
+	[FE:021] Desert Punk Raiders.esp
+	[FE:022] (AM) Desert Punk Raiders Expansion.esp
+	[FE:023] (AM) Desert Punk Raiders Expansion - Leveled List Injection.esp
+	[FE:024] Desert Punk Raiders - Leveled List Injection.esp
+	[FE:025] Enclave_Operator.esp
+	[FE:026] Enclave_Operator - Improved INNR.esp
+	[FE:027] Enclave_Operator - Leveled List Injection (BoS).esp
+	[FE:028] Enclave_Operator - Leveled List Injection (Gunner).esp
+	[FE:029] (AM) G12 Automatron Skimpy Outfits (Replacer).esp
+	[FE:02A] (AM) G12 Automatron Skimpy Outfits (Standalone).esp
+	[FE:02B] (AM) G12 Automatron Skimpy Outfits (Standalone) - Leveled List Injection.esp
+	[FE:02C] (AM) Wasteland Muscle Armor.esp
+	[FE:02D] (AM) Wasteland Muscle Armor - Improved INNR.esp
+	[FE:02E] (AM) Wasteland Muscle Armor - Leveled List Injection.esp
+	[FE:02F] AM Skingen - Automatron.esp
+	[FE:030] AM Skingen - Far Harbour.esp
+	[FE:031] AM Skingen - Nuka World.esp
+	[FE:032] Atomic Muscle.esp
+	[FE:033] RealHandcuffs_AWKCR_Compatibility.esp
+	[FE:034] RealHandcuffs_JB_Compatibility.esp
+	[FE:035] Obi's Cowboy Hat.esp
+	[FE:036] ObiJewelry.esp
+	[FE:037] N7-Armor-Standalone_by_Ruddy88.esp
+	[FE:038] Gunner_Operator.esp
+	[FE:039] GoodneighborExpanded_AM_Patch.esp
+	[FE:03A] CourierDuster.esp
+	[FE:03B] (AM) The Handmaiden's.esp
+	[FE:03C] Dank_ECO-INNR.esp
+	[FE:03D] Dank_ECO_DLCCoast.esp
+	[FE:03E] Dank_ECO_DLCNukaWorld.esp
+	[FE:03F] Dank_ECO_DLCRobot.esp
+	[FE:040] Nexus_PMC.esp
+	[FE:041] PMC_extended.esp
+	[FE:042] (AM) G12 Vanilla Skimpy Armors (Replacer).esp
+	[FE:043] (AM) G12 Vanilla Skimpy Armors (Standalone).esp
+	[FE:044] (AM) G12 Vanilla Skimpy Armors (Standalone) - Leveled List Injection.esp
+	[FE:045] (AM) G12 Vanilla Skimpy Armors Expansion.esp
+	[FE:046] (AM) G12 Vanilla Skimpy Armors Expansion - Leveled List Injection.esp
+	[FE:047] (AM) G12 Vanilla Skimpy Dress (Replacer).esp
+	[FE:048] (AM) G12 Vanilla Skimpy Dress (Replacer) - Leveled List Injection.esp
+	[FE:049] Patch - GunmetalClothingVariety_G12VanillaSkimpyDressREP.esp
+	[FE:04A] (AM) G12 Far Harbor Skimpy Outfits (Replacer).esp
+	[FE:04B] (AM) GITS Motoko Outfit.esp
+	[FE:04C] (AM) GITS.esp
+	[FE:04D] (AM) Grease Rat Garbs Expansion.esp
+	[FE:04E] (AM) Grease Rat Garbs Expansion - Leveled List Injection.esp
+	[FE:04F] GreaseRatGarbs - Leveled List Injection.esp
+	[FE:050] GreaseRatGarbs_Tweak.esp
+	[FE:051] Gunner_Operator - Improved INNR.esp
+	[FE:052] Gunner_Operator - Leveled List Injection.esp
+	[FE:053] (AM) M-Skin Oil Overlay.esp
+	[FE:054] (AM) M-Skin Sweat Overlay.esp
+	[FE:055] MWR_SAS.esp
+	[FE:056] MWR_SAS - Leveled List Injection.esp
+	[FE:057] NCRArmourPack_LeveledListInjection.esp
+	[FE:058] NCRArmourPack_Tweak.esp
+	[FE:059] (AM) NCR Armour Pack Expansion.esp
+	[FE:05A] (AM) NCR Armour Pack Expansion - Leveled List Injection.esp
+	[FE:05B] (AM) Stealth Suit Drk Expansion.esp
+	[FE:05C] (AM) Stealth Suit Drk Expansion - Leveled List Injection.esp
+	[FE:05D] StealthSuitDrk_ImprovedINNR.esp
+	[FE:05E] StealthSuitDrk_Tweak.esp
+	[FE:05F] (AM) Bunny Muscle.esp
+	[FE:060] (AM) Obi Kinky Outfit.esp
+	[FE:061] (AM) Obi Kinky Outfit - Leveled List Injection.esp
+	[FE:062] (AM) Oil Overlay.esp
+	[FE:063] Nexus_PMC - Leveled List Injection.esp
+	[FE:064] PMC_Extended - Improved INNR.esp
+	[FE:065] (AM) PMC Expansion.esp
+	[FE:066] (AM) PMC Expansion - Leveled List Injection.esp
+	[FE:067] (AM) Project Mojave Outfit Expansion.esp
+	[FE:068] (AM) Project Mojave Outfit Expansion - Leveled List Injection.esp
+	[FE:069] PMOutfitPack_LeveledListRedux.esp
+	[FE:06A] PMOutfitPack_Tweak.esp
+	[FE:06B] (AM) Reverse Combat Armor.esp
+	[FE:06C] (AM) Reverse Combat Armor - Improved INNR.esp
+	[FE:06D] (AM) Reverse Combat Armor - Leveled List Injection.esp
+	[FE:06E] (AM) Riot Armor.esp
+	[FE:06F] (AM) Riot Armor - Improved Naming Rules.esp
+	[FE:070] (AM) HN66 Sirius 12.esp
+	[FE:071] (AM) HN66 Sirius 16.esp
+	[FE:072] (AM) HN66 Sirius 16 - Improved INNR.esp
+	[FE:073] (AM) HN66 Sirius 16 - Leveled List Injection.esp
+	[FE:074] (AM) Skeleton Armor.esp
+	[FE:075] (AM) Skeleton Armor - Improved INNR.esp
+	[FE:076] (AM) Skeleton Armor - Leveled List Injection.esp
+	[FE:077] (AM) Spartan Sniper Accessories.esp
+	[FE:078] (AM) Sporty Sweat Overlay.esp
+	[FE:079] (AM) Sporty Sweat Shiny Overlay.esp
+	[FE:07A] (AM) Tone OverBoss.esp
+	[FE:07B] (AM) Tone OverBoss - Leveled List Injection.esp
+	[FE:07C] (AM) True Wasteland Muscle.esp
+	[FE:07D] (AM) True Wasteland Muscle - Leveled List Injection.esp
+	[FE:07E] (AM) Vault Explorer.esp
+	[FE:07F] (AM) Wrapped Outfit.esp
+	[FE:080] (AM) Fortaleza Armor.esp
+	[FE:081] (AM) G12 Vanilla Skimpy Clothings (Standalone).esp
+	[FE:082] (AM) G12 Vanilla Skimpy Clothings (Standalone) - Leveled List Injection.esp
+	[FE:083] Patch - GunmetalClothingVariety_G12VanillaSkimpyClothingsSTD.esp
+	[FE:084] Cockcage for Atomic Muscle.esp
+	[FE:085] Cockcage for Atomic Muscle - Cut.esp
+	[FE:086] (AM) BoS Medic Battle Suit.esp
+	[FE:087] (AM) BoS Medic Battle Suit - Skimpy Leveled List Injection.esp
+	[FE:088] (AM) BoS Medic Battle Suit - Non-Skimpy Leveled List Injection.esp
+	[FE:089] (AM) Black Widow Armor.esp
+	[FE:08A] RLG.esp
+	[FE:08B] Fabulous Silver Shroud.esp
+	[FE:08C] CROSS_InstituteExpeditionarySuit.esp
+	[FE:08D] CROSS_CourserStrigidae.esp
+	[FE:08E] CROSS_CoA.esp
+	[FE:08F] CROSS_BrotherhoodRecon.esp
+	[FE:090] Few More Male Hairstyles.esp
+	[FE:091] FAR.esp
+	[FE:092] AAF_SCRS.esp
+	[FE:093] AAF_Violate_Feral_Animations.esp
+	[FE:094] SnapdragonAnimations.esp
+	[FE:095] DiscreteFemaleSkeleton.esp
+	[FE:096] ScreenArcherMenu.esp
+	[FE:097] C.O.A.T.S - Patch - LooksMenu Customization Compendium.esp
+	[FE:098] C.O.A.T.S - Patch - LooksMenu.esp
+	[FE:099] RBBrotherhoodPinup_Craftable.esp
+	[FE:09A] ColonialAttire.esp
+	[FE:09B] (AM) G12 Nuka World Skimpy Outfits (Replacer).esp
+	[FE:09C] (AM) G12 Nuka World Skimpy Outfits (Standalone).esp
+	[FE:09D] (AM) G12 Nuka World Skimpy Outfits (Standalone) - Leveled List Inejction.esp
+	[FE:09E] Jake Asia for Atomic Muscle.esp
+	[FE:09F] Male Tomb Raider.esp
+	[FE:0A0] MLU.esp
+	[FE:0A1] Crimsomrider's Prostitute Outfit.esp
+	[FE:0A2] Prostitute Oufit Replacer.esp
+	[FE:0A3] Prostitute Outfit Replacer - Equip Gloves.esp
+	[FE:0A4] AM SOS Drifter Mashup.esp
+	[FE:0A5] SavrenX El Cazador - Replacer.esp
+	[FE:0A6] VaultSuit Separated Boots and Bracers.esp
+	[FE:0A7] (AM) Skimpy Attires.esp
+	[FE:0A8] (AM) Tachanka Elite Set.esp
+	[FE:0A9] Freebooter Leash Fix.esp
+	[FE:0AA] Prokoh - Tough Traveller VIS-G Patch.esp
+	[FE:0AB] (AM) Toxic Raider.esp
+	[FE:0AC] Wasteland Ranger Shirtless Addon.esp
+	[FE:0AD] (AM) Wintersday Frock.esp
+	[FE:0AE] Scrap Everything - Core.esp
+	[FE:0AF] Scrap Everything - Automatron.esp
+	[FE:0B0] Scrap Everything - Far Harbor.esp
+	[FE:0B1] Scrap Everything - Nuka World.esp
+	[FE:0B2] Scrap Everything - Vault-Tec Workshop.esp

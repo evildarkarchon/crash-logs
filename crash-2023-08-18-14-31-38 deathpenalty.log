@@ -561,22 +561,22 @@ F4SE PLUGINS:
 	XDI.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     cczsef04001-bhouse.esm
-	[ 8]     cctosfo4001-neosky.esm
-	[ 9]     Unofficial Fallout 4 Patch.esp
-	[ A]     WorkshopFramework.esm
-	[ B]     HUDFramework.esm
-	[ C]     XDI.esm
-	[ D]     ArmorKeywords.esm
-	[ E]     SS2.esm
-	[ F]     SS2_XPAC_Chapter2.esm
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     cczsef04001-bhouse.esm
+	[08]     cctosfo4001-neosky.esm
+	[09]     Unofficial Fallout 4 Patch.esp
+	[0A]     WorkshopFramework.esm
+	[0B]     HUDFramework.esm
+	[0C]     XDI.esm
+	[0D]     ArmorKeywords.esm
+	[0E]     SS2.esm
+	[0F]     SS2_XPAC_Chapter2.esm
 	[10]     SS2_XPAC_Chapter3.esm
 	[11]     Darlene.esm
 	[12]     ProjectZeta.esm
@@ -785,199 +785,199 @@ PLUGINS:
 	[DD]     StartMeUpNukaWorldPatch.esp
 	[DE]     RED-StartMeUp.esp
 	[DF]     EnhancedLightsandFX.esp
-	[FE:  0] BakaFramework.esm
-	[FE:  1] FATE Core - Fixes.esl
-	[FE:  2] PPF.esm
-	[FE:  3] LIF.esl
-	[FE:  4] SwimmingAnims.esl
-	[FE:  5] TAAFlickerRemover.esl
-	[FE:  6] BetterCoastalWaves.esl
-	[FE:  7] Quick_Modification_Weapon_by_tooun.esl
-	[FE:  8] Skb_MachinegunsRebirth.esl
-	[FE:  9] Skb-MinigunsRebirth.esl
-	[FE:  A] SelectRevolver.esl
-	[FE:  B] IceStormsOrsisF17.esl
-	[FE:  C] MWSentryTurret.esl
-	[FE:  D] Leah's Target Practice.esl
-	[FE:  E] Hellfirenew.esl
-	[FE:  F] NuclearNaughtiesPaintings_AIO.esl
-	[FE: 10] MultipleMarkerBeds.esl
-	[FE: 11] Loot Detector.esl
-	[FE: 12] EasyLockpicking.esl
-	[FE: 13] dpjetandxcell.esl
-	[FE: 14] dppsychoandmedx.esl
-	[FE: 15] NXGEN Texture Pack.esl
-	[FE: 16] EnclavePack.esl
-	[FE: 17] HellcatPA.esl
-	[FE: 18] CROSS_Wasteland_Ronin.esl
-	[FE: 19] HoloDisplay.esl
-	[FE: 1A] Dogs can grab player.esl
-	[FE: 1B] FastTravelAIDetectionFix.esl
-	[FE: 1C] KillTips_by_tooun.esl
-	[FE: 1D] Ladder.esl
-	[FE: 1E] FATE Core - Tweaks.esp
-	[FE: 1F] Better Locational Damage - DLC_Far_Harbor.esp
-	[FE: 20] BLD - Leveled Lists - DLC.esp
-	[FE: 21] eXoKetarosLootableTreasures.esp
-	[FE: 22] Better Locational Damage - DLC_Automatron.esp
-	[FE: 23] Better Locational Damage - DLC_Nuka_World.esp
-	[FE: 24] MegaExplosions_x2.esp
-	[FE: 25] QuestTagsRedux.esp
-	[FE: 26] Better Locational Damage - Valdacil's Item Sorting - Patch.esp
-	[FE: 27] JSRS_Regions.esp
-	[FE: 28] Better Locational Damage - DLC_WWorkshop.esp
-	[FE: 29] Better Locational Damage - Ghoul Edition.esp
-	[FE: 2A] Better Perks.esp
-	[FE: 2B] ehtyeci_MPX.esp
-	[FE: 2C] TrainPowerArmor.esp
-	[FE: 2D] XM2010_SniperRifle_by_tooun.esp
-	[FE: 2E] CityAmbience.esp
-	[FE: 2F] M9A3.esp
-	[FE: 30] WeightlessAmmoForSurvival.esp
-	[FE: 31] SIGMCXArmoryProject.esp
-	[FE: 32] PRP-SS2.esp
-	[FE: 33] MWHitFX - Automatron Patch.esp
-	[FE: 34] dD-Enhanced Blood Basic.esp
-	[FE: 35] Bullet Impact Overhaul.esp
-	[FE: 36] Howa Type-20.esp
-	[FE: 37] Remington R5 RGP.esp
-	[FE: 38] SkipKelloggMemories.esp
-	[FE: 39] CTHHostileNPCsSneakingAndOrWeaponDrawn-NSL.esp
-	[FE: 3A] ClassicGhoulRace2022.esp
-	[FE: 3B] [ETH]EthnetsMeleeSounds.esp
-	[FE: 3C] Remington870.esp
-	[FE: 3D] USP .45_by_tooun.esp
-	[FE: 3E] SIGMCXArmoryProject2.esp
-	[FE: 3F] RemoteExplosives.esp
-	[FE: 40] real.AI - Dialogue.esp
-	[FE: 41] Aliens_M56_ACT_Settlement.esp
-	[FE: 42] Aliens_Portable_M56_ACT_-W-lights.esp
-	[FE: 43] CWMP5_Crafting_Fix.esp
-	[FE: 44] LegendaryModification.esp
-	[FE: 45] LegendaryModification - DLC Far Harbor.esp
-	[FE: 46] LegendaryModification2LM.esp
-	[FE: 47] LegendaryModification2LMAKPatch.esp
-	[FE: 48] LegendaryModificationCSA.esp
-	[FE: 49] LegendaryModificationGroknak.esp
-	[FE: 4A] LegendaryModificationMisc.esp
-	[FE: 4B] M9A3_ArmamentPatchTR.esp
-	[FE: 4C] M9A3_LvlLists.esp
-	[FE: 4D] Idiot Slut.esp
-	[FE: 4E] Burst Impact Blast FX.esp
-	[FE: 4F] Feral Ghoul Bite Skills.esp
-	[FE: 50] SimpleDodges.esp
-	[FE: 51] Bruen Bullpup Family_Expanded.esp
-	[FE: 52] Bruen Bullpup Family TR Patch.esp
-	[FE: 53] SimpleAttackReactions.esp
-	[FE: 54] SigMCX_MaterialPack.esp
-	[FE: 55] HiPolyFaces.esp
-	[FE: 56] More Where That Came From Diamond City.esp
-	[FE: 57] Food&WaterGenerator.esp
-	[FE: 58] Realistic Roads - Black Asphalt.esp
-	[FE: 59] LongerPowerLines3x.esp
-	[FE: 5A] NAC-FH.esp
-	[FE: 5B] NAC-NW.esp
-	[FE: 5C] Penetration Framework.esp
-	[FE: 5D] CapsWidget.esp
-	[FE: 5E] CROSS_2077.esp
-	[FE: 5F] CROSS_Blades.esp
-	[FE: 60] M1Garand-1.5xDMG.esp
-	[FE: 61] LooksMenu.esp
-	[FE: 62] VeryRichMerchants.esp
-	[FE: 63] OakleyMFrame.esp
-	[FE: 64] NukaRadBans.esp
-	[FE: 65] Ketaros_Treasures_DLC01.esp
-	[FE: 66] Companion Infinite Ammo.esp
-	[FE: 67] Crows&Creatures_V1.esp
-	[FE: 68] Deathclaw Grab Skills.esp
-	[FE: 69] Fireflies.esp
-	[FE: 6A] Leaf Piles Improved.esp
-	[FE: 6B] BOCW SEAL Team 10 - Caravan Guards.esp
-	[FE: 6C] MyCart_Biohazard.esp
-	[FE: 6D] BiohazardSuit - Forged.esp
-	[FE: 6E] MWR_Opfor.esp
-	[FE: 6F] CoD MW OpFor - CoA.esp
-	[FE: 70] BOCW SEAL Team 10 - DC Guards.esp
-	[FE: 71] Nexus_PMC.esp
-	[FE: 72] HavenTrooper.esp
-	[FE: 73] 3rd Person Cam SmallFix.esp
-	[FE: 74] ImmersiveLegendaryMutations.esp
-	[FE: 75] NoSurvivalDiseases.esp
-	[FE: 76] Movement Speed Revised.esp
-	[FE: 77] SCDC_v0.5.esp
-	[FE: 78] SCOURGE - Vanilla.esp
-	[FE: 79] SCOURGE - Automatron.esp
-	[FE: 7A] SCOURGE - Far Harbor.esp
-	[FE: 7B] SCOURGE - Nuka World.esp
-	[FE: 7C] TacticalReload_IngameSwitch.esp
-	[FE: 7D] LongRangeBulletHoles.esp
-	[FE: 7E] Elzee Breathe.esp
-	[FE: 7F] Wasteland Workshop Streetlights.esp
-	[FE: 80] DungeonRespawns.esp
-	[FE: 81] Gloomy Glass.esp
-	[FE: 82] FlaconOil_BA2_2K_Part2.esp
-	[FE: 83] FlaconOil_BA2_2K_Part3.esp
-	[FE: 84] LC's UHD Bloatfly.esp
-	[FE: 85] LC's UHD Bloodrage Mirelurk.esp
-	[FE: 86] LC's UHD Brahmin.esp
-	[FE: 87] LC's UHD Mirelurk Queen.esp
-	[FE: 88] LC's UHD Mutant Hound.esp
-	[FE: 89] LC's UHD Radroach.esp
-	[FE: 8A] LC's UHD Skeleton Wardrobe.esp
-	[FE: 8B] LC's UHD Skeletons.esp
-	[FE: 8C] LC's UHD Stingwing.esp
-	[FE: 8D] Synths Revamped.esp
-	[FE: 8E] Rakshasa Armory - Coursers.esp
-	[FE: 8F] BLD - AI Tweaks.esp
-	[FE: 90] M8rDisablePipboyEffects.esp
-	[FE: 91] RutahTattooPack_FO4.esp
-	[FE: 92] Dank_ECO-INNR.esp
-	[FE: 93] FIS-Naming-Weap-Armo-EN.esp
-	[FE: 94] NACX-Realistic Wind Patch.esp
-	[FE: 95] Cinematographic fog effect - Heavy.esp
-	[FE: 96] CROSS_CryoLance.esp
-	[FE: 97] AzarPonytailHairstyles.esp
-	[FE: 98] Lots More Facial Hair.esp
-	[FE: 99] Lots More Male Hairstyles.esp
-	[FE: 9A] Physics Sound Overhaul.esp
-	[FE: 9B] PMC_extended.esp
-	[FE: 9C] ParkCoventry.esp
-	[FE: 9D] OpsCoreFASTHelmet.esp
-	[FE: 9E] MWR_SAS.esp
-	[FE: 9F] TacticalHuman.esp
-	[FE: A0] K9TacticalHarness.esp
-	[FE: A1] Gunner_Operator.esp
-	[FE: A2] US_Rangers.esp
-	[FE: A3] Stimpaks help you breathe.esp
-	[FE: A4] RussianStimpack.esp
-	[FE: A5] AWKCR - Mod Power Armor Engine Glitch Fix.esp
-	[FE: A6] SuperMutantRedux_ArmorSmithExtended.esp
-	[FE: A7] Zenit_TacticalReloadPatch.esp
-	[FE: A8] StartMeUpShaunDefaultAppearance.esp
-	[FE: A9] EV_CPA10_LL.esp
-	[FE: AA] BetterCasingEjection.esp
-	[FE: AB] SS2_XDI Patch.esp
-	[FE: AC] Winters_Taq-56_LL.esp
-	[FE: AD] Winters_Taq-56_TR.esp
-	[FE: AE] Straw_Pinups.esp
-	[FE: AF] WeaponWallRacks.esp
-	[FE: B0] VerySmallGenerators100.esp
-	[FE: B1] Ozzys Kilo-141 TR Patch.esp
-	[FE: B2] QCQ171_TacticalReloadPatch.esp
-	[FE: B3] APC9_LeveledListPatch.esp
-	[FE: B4] APC9_TacticalReloadPatch.esp
-	[FE: B5] Alternative Satellite World Maps.esp
-	[FE: B6] real.AI - Untethered.esp
-	[FE: B7] QBZ191_TR_patch.esp
-	[FE: B8] QBZ191_YLArms_Pack.esp
-	[FE: B9] FATE Patch - Better Locational Damage.esp
-	[FE: BA] Chemfluence AI Combat Dynamics.esp
-	[FE: BB] Faster Stations.esp
-	[FE: BC] 00LK_MW_Explosions.esp
-	[FE: BD] ADS Sound Tarvov.esp
-	[FE: BE] [ETH] TFS EquipSounds.esp
-	[FE: BF] Dank_ECO_DLCCoast.esp
-	[FE: C0] Dank_ECO_DLCNukaWorld.esp
-	[FE: C1] Dank_ECO_DLCRobot.esp
-	[FE: C2] FATE Patch - Start Me Up Redux.esp
-	[FE: C3] Pip-Boy Flashlight.esp
+	[FE:000] BakaFramework.esm
+	[FE:001] FATE Core - Fixes.esl
+	[FE:002] PPF.esm
+	[FE:003] LIF.esl
+	[FE:004] SwimmingAnims.esl
+	[FE:005] TAAFlickerRemover.esl
+	[FE:006] BetterCoastalWaves.esl
+	[FE:007] Quick_Modification_Weapon_by_tooun.esl
+	[FE:008] Skb_MachinegunsRebirth.esl
+	[FE:009] Skb-MinigunsRebirth.esl
+	[FE:00A] SelectRevolver.esl
+	[FE:00B] IceStormsOrsisF17.esl
+	[FE:00C] MWSentryTurret.esl
+	[FE:00D] Leah's Target Practice.esl
+	[FE:00E] Hellfirenew.esl
+	[FE:00F] NuclearNaughtiesPaintings_AIO.esl
+	[FE:010] MultipleMarkerBeds.esl
+	[FE:011] Loot Detector.esl
+	[FE:012] EasyLockpicking.esl
+	[FE:013] dpjetandxcell.esl
+	[FE:014] dppsychoandmedx.esl
+	[FE:015] NXGEN Texture Pack.esl
+	[FE:016] EnclavePack.esl
+	[FE:017] HellcatPA.esl
+	[FE:018] CROSS_Wasteland_Ronin.esl
+	[FE:019] HoloDisplay.esl
+	[FE:01A] Dogs can grab player.esl
+	[FE:01B] FastTravelAIDetectionFix.esl
+	[FE:01C] KillTips_by_tooun.esl
+	[FE:01D] Ladder.esl
+	[FE:01E] FATE Core - Tweaks.esp
+	[FE:01F] Better Locational Damage - DLC_Far_Harbor.esp
+	[FE:020] BLD - Leveled Lists - DLC.esp
+	[FE:021] eXoKetarosLootableTreasures.esp
+	[FE:022] Better Locational Damage - DLC_Automatron.esp
+	[FE:023] Better Locational Damage - DLC_Nuka_World.esp
+	[FE:024] MegaExplosions_x2.esp
+	[FE:025] QuestTagsRedux.esp
+	[FE:026] Better Locational Damage - Valdacil's Item Sorting - Patch.esp
+	[FE:027] JSRS_Regions.esp
+	[FE:028] Better Locational Damage - DLC_WWorkshop.esp
+	[FE:029] Better Locational Damage - Ghoul Edition.esp
+	[FE:02A] Better Perks.esp
+	[FE:02B] ehtyeci_MPX.esp
+	[FE:02C] TrainPowerArmor.esp
+	[FE:02D] XM2010_SniperRifle_by_tooun.esp
+	[FE:02E] CityAmbience.esp
+	[FE:02F] M9A3.esp
+	[FE:030] WeightlessAmmoForSurvival.esp
+	[FE:031] SIGMCXArmoryProject.esp
+	[FE:032] PRP-SS2.esp
+	[FE:033] MWHitFX - Automatron Patch.esp
+	[FE:034] dD-Enhanced Blood Basic.esp
+	[FE:035] Bullet Impact Overhaul.esp
+	[FE:036] Howa Type-20.esp
+	[FE:037] Remington R5 RGP.esp
+	[FE:038] SkipKelloggMemories.esp
+	[FE:039] CTHHostileNPCsSneakingAndOrWeaponDrawn-NSL.esp
+	[FE:03A] ClassicGhoulRace2022.esp
+	[FE:03B] [ETH]EthnetsMeleeSounds.esp
+	[FE:03C] Remington870.esp
+	[FE:03D] USP .45_by_tooun.esp
+	[FE:03E] SIGMCXArmoryProject2.esp
+	[FE:03F] RemoteExplosives.esp
+	[FE:040] real.AI - Dialogue.esp
+	[FE:041] Aliens_M56_ACT_Settlement.esp
+	[FE:042] Aliens_Portable_M56_ACT_-W-lights.esp
+	[FE:043] CWMP5_Crafting_Fix.esp
+	[FE:044] LegendaryModification.esp
+	[FE:045] LegendaryModification - DLC Far Harbor.esp
+	[FE:046] LegendaryModification2LM.esp
+	[FE:047] LegendaryModification2LMAKPatch.esp
+	[FE:048] LegendaryModificationCSA.esp
+	[FE:049] LegendaryModificationGroknak.esp
+	[FE:04A] LegendaryModificationMisc.esp
+	[FE:04B] M9A3_ArmamentPatchTR.esp
+	[FE:04C] M9A3_LvlLists.esp
+	[FE:04D] Idiot Slut.esp
+	[FE:04E] Burst Impact Blast FX.esp
+	[FE:04F] Feral Ghoul Bite Skills.esp
+	[FE:050] SimpleDodges.esp
+	[FE:051] Bruen Bullpup Family_Expanded.esp
+	[FE:052] Bruen Bullpup Family TR Patch.esp
+	[FE:053] SimpleAttackReactions.esp
+	[FE:054] SigMCX_MaterialPack.esp
+	[FE:055] HiPolyFaces.esp
+	[FE:056] More Where That Came From Diamond City.esp
+	[FE:057] Food&WaterGenerator.esp
+	[FE:058] Realistic Roads - Black Asphalt.esp
+	[FE:059] LongerPowerLines3x.esp
+	[FE:05A] NAC-FH.esp
+	[FE:05B] NAC-NW.esp
+	[FE:05C] Penetration Framework.esp
+	[FE:05D] CapsWidget.esp
+	[FE:05E] CROSS_2077.esp
+	[FE:05F] CROSS_Blades.esp
+	[FE:060] M1Garand-1.5xDMG.esp
+	[FE:061] LooksMenu.esp
+	[FE:062] VeryRichMerchants.esp
+	[FE:063] OakleyMFrame.esp
+	[FE:064] NukaRadBans.esp
+	[FE:065] Ketaros_Treasures_DLC01.esp
+	[FE:066] Companion Infinite Ammo.esp
+	[FE:067] Crows&Creatures_V1.esp
+	[FE:068] Deathclaw Grab Skills.esp
+	[FE:069] Fireflies.esp
+	[FE:06A] Leaf Piles Improved.esp
+	[FE:06B] BOCW SEAL Team 10 - Caravan Guards.esp
+	[FE:06C] MyCart_Biohazard.esp
+	[FE:06D] BiohazardSuit - Forged.esp
+	[FE:06E] MWR_Opfor.esp
+	[FE:06F] CoD MW OpFor - CoA.esp
+	[FE:070] BOCW SEAL Team 10 - DC Guards.esp
+	[FE:071] Nexus_PMC.esp
+	[FE:072] HavenTrooper.esp
+	[FE:073] 3rd Person Cam SmallFix.esp
+	[FE:074] ImmersiveLegendaryMutations.esp
+	[FE:075] NoSurvivalDiseases.esp
+	[FE:076] Movement Speed Revised.esp
+	[FE:077] SCDC_v0.5.esp
+	[FE:078] SCOURGE - Vanilla.esp
+	[FE:079] SCOURGE - Automatron.esp
+	[FE:07A] SCOURGE - Far Harbor.esp
+	[FE:07B] SCOURGE - Nuka World.esp
+	[FE:07C] TacticalReload_IngameSwitch.esp
+	[FE:07D] LongRangeBulletHoles.esp
+	[FE:07E] Elzee Breathe.esp
+	[FE:07F] Wasteland Workshop Streetlights.esp
+	[FE:080] DungeonRespawns.esp
+	[FE:081] Gloomy Glass.esp
+	[FE:082] FlaconOil_BA2_2K_Part2.esp
+	[FE:083] FlaconOil_BA2_2K_Part3.esp
+	[FE:084] LC's UHD Bloatfly.esp
+	[FE:085] LC's UHD Bloodrage Mirelurk.esp
+	[FE:086] LC's UHD Brahmin.esp
+	[FE:087] LC's UHD Mirelurk Queen.esp
+	[FE:088] LC's UHD Mutant Hound.esp
+	[FE:089] LC's UHD Radroach.esp
+	[FE:08A] LC's UHD Skeleton Wardrobe.esp
+	[FE:08B] LC's UHD Skeletons.esp
+	[FE:08C] LC's UHD Stingwing.esp
+	[FE:08D] Synths Revamped.esp
+	[FE:08E] Rakshasa Armory - Coursers.esp
+	[FE:08F] BLD - AI Tweaks.esp
+	[FE:090] M8rDisablePipboyEffects.esp
+	[FE:091] RutahTattooPack_FO4.esp
+	[FE:092] Dank_ECO-INNR.esp
+	[FE:093] FIS-Naming-Weap-Armo-EN.esp
+	[FE:094] NACX-Realistic Wind Patch.esp
+	[FE:095] Cinematographic fog effect - Heavy.esp
+	[FE:096] CROSS_CryoLance.esp
+	[FE:097] AzarPonytailHairstyles.esp
+	[FE:098] Lots More Facial Hair.esp
+	[FE:099] Lots More Male Hairstyles.esp
+	[FE:09A] Physics Sound Overhaul.esp
+	[FE:09B] PMC_extended.esp
+	[FE:09C] ParkCoventry.esp
+	[FE:09D] OpsCoreFASTHelmet.esp
+	[FE:09E] MWR_SAS.esp
+	[FE:09F] TacticalHuman.esp
+	[FE:0A0] K9TacticalHarness.esp
+	[FE:0A1] Gunner_Operator.esp
+	[FE:0A2] US_Rangers.esp
+	[FE:0A3] Stimpaks help you breathe.esp
+	[FE:0A4] RussianStimpack.esp
+	[FE:0A5] AWKCR - Mod Power Armor Engine Glitch Fix.esp
+	[FE:0A6] SuperMutantRedux_ArmorSmithExtended.esp
+	[FE:0A7] Zenit_TacticalReloadPatch.esp
+	[FE:0A8] StartMeUpShaunDefaultAppearance.esp
+	[FE:0A9] EV_CPA10_LL.esp
+	[FE:0AA] BetterCasingEjection.esp
+	[FE:0AB] SS2_XDI Patch.esp
+	[FE:0AC] Winters_Taq-56_LL.esp
+	[FE:0AD] Winters_Taq-56_TR.esp
+	[FE:0AE] Straw_Pinups.esp
+	[FE:0AF] WeaponWallRacks.esp
+	[FE:0B0] VerySmallGenerators100.esp
+	[FE:0B1] Ozzys Kilo-141 TR Patch.esp
+	[FE:0B2] QCQ171_TacticalReloadPatch.esp
+	[FE:0B3] APC9_LeveledListPatch.esp
+	[FE:0B4] APC9_TacticalReloadPatch.esp
+	[FE:0B5] Alternative Satellite World Maps.esp
+	[FE:0B6] real.AI - Untethered.esp
+	[FE:0B7] QBZ191_TR_patch.esp
+	[FE:0B8] QBZ191_YLArms_Pack.esp
+	[FE:0B9] FATE Patch - Better Locational Damage.esp
+	[FE:0BA] Chemfluence AI Combat Dynamics.esp
+	[FE:0BB] Faster Stations.esp
+	[FE:0BC] 00LK_MW_Explosions.esp
+	[FE:0BD] ADS Sound Tarvov.esp
+	[FE:0BE] [ETH] TFS EquipSounds.esp
+	[FE:0BF] Dank_ECO_DLCCoast.esp
+	[FE:0C0] Dank_ECO_DLCNukaWorld.esp
+	[FE:0C1] Dank_ECO_DLCRobot.esp
+	[FE:0C2] FATE Patch - Start Me Up Redux.esp
+	[FE:0C3] Pip-Boy Flashlight.esp

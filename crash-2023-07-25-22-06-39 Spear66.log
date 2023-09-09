@@ -956,22 +956,22 @@ F4SE PLUGINS:
 	wsfw_identifier.dll
 
 PLUGINS:
-	[ 0]     Fallout4.esm
-	[ 1]     DLCRobot.esm
-	[ 2]     DLCworkshop01.esm
-	[ 3]     DLCCoast.esm
-	[ 4]     DLCworkshop02.esm
-	[ 5]     DLCworkshop03.esm
-	[ 6]     DLCNukaWorld.esm
-	[ 7]     Unofficial Fallout 4 Patch.esp
-	[ 8]     WorkshopFramework.esm
-	[ 9]     ArmorKeywords.esm
-	[ A]     HUDFramework.esm
-	[ B]     SS2.esm
-	[ C]     SS2_XPAC_Chapter2.esm
-	[ D]     Companion Infinite Ammo and Unbreakable Power Armour.esm
-	[ E]     Overlays.esm
-	[ F]     Insignificant Object Remover.esp
+	[00]     Fallout4.esm
+	[01]     DLCRobot.esm
+	[02]     DLCworkshop01.esm
+	[03]     DLCCoast.esm
+	[04]     DLCworkshop02.esm
+	[05]     DLCworkshop03.esm
+	[06]     DLCNukaWorld.esm
+	[07]     Unofficial Fallout 4 Patch.esp
+	[08]     WorkshopFramework.esm
+	[09]     ArmorKeywords.esm
+	[0A]     HUDFramework.esm
+	[0B]     SS2.esm
+	[0C]     SS2_XPAC_Chapter2.esm
+	[0D]     Companion Infinite Ammo and Unbreakable Power Armour.esm
+	[0E]     Overlays.esm
+	[0F]     Insignificant Object Remover.esp
 	[10]     Armorsmith Extended.esp
 	[11]     Phase4DLC.esp
 	[12]     Unique NPCs.esp
@@ -1014,47 +1014,47 @@ PLUGINS:
 	[37]     StartMeUpNukaWorldPatch.esp
 	[38]     EFF.esp
 	[39]     BostonFPSFixAIO.esp
-	[FE:  0] Cafe88JamaicaPlains.esl
-	[FE:  1] MechaTown_CityPlan_MechanistLair.esl
-	[FE:  2] FAR.esp
-	[FE:  3] Better Locational Damage - DLC_Far_Harbor.esp
-	[FE:  4] BLD - Leveled Lists - DLC.esp
-	[FE:  5] SS2_RobotMod.esp
-	[FE:  6] Better Locational Damage - DLC_Automatron.esp
-	[FE:  7] more realistic headshots - far harbor.esp
-	[FE:  8] AWKCR - Last Resort CTD FIX.esp
-	[FE:  9] WBO.esp
-	[FE:  A] WBO-FunctionalDisplays-Weapons.esp
-	[FE:  B] StartMeUpShaunDefaultAppearance.esp
-	[FE:  C] FunctionalDisplays-AID-Vanilla.esp
-	[FE:  D] combatriflev2.esp
-	[FE:  E] more realistic headshots - automatron.esp
-	[FE:  F] weightless junk.esp
-	[FE: 10] AzarPonytailHairstyles.esp
-	[FE: 11] more realistic headshots.esp
-	[FE: 12] Unique NPCs FarHarbor.esp
-	[FE: 13] CompRedo.esp
-	[FE: 14] BLD - AI Tweaks.esp
-	[FE: 15] CBBE.esp
-	[FE: 16] UniqueFollowers.esp
-	[FE: 17] lovingcurie.esp
-	[FE: 18] LovingCait.esp
-	[FE: 19] FunctionalDisplays-Collectibles.esp
-	[FE: 1A] FunctionalDisplays-MISC-Vanilla.esp
-	[FE: 1B] FunctionalDisplays-Patch-DLC-ALL.esp
-	[FE: 1C] HuntingRifleSounds.esp
-	[FE: 1D] LooksMenu.esp
-	[FE: 1E] LovingCurie_1.0.3b.esp
-	[FE: 1F] MA5RiflePatch.esp
-	[FE: 20] dd-enhanced blood basic.esp
-	[FE: 21] betterexplosions.esp
-	[FE: 22] BSCRightHandedHuntingRifle.esp
-	[FE: 23] Motoko Hair.esp
-	[FE: 24] RichMerchants.esp
-	[FE: 25] WBO-Ornamental Weapons.esp
-	[FE: 26] snipertrail.esp
-	[FE: 27] WES-AE.esp
-	[FE: 28] Better Perks.esp
-	[FE: 29] ninja and sandman rebalance.esp
-	[FE: 2A] Better Locational Damage - DLC_Nuka_World.esp
-	[FE: 2B] Better Locational Damage - DLC_WWorkshop.esp
+	[FE:000] Cafe88JamaicaPlains.esl
+	[FE:001] MechaTown_CityPlan_MechanistLair.esl
+	[FE:002] FAR.esp
+	[FE:003] Better Locational Damage - DLC_Far_Harbor.esp
+	[FE:004] BLD - Leveled Lists - DLC.esp
+	[FE:005] SS2_RobotMod.esp
+	[FE:006] Better Locational Damage - DLC_Automatron.esp
+	[FE:007] more realistic headshots - far harbor.esp
+	[FE:008] AWKCR - Last Resort CTD FIX.esp
+	[FE:009] WBO.esp
+	[FE:00A] WBO-FunctionalDisplays-Weapons.esp
+	[FE:00B] StartMeUpShaunDefaultAppearance.esp
+	[FE:00C] FunctionalDisplays-AID-Vanilla.esp
+	[FE:00D] combatriflev2.esp
+	[FE:00E] more realistic headshots - automatron.esp
+	[FE:00F] weightless junk.esp
+	[FE:010] AzarPonytailHairstyles.esp
+	[FE:011] more realistic headshots.esp
+	[FE:012] Unique NPCs FarHarbor.esp
+	[FE:013] CompRedo.esp
+	[FE:014] BLD - AI Tweaks.esp
+	[FE:015] CBBE.esp
+	[FE:016] UniqueFollowers.esp
+	[FE:017] lovingcurie.esp
+	[FE:018] LovingCait.esp
+	[FE:019] FunctionalDisplays-Collectibles.esp
+	[FE:01A] FunctionalDisplays-MISC-Vanilla.esp
+	[FE:01B] FunctionalDisplays-Patch-DLC-ALL.esp
+	[FE:01C] HuntingRifleSounds.esp
+	[FE:01D] LooksMenu.esp
+	[FE:01E] LovingCurie_1.0.3b.esp
+	[FE:01F] MA5RiflePatch.esp
+	[FE:020] dd-enhanced blood basic.esp
+	[FE:021] betterexplosions.esp
+	[FE:022] BSCRightHandedHuntingRifle.esp
+	[FE:023] Motoko Hair.esp
+	[FE:024] RichMerchants.esp
+	[FE:025] WBO-Ornamental Weapons.esp
+	[FE:026] snipertrail.esp
+	[FE:027] WES-AE.esp
+	[FE:028] Better Perks.esp
+	[FE:029] ninja and sandman rebalance.esp
+	[FE:02A] Better Locational Damage - DLC_Nuka_World.esp
+	[FE:02B] Better Locational Damage - DLC_WWorkshop.esp

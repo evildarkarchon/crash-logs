@@ -586,7 +586,7 @@ PLUGINS:
 	[5E]     SS2WastelandVenturers.esp
 	[5F]     SS2_SIMPDDDD.esp
 	[60]     AtomsGloryThreads.esp
-	[61]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[61]     [SS20Addon] SimSettlements SuperStructures.esp
 	[62]     ohSIM_Sim2_Settlements_Scrappers_Addon.esp
 	[63]     SS2-Jampads2.esp
 	[64]     SS2-PraRandomAddon.esp
@@ -1210,7 +1210,7 @@ PLUGINS:
 	[FE:1EB] EraserLL.esp
 	[FE:1EC] Vault-Tec Armor Redux - Modular Expansion & Fixes.esp
 	[FE:1ED] MGRemesh.esp
-	[FE:1EE] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:1EE] [SS20Addon] BloodMoonRaiders.esp
 	[FE:1EF] Nuka Ants In The Commonwealth.esp
 	[FE:1F0] Creation Club Neon Flats Unofficial Fallout 4 Patch Fixes.esp
 	[FE:1F1] Pip-Boy CC Fix.esp

@@ -771,7 +771,7 @@ PLUGINS:
 	[45]     LeeEnfieldNo4MkI.esp
 	[46]     0_Vault120.esp
 	[47]     BetaWaveHarmonica.esp
-	[48]     [SS2 Addon] SimSettlements SuperStructures.esp
+	[48]     [SS20Addon] SimSettlements SuperStructures.esp
 	[49]     ElMudoStore.esp
 	[4A]     GtN_SettlersatPlay.esp
 	[4B]     Cho1-SS2-Cosmosplot.esp
@@ -1067,7 +1067,7 @@ PLUGINS:
 	[FE:0CE] Ultimate HD Flag Replacer - Redux.esp
 	[FE:0CF] MS SPECIAL Zapper.esp
 	[FE:0D0] Lightweight Lighting.esp
-	[FE:0D1] [SS2 Addon] BloodMoonRaiders.esp
+	[FE:0D1] [SS20Addon] BloodMoonRaiders.esp
 	[FE:0D2] [SS2] BBVault 88.esp
 	[FE:0D3] GtN_DivisionCityPlan_CPC_03.23.esp
 	[FE:0D4] JunkTown-FENCES2.esp

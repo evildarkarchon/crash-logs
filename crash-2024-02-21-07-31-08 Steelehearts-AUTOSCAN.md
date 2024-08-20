@@ -30,7 +30,8 @@ CHECKING IF NECESSARY FILES/SETTINGS ARE CORRECT...
  FIX: Open Buffout 4's TOML file and change Achievements to FALSE, this prevents conflicts with Buffout 4.
 -----
 # ❌ CAUTION : The Baka ScrapHeap Mod is installed, but MemoryManager parameter is set to TRUE # 
- FIX: Open Buffout 4's TOML file and change MemoryManager to FALSE, this prevents conflicts with Buffout 4.
+ FIX: Remove Baka Scrapheap as Buffout 4's memory manager is more sophisticated.
+ ALTERNATE FIX: Open Buffout 4's TOML file and change MemoryManager to FALSE.
 -----
 ❌ FCX Mode is disabled, skipping game files check... 
 -----
